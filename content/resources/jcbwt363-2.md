@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ec81c6dc773372278908bcb93e3e428d_jcbwt363.jar
+file_type: application/java-archive
+resourcetype: Other
+title: jcbwt363.jar
+uid: ec81c6dc-7733-7227-8908-bcb93e3e428d
+---

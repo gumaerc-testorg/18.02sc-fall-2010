@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information related to velocity, speed and arc
   length.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ef470e8dbb5076a408d8af686bce3711_MIT18_02SC_notes_12.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/ef470e8dbb5076a408d8af686bce3711_MIT18_02SC_notes_12.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 20: Velocity and Arc Length'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_notes_12.pdf
 uid: ef470e8d-bb50-76a4-08d8-af686bce3711

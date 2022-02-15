@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Matrices and Systems of Equations'
+parent_type: CourseSection
 parent_uid: 5785559c-ca75-4f05-db71-1c0de8a26bc4
 title: Problem Set 2
 uid: 1dab78ab-62e5-cbc6-911a-6f4dda3a0c86

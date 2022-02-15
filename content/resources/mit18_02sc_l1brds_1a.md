@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5dd4d461a4f3e03f33c3b4792d4ce789_MIT18_02SC_L1Brds_1a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/5dd4d461a4f3e03f33c3b4792d4ce789_MIT18_02SC_L1Brds_1a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Part A: Vectors, Determinants and Planes'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L1Brds_1a.png
 uid: 5dd4d461-a4f3-e03f-33c3-b4792d4ce789

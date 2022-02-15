@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Line Integrals and Stokes'' Theorem'
+parent_type: CourseSection
 parent_uid: 55dd3380-3633-2e8c-fa42-36beffad3294
 title: 'Session 91: Stokes'' Theorem'
 uid: 369a5a9d-53f8-ab4d-a9f4-78cd9a5ab7c7

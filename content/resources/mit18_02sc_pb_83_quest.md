@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding flux through a paraboloid.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/bab1baf129226891079d2662ec0c2a8a_MIT18_02SC_pb_83_quest.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/bab1baf129226891079d2662ec0c2a8a_MIT18_02SC_pb_83_quest.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 83: Other Ways to Find ndS'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems : Problems: Flux Through a Paraboloid'
 uid: bab1baf1-2922-6891-079d-2662ec0c2a8a

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Lagrange Multipliers and Constrained Differentials'
+parent_type: CourseSection
 parent_uid: c2b5d174-7730-9fb5-372b-d98ef12fed7d
 title: 'Session 42: Constrained Differentials'
 uid: 189d8c48-a287-41d4-f72b-8613f8e35c61

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Lagrange Multipliers and Constrained Differentials'
+parent_type: CourseSection
 parent_uid: c2b5d174-7730-9fb5-372b-d98ef12fed7d
 title: 'Session 41: Advanced Example'
 uid: 9ebd1d32-024e-0a86-8958-b6ad334b76ad

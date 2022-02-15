@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f5e16de91b38f1c497df399edf1e8bb7_MIT18_02SC_L17Brds_11a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/f5e16de91b38f1c497df399edf1e8bb7_MIT18_02SC_L17Brds_11a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 52: Applications: Moment of Inertia'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L17Brds_11a.png
 uid: f5e16de9-1b38-f1c4-97df-399edf1e8bb7

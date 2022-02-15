@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8ff1a3802be7317df88497d252db2c88_MIT18_02SC_L15Brds_14.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/8ff1a3802be7317df88497d252db2c88_MIT18_02SC_L15Brds_14.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 45: Review of Topics'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L15Brds_14.png
 uid: 8ff1a380-2be7-317d-f884-97d252db2c88

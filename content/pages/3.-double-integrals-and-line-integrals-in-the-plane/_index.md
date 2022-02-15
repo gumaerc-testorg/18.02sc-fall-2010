@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 3. Double Integrals and Line Integrals in the Plane
 uid: e20c7287-dbfb-8ff8-c5a6-75c132a454cc
 ---

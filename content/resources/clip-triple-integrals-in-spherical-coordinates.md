@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 77: Triple Integrals in Spherical Coordinates'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Triple Integrals in Spherical Coordinates'
 uid: cc6ee3a8-4e00-9a39-ab07-a29b5f422b52

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 54: Example: Polar Coordinates'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Polar Coordinates'
 uid: a9bead07-723d-ec86-c5ff-972ccf7ad980

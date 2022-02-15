@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Vector Fields and Line Integrals'
+parent_type: CourseSection
 parent_uid: 14558d9f-4e08-d12a-4191-54f3c8100c75
 title: 'Session 64: Curl'
 uid: 13adb394-0267-51e6-b83b-43c03adb8511

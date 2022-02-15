@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exam 2
+parent_type: CourseSection
 parent_uid: 846864c2-281f-9104-4786-c16555ecc0bf
 title: 'Session 46: Review of Problems'
 uid: 124f122c-8dbc-a15b-7cce-7a35d5ef6c76

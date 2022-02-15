@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3. Double Integrals and Line Integrals in the Plane
+parent_type: CourseSection
 parent_uid: e20c7287-dbfb-8ff8-c5a6-75c132a454cc
 title: 'Part B: Vector Fields and Line Integrals'
 uid: 14558d9f-4e08-d12a-4191-54f3c8100c75

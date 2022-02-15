@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/807c1bf335837bf92991fb6c02ec31cb_MIT18_02SC_L12Brds_16a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/807c1bf335837bf92991fb6c02ec31cb_MIT18_02SC_L12Brds_16a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 38: Directional Derivatives'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L12Brds_16a.png
 uid: 807c1bf3-3583-7bf9-2991-fb6c02ec31cb

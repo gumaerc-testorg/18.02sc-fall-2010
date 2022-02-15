@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related t o dot product.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6082f2744b609da87e23f3d8feed0565_MIT18_02SC_notes_1.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/6082f2744b609da87e23f3d8feed0565_MIT18_02SC_notes_1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 2: Dot Products'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_notes_1.pdf
 uid: 6082f274-4b60-9da8-7e23-f3d8feed0565

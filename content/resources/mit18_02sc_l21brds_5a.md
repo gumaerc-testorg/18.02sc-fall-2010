@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/05e6044403e3f29640e29862d95453e6_MIT18_02SC_L21Brds_5a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/05e6044403e3f29640e29862d95453e6_MIT18_02SC_L21Brds_5a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 62: Gradient Fields'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L21Brds_5a.png
 uid: 05e60444-03e3-f296-40e2-9862d95453e6

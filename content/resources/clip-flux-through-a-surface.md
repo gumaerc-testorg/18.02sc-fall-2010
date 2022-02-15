@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 80: Flux Through a Surface'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Flux Through a Surface'
 uid: 8f97d6d9-e91c-37b2-3a2e-74c9f929547a

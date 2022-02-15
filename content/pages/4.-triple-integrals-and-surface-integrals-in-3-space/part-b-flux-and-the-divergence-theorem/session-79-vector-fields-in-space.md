@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Flux and the Divergence Theorem'
+parent_type: CourseSection
 parent_uid: 2afdabb0-a4ac-ff04-2357-fe33b02c43c3
 title: 'Session 79: Vector Fields in Space'
 uid: cb1f2e44-229f-3ba5-0543-b58ec8cc851e

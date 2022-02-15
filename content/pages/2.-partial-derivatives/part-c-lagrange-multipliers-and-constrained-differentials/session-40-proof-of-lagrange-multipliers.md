@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Lagrange Multipliers and Constrained Differentials'
+parent_type: CourseSection
 parent_uid: c2b5d174-7730-9fb5-372b-d98ef12fed7d
 title: 'Session 40: Proof of Lagrange Multipliers'
 uid: 211a985b-a1cd-42a3-ab78-a18bc42ff996

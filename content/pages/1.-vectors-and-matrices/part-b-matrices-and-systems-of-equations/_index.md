@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1. Vectors and Matrices
+parent_type: CourseSection
 parent_uid: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
 title: 'Part B: Matrices and Systems of Equations'
 uid: 5785559c-ca75-4f05-db71-1c0de8a26bc4

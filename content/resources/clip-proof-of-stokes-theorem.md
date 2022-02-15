@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 92: Proof of Stokes'' Theorem'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Proof of Stokes'' Theorem'
 uid: a6b3565b-6a3a-e531-4fcf-5371ffd6eeac

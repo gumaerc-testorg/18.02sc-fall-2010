@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Double Integrals'
+parent_type: CourseSection
 parent_uid: 9fa9495f-e35f-5fa9-506b-b63e2d42812f
 title: 'Session 48: Examples of Double Integration'
 uid: 3ad46114-9d5e-6097-2563-36b54cf159d4

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/64575910dfd6b1b4b0fec79d1fd22bde_MIT18_02SC_L21Brds_18a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/64575910dfd6b1b4b0fec79d1fd22bde_MIT18_02SC_L21Brds_18a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 64: Curl'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L21Brds_18a.png
 uid: 64575910-dfd6-b1b4-b0fe-c79d1fd22bde

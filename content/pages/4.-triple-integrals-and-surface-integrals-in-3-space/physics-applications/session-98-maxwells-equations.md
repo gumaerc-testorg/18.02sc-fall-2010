@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Physics Applications
+parent_type: CourseSection
 parent_uid: e4a6d671-1614-af40-73c1-a224e90fc6b0
 title: 'Session 98: Maxwell''s Equations'
 uid: 61a1ca32-dff9-6477-6203-bdd2b30e1875

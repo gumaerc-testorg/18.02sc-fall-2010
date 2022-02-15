@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Double Integrals'
+parent_type: CourseSection
 parent_uid: 9fa9495f-e35f-5fa9-506b-b63e2d42812f
 title: 'Session 55: Example'
 uid: 9d0e3d8a-0846-d1b8-71f4-f3c5171f3b33

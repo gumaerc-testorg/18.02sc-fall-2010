@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1. Vectors and Matrices
+parent_type: CourseSection
 parent_uid: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
 title: 'Part C: Parametric Equations for Curves'
 uid: 6f575227-d303-8c11-3827-c5c3b8aaf897

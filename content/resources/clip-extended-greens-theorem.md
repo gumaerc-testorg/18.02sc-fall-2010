@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 71: Extended Green''s Theorem: Boundaries with Multiple Pieces'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Extended Green''s Theorem'
 uid: e591b229-b09d-3f28-463e-ffbaf38a5507

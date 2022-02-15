@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding chain rule practice.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/534e4132c0234c2ac9517f5feb0b84dd_MIT18_02SC_pb_40_quest.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/534e4132c0234c2ac9517f5feb0b84dd_MIT18_02SC_pb_40_quest.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 34: The Chain Rule with More Variables'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems : Problems: Chain Rule Practice'
 uid: 534e4132-c023-4c2a-c951-7f5feb0b84dd

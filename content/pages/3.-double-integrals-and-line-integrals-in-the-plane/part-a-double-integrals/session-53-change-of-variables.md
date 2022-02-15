@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Double Integrals'
+parent_type: CourseSection
 parent_uid: 9fa9495f-e35f-5fa9-506b-b63e2d42812f
 title: 'Session 53: Change of Variables'
 uid: efa093dc-347f-d4af-527f-1b857bb14f2c

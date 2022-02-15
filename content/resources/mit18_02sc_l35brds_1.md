@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4cc292abe68188e18c13822e7010e289_MIT18_02SC_L35Brds_1.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/4cc292abe68188e18c13822e7010e289_MIT18_02SC_L35Brds_1.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 101: Unit 3 Review'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L35Brds_1.png
 uid: 4cc292ab-e681-88e1-8c13-822e7010e289

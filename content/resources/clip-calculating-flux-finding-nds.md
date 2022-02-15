@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 81: Calculating Flux; Finding ndS'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Calculating Flux, Finding ndS'
 uid: 1530f4c6-fa21-a88c-abf9-c78edf103946

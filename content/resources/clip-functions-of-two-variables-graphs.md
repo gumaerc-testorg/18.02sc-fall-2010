@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 24: Functions of Two Variables: Graphs'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Functions of Two Variables: Graphs'
 uid: ce571812-3585-46c6-d40b-fd4291354f4e

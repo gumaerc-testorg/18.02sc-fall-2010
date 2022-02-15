@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding regions of integration.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5dc8551962fec09ae8a45c774a506d47_MIT18_02SC_pb_48_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/5dc8551962fec09ae8a45c774a506d47_MIT18_02SC_pb_48_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 48: Examples of Double Integration'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Regions of Integration'
 uid: 5dc85519-62fe-c09a-e8a4-5c774a506d47

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 100: Unit 2 Review'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Functions of 2 Variables, Partial Derivatives'
 uid: 5d64aa12-1c8f-c98f-98e7-06e5fda7083b

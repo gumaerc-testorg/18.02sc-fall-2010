@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations for Curves'
+parent_type: CourseSection
 parent_uid: 6f575227-d303-8c11-3827-c5c3b8aaf897
 title: Problem Set 3
 uid: ca6eee8c-85b2-a8fd-9dc9-ca5e769b73b9

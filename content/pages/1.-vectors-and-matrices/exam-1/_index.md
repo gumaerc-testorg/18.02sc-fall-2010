@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1. Vectors and Matrices
+parent_type: CourseSection
 parent_uid: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
 title: Exam 1
 uid: 7afcc16e-1e66-9d99-4325-103cb87d25c3

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/677ef665e0d3b66367789d307c6690ff_MIT18_02SC_L6Brds_1.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/677ef665e0d3b66367789d307c6690ff_MIT18_02SC_L6Brds_1.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 19: Velocity and Acceleration'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L6Brds_1.png
 uid: 677ef665-e0d3-b663-6778-9d307c6690ff

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Triple Integrals'
+parent_type: CourseSection
 parent_uid: fae04710-1871-2678-ad1b-80e80246916a
 title: 'Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates'
 uid: 6369fc2c-0ed6-73b1-973b-a7af526cb70d

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/fda6aab228e8446a78b1ed8dc8b89519_MIT18_02SC_L25Brds_6.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/fda6aab228e8446a78b1ed8dc8b89519_MIT18_02SC_L25Brds_6.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L25Brds_6.png
 uid: fda6aab2-28e8-446a-78b1-ed8dc8b89519

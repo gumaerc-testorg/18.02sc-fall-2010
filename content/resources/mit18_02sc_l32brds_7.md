@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/983c93e0e71d8abee1434d8194c80e00_MIT18_02SC_L32Brds_7.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/983c93e0e71d8abee1434d8194c80e00_MIT18_02SC_L32Brds_7.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 95: Stokes'' Theorem and Surface Independence'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L32Brds_7.png
 uid: 983c93e0-e71d-8abe-e143-4d8194c80e00

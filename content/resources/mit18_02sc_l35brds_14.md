@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/7aa8e6e8f1e8514e17cd568305c90375_MIT18_02SC_L35Brds_14.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/7aa8e6e8f1e8514e17cd568305c90375_MIT18_02SC_L35Brds_14.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 102: Unit 4 Review'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L35Brds_14.png
 uid: 7aa8e6e8-f1e8-514e-17cd-568305c90375

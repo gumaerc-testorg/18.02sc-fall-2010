@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations for Curves'
+parent_type: CourseSection
 parent_uid: 6f575227-d303-8c11-3827-c5c3b8aaf897
 title: 'Session 18: Point (Cusp) on Cycloid'
 uid: 77d5c5f1-c564-ebd6-027c-3128c160dcb3

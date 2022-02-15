@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to second derivatives.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/11309a01a4084b35a3f2e5f375f76887_MIT18_02SC_pb_29_quest.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/11309a01a4084b35a3f2e5f375f76887_MIT18_02SC_pb_29_quest.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 30: Second Derivative Test'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_pb_29_quest.pdf
 uid: 11309a01-a408-4b35-a3f2-e5f375f76887

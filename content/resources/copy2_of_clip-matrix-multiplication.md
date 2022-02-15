@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: '.Session 9: Matrix Multiplication'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Matrix Multiplication'
 uid: 4ff368a3-648c-ff1f-0438-89b0f9ad97cb

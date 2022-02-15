@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/7c46d4d2f4e37b0eb7b856be0c77f771_MIT18_02SC_L9Brds_2.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/7c46d4d2f4e37b0eb7b856be0c77f771_MIT18_02SC_L9Brds_2.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 27: Approximation Formula'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L9Brds_2.png
 uid: 7c46d4d2-f4e3-7b0e-b7b8-56be0c77f771

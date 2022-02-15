@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exam 3
+parent_type: CourseSection
 parent_uid: e79da896-ae6c-7889-8c52-c2803214c68e
 title: 'Session 73: Exam Review'
 uid: d286d8f1-d8ac-d0b2-0d8e-58a9967f8be9

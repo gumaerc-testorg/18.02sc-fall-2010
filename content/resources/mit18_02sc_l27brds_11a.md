@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6be820b7ec751e5770519a5b9c663c08_MIT18_02SC_L27Brds_11a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/6be820b7ec751e5770519a5b9c663c08_MIT18_02SC_L27Brds_11a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 81: Calculating Flux; Finding ndS'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L27Brds_11a.png
 uid: 6be820b7-ec75-1e57-7051-9a5b9c663c08

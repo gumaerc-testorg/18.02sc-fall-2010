@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a9cec6245c463e56633dcd2496047bbc_MIT18_02SC_L27Brds_1a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a9cec6245c463e56633dcd2496047bbc_MIT18_02SC_L27Brds_1a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 79: Vector Fields in Space'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L27Brds_1a.png
 uid: a9cec624-5c46-3e56-633d-cd2496047bbc

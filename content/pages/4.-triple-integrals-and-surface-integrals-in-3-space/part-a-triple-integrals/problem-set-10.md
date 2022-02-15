@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Triple Integrals'
+parent_type: CourseSection
 parent_uid: fae04710-1871-2678-ad1b-80e80246916a
 title: Problem Set 10
 uid: fe00dce8-98b5-79f5-334d-838fe30030bb

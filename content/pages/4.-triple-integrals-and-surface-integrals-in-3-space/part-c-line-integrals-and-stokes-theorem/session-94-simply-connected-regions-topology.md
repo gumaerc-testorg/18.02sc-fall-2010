@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Line Integrals and Stokes'' Theorem'
+parent_type: CourseSection
 parent_uid: 55dd3380-3633-2e8c-fa42-36beffad3294
 title: 'Session 94: Simply Connected Regions; Topology'
 uid: 9da45f78-5868-f3ae-fcb2-c3ec1ad5293e

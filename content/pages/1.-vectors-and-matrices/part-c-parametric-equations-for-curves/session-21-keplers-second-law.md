@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations for Curves'
+parent_type: CourseSection
 parent_uid: 6f575227-d303-8c11-3827-c5c3b8aaf897
 title: 'Session 21: Kepler''s Second Law'
 uid: 8c2c314c-7639-2934-4855-b23ce9880749

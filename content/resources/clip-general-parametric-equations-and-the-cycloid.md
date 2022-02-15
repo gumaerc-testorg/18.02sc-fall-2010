@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 17: General Parametric Equations; the Cycloid'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: General Parametric Equations and the Cycloid'
 uid: 273e6dac-19a4-c239-9593-f0ae9ef0525f

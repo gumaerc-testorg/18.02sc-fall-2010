@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 102: Unit 4 Review'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Stokes, Green''s, Divergence Theorems'
 uid: 2950d638-98c4-bce9-d772-59563d4aa220

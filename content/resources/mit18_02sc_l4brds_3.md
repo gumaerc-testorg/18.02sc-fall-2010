@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/253a902e406ab971870b704d042efc92_MIT18_02SC_L4Brds_3.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/253a902e406ab971870b704d042efc92_MIT18_02SC_L4Brds_3.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 12: Equations of Planes II'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L4Brds_3.png
 uid: 253a902e-406a-b971-870b-704d042efc92

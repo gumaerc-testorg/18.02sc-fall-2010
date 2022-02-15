@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Flux and the Divergence Theorem'
+parent_type: CourseSection
 parent_uid: 2afdabb0-a4ac-ff04-2357-fe33b02c43c3
 title: 'Session 81: Calculating Flux; Finding ndS'
 uid: 0dbd561e-4c4f-ace8-7b1a-fcf29eb32c91

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations for Curves'
+parent_type: CourseSection
 parent_uid: 6f575227-d303-8c11-3827-c5c3b8aaf897
 title: 'Session 16: Intersection of a Line and a Plane'
 uid: d48352f4-17dc-b010-c0a5-ce62f99b2e0a

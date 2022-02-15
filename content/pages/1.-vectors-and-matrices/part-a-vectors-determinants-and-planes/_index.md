@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1. Vectors and Matrices
+parent_type: CourseSection
 parent_uid: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
 title: 'Part A: Vectors, Determinants and Planes'
 uid: 5ec6e19f-f0b0-98e4-0ec6-5f8bcf898f57

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 40: Proof of Lagrange Multipliers'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Proof of Lagrange Multipliers'
 uid: 79905b41-ac51-b1f8-280c-242e0f1c9e13

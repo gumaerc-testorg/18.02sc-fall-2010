@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding harmonic functions and averages.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ce9a5e77be429010ae34c7355f9a0c54_MIT18_02SC_pb_87_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/ce9a5e77be429010ae34c7355f9a0c54_MIT18_02SC_pb_87_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 87: Diffusion Equation'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Harmonic Functions and Averages'
 uid: ce9a5e77-be42-9010-ae34-c7355f9a0c54

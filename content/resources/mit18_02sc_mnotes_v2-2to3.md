@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to potential function.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/70f8f44ba6127dec10b5763fbbddd7f2_MIT18_02SC_MNotes_v2.2to3.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/70f8f44ba6127dec10b5763fbbddd7f2_MIT18_02SC_MNotes_v2.2to3.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 63: Potential Functions'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_MNotes_v2.2to3.pdf
 uid: 70f8f44b-a612-7dec-10b5-763fbbddd7f2

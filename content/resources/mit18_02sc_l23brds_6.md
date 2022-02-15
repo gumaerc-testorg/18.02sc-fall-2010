@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/adc58a07fdaa6bce9217591a0ffc1199_MIT18_02SC_L23Brds_6.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/adc58a07fdaa6bce9217591a0ffc1199_MIT18_02SC_L23Brds_6.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 69: Flux in 2D'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L23Brds_6.png
 uid: adc58a07-fdaa-6bce-9217-591a0ffc1199

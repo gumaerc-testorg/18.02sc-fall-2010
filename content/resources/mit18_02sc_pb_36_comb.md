@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This resource contains problems and solutions for double integration
   in polar coordinates. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/06f13867c21c1e94e825a0d0a95ff846_MIT18_02SC_pb_36_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/06f13867c21c1e94e825a0d0a95ff846_MIT18_02SC_pb_36_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 50: Double Integrals in Polar Coordinates'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_pb_36_comb.pdf
 uid: 06f13867-c21c-1e94-e825-a0d0a95ff846

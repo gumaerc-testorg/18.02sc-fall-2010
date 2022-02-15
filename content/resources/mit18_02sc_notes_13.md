@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to functions of two variables.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/68e54de412d9ab63d40838c414467472_MIT18_02SC_notes_13.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/68e54de412d9ab63d40838c414467472_MIT18_02SC_notes_13.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 24: Functions of Two Variables: Graphs'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_notes_13.pdf
 uid: 68e54de4-12d9-ab63-d408-38c414467472

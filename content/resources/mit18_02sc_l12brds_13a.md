@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/01ba9e09c511ef90ddb622c78e197bc1_MIT18_02SC_L12Brds_13a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/01ba9e09c511ef90ddb622c78e197bc1_MIT18_02SC_L12Brds_13a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 37: Example'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L12Brds_13a.png
 uid: 01ba9e09-c511-ef90-ddb6-22c78e197bc1

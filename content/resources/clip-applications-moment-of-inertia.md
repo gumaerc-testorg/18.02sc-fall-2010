@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 52: Applications: Moment of Inertia'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Applications: Moment of Inertia'
 uid: 76e34d51-5cd6-74c3-8db9-d76e7e7c64ef

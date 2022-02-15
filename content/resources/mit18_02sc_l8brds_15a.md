@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a882dacf4daa9906e3d05d598e2a78a4_MIT18_02SC_L8Brds_15a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a882dacf4daa9906e3d05d598e2a78a4_MIT18_02SC_L8Brds_15a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 26: Partial Derivatives'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L8Brds_15a.png
 uid: a882dacf-4daa-9906-e3d0-5d598e2a78a4

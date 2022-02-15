@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Matrices and Systems of Equations'
+parent_type: CourseSection
 parent_uid: 5785559c-ca75-4f05-db71-1c0de8a26bc4
 title: 'Session 14: Solutions to Square Systems'
 uid: 7d94f07b-8bc7-0601-a943-1aa48d6b4518

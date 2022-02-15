@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains problem statements and solutions related to general
   parametric equations and the cycloid.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/75129f4f72e0e349f26a10ff17c9fcb2_MIT18_02SC_pb_19_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/75129f4f72e0e349f26a10ff17c9fcb2_MIT18_02SC_pb_19_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 17: General Parametric Equations; the Cycloid'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_pb_19_comb.pdf
 uid: 75129f4f-72e0-e349-f26a-10ff17c9fcb2

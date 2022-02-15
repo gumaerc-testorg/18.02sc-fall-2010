@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Matrices and Systems of Equations'
+parent_type: CourseSection
 parent_uid: 5785559c-ca75-4f05-db71-1c0de8a26bc4
 title: 'Session 13: Linear Systems and Planes'
 uid: 6362fcf6-7aa8-fa07-ec5a-3312c93ef17d

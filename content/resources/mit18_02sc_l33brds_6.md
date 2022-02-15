@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/669af3fa6ae823425fa3acbab984457f_MIT18_02SC_L33Brds_6.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/669af3fa6ae823425fa3acbab984457f_MIT18_02SC_L33Brds_6.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 98: Maxwell''s Equations'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L33Brds_6.png
 uid: 669af3fa-6ae8-2342-5fa3-acbab984457f

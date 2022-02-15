@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/210f130e690c3177d2bb39fb5bd70187_YmAMEi-Faz8.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/210f130e690c3177d2bb39fb5bd70187_YmAMEi-Faz8.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 210f130e-690c-3177-d2bb-39fb5bd70187

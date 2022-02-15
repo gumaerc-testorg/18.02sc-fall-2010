@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c8b5c8e70b9b18aeddfa5049d2ffd453_MIT18_02SC_L28Brds_10.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/c8b5c8e70b9b18aeddfa5049d2ffd453_MIT18_02SC_L28Brds_10.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 83: Other Ways to Find ndS'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L28Brds_10.png
 uid: c8b5c8e7-0b9b-18ae-ddfa-5049d2ffd453

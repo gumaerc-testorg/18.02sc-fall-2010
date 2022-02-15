@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding green's theorem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/59fb2f923d69af75de31049ce5e98dad_MIT18_02SC_pb_65_quest.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/59fb2f923d69af75de31049ce5e98dad_MIT18_02SC_pb_65_quest.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 65: Green''s Theorem'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems : Using Green''s Theorem'
 uid: 59fb2f92-3d69-af75-de31-049ce5e98dad

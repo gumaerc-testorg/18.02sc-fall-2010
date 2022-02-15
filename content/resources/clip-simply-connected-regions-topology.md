@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 94: Simply Connected Regions; Topology'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Simply Connected Regions, Topology'
 uid: 3d5272f2-2d98-08e7-8055-7748a3608345

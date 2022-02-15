@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 68: Planimeter: Green''s Theorem and Area'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Planimeter: Green''s Theorem and Area'
 uid: fe239332-be95-0ed4-6b46-67a30d855ded

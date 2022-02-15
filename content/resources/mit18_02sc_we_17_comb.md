@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This resource contains information related to tangent plane to a level
   surface. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5ac021982a142a1524d3200d2659fe57_MIT18_02SC_we_17_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/5ac021982a142a1524d3200d2659fe57_MIT18_02SC_we_17_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 37: Example'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_we_17_comb.pdf
 uid: 5ac02198-2a14-2a15-24d3-200d2659fe57

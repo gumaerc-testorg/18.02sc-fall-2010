@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6c1201c75a7474853a06de46be8904e1_MIT18_02SC_L30Brds_15a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/6c1201c75a7474853a06de46be8904e1_MIT18_02SC_L30Brds_15a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 89: Gradient Fields and Potential Functions'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L30Brds_15a.png
 uid: 6c1201c7-5a74-7485-3a06-de46be8904e1

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exam 1
+parent_type: CourseSection
 parent_uid: 7afcc16e-1e66-9d99-4325-103cb87d25c3
 title: 'Session 23: Review of Problems'
 uid: 7095650b-914e-4168-0d64-df9d74e9ffb8

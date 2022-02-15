@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 39: Statement of Lagrange Multipliers and Example'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Lagrange Multipliers by Example'
 uid: d1654000-46a9-a04c-e848-e9045dec4876

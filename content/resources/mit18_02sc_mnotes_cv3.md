@@ -2,8 +2,12 @@
 content_type: resource
 description: "This resource contains information related to changing variables in\
   \ multiple integrals. \r\n\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/19b2302794abe47e60c51e6a7537eef9_MIT18_02SC_MNotes_cv3.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/19b2302794abe47e60c51e6a7537eef9_MIT18_02SC_MNotes_cv3.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 55: Example'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_MNotes_cv3.pdf
 uid: 19b23027-94ab-e47e-60c5-1e6a7537eef9

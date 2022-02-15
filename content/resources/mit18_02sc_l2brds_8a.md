@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4be6c6e8e33022bb16899bd070541b20_MIT18_02SC_L2Brds_8a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/4be6c6e8e33022bb16899bd070541b20_MIT18_02SC_L2Brds_8a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 6: Volumes and Determinants in Space'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L2Brds_8a.png
 uid: 4be6c6e8-e330-22bb-1689-9bd070541b20

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Line Integrals and Stokes'' Theorem'
+parent_type: CourseSection
 parent_uid: 55dd3380-3633-2e8c-fa42-36beffad3294
 title: 'Session 96: Summary of Multiple Integration'
 uid: 9fa0f56b-39e8-582f-a9aa-fecfcba944f6

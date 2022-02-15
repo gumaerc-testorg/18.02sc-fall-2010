@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 85: Physical Meaning of Flux; Del Notation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Physical Meaning of Flux, Del Notation'
 uid: 961f94d2-99c3-35c5-1900-f391a66fd15b

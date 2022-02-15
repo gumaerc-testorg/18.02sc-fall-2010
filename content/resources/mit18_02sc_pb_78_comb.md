@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information regarding applications of spherical
   coordinates.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a9db1509eac4d651c71d7e3bedc54607_MIT18_02SC_pb_78_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a9db1509eac4d651c71d7e3bedc54607_MIT18_02SC_pb_78_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 78: Applications: Gravitational Attraction'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Applications of Spherical Coordinates'
 uid: a9db1509-eac4-d651-c71d-7e3bedc54607

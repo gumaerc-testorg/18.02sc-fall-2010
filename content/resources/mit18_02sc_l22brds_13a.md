@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b0e7656ecf42d40e89bcd6263cb1daa1_MIT18_02SC_L22Brds_13a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/b0e7656ecf42d40e89bcd6263cb1daa1_MIT18_02SC_L22Brds_13a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 67: Proof of Green''s Theorem'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L22Brds_13a.png
 uid: b0e7656e-cf42-d40e-89bc-d6263cb1daa1

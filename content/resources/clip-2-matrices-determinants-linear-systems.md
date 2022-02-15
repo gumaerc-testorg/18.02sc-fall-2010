@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 99: Unit 1 Review'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Matrices, Determinants, Linear Systems'
 uid: 2465d1ac-83ea-afc9-9afa-9f31bf08ab3b

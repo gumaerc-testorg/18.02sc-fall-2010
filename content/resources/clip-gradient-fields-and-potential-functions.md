@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 89: Gradient Fields and Potential Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Gradient Fields and Potential Functions'
 uid: 26d2df04-8579-1fea-7201-d5f8680c8389

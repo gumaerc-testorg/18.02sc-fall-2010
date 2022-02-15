@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/81dbf6c578ab3c0a0b60032e3aedacc5_MIT18_02SC_L5Brds_12a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/81dbf6c578ab3c0a0b60032e3aedacc5_MIT18_02SC_L5Brds_12a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 17: General Parametric Equations; the Cycloid'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L5Brds_12a.png
 uid: 81dbf6c5-78ab-3c0a-0b60-032e3aedacc5

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 72: Simply Connected Regions and Conservative Fields'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Simply Connected Regions and Conservative Fields'
 uid: 5cf5dee0-c8a4-3b8d-7e25-59533abe7d93

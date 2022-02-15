@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Double Integrals'
+parent_type: CourseSection
 parent_uid: 9fa9495f-e35f-5fa9-506b-b63e2d42812f
 title: 'Session 52: Applications: Moment of Inertia'
 uid: 71ab1fd2-8595-ea71-a49d-ec2a50b44b1f

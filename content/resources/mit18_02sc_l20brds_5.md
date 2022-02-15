@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/9e37854cdd092eeb4b4403569c6cc20f_MIT18_02SC_L20Brds_5.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/9e37854cdd092eeb4b4403569c6cc20f_MIT18_02SC_L20Brds_5.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 59: Example: Line Integrals for Work'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L20Brds_5.png
 uid: 9e37854c-dd09-2eeb-4b44-03569c6cc20f

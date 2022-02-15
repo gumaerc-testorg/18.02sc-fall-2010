@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains problem statements and solutions related to velocity
   and acceleration.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a8bae81352ba8beb11a67e8a13520893_MIT18_02SC_pb_20_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a8bae81352ba8beb11a67e8a13520893_MIT18_02SC_pb_20_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 19: Velocity and Acceleration'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_pb_20_comb.pdf
 uid: a8bae813-52ba-8beb-11a6-7e8a13520893

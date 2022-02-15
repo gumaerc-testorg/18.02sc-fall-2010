@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Vectors, Determinants and Planes'
+parent_type: CourseSection
 parent_uid: 5ec6e19f-f0b0-98e4-0ec6-5f8bcf898f57
 title: 'Session 4: Vector Components'
 uid: 375dd1f6-85ad-f2e0-9b71-14726b7f7b54

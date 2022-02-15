@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding non-independent variables.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/eae43e99915ca70c4545b1e4d694dbbd_MIT18_02SC_pb_42_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/eae43e99915ca70c4545b1e4d694dbbd_MIT18_02SC_pb_42_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 42: Constrained Differentials'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Non-independent Variables'
 uid: eae43e99-915c-a70c-4545-b1e4d694dbbd

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/9dbea420fd18a9d357220e305fdfc414_MIT18_02SC_L11Brds_4.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/9dbea420fd18a9d357220e305fdfc414_MIT18_02SC_L11Brds_4.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 32: Total Differentials and the Chain Rule'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L11Brds_4.png
 uid: 9dbea420-fd18-a9d3-5722-0e305fdfc414

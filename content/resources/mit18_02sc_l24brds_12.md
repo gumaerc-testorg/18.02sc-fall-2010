@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8980541ef0e7ea46ef15238fd178bb7e_MIT18_02SC_L24Brds_12.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/8980541ef0e7ea46ef15238fd178bb7e_MIT18_02SC_L24Brds_12.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 73: Exam Review'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L24Brds_12.png
 uid: 8980541e-f0e7-ea46-ef15-238fd178bb7e

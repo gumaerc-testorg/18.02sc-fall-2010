@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c53ef8772a8b1f6261c145fb1c6df643_MIT18_02SC_L28Brds_6a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/c53ef8772a8b1f6261c145fb1c6df643_MIT18_02SC_L28Brds_6a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 82: ndS for a Surface z = f(x, y)'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L28Brds_6a.png
 uid: c53ef877-2a8b-1f62-61c1-45fb1c6df643

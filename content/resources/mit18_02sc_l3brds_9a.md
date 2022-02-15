@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b5ab65e4d89c974683960fa624862c97_MIT18_02SC_L3Brds_9a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/b5ab65e4d89c974683960fa624862c97_MIT18_02SC_L3Brds_9a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 10: Meaning of Matrix Multiplication'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L3Brds_9a.png
 uid: b5ab65e4-d89c-9746-8396-0fa624862c97

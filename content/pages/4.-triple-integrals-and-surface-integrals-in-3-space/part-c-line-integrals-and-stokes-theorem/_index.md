@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4. Triple Integrals and Surface Integrals in 3-Space
+parent_type: CourseSection
 parent_uid: 80a7ff20-650c-3af9-a002-f822edced8a0
 title: 'Part C: Line Integrals and Stokes'' Theorem'
 uid: 55dd3380-3633-2e8c-fa42-36beffad3294

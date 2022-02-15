@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: "This resource contains information related to sinusoidal shape.\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/bd96042c0631d84384f59280c7592665_MIT18_02SC_pset4sol.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/bd96042c0631d84384f59280c7592665_MIT18_02SC_pset4sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Problem Set 4
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_pset4sol.pdf
 uid: bd96042c-0631-d843-84f5-9280c7592665

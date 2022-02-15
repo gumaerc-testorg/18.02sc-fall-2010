@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Vector Fields and Line Integrals'
+parent_type: CourseSection
 parent_uid: 14558d9f-4e08-d12a-4191-54f3c8100c75
 title: 'Session 62: Gradient Fields'
 uid: 2e446b90-21aa-10b2-7a0d-206567272851

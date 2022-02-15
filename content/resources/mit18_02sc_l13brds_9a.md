@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0675e5b630333a71b59fbac2f9c1cfea_MIT18_02SC_L13Brds_9a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/0675e5b630333a71b59fbac2f9c1cfea_MIT18_02SC_L13Brds_9a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 40: Proof of Lagrange Multipliers'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L13Brds_9a.png
 uid: 0675e5b6-3033-3a71-b59f-bac2f9c1cfea

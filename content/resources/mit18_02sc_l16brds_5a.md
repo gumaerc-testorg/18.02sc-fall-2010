@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0e089c15978236cb0c086c2b44da8ce6_MIT18_02SC_L16Brds_5a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/0e089c15978236cb0c086c2b44da8ce6_MIT18_02SC_L16Brds_5a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 47: Definition of Double Integration'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L16Brds_5a.png
 uid: 0e089c15-9782-36cb-0c08-6c2b44da8ce6

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to dot products.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5e57c2a835c623ace0ac87f67e8a3158_MIT18_02SC_pb_2_quest.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/5e57c2a835c623ace0ac87f67e8a3158_MIT18_02SC_pb_2_quest.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 2: Dot Products'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_pb_2_quest.pdf
 uid: 5e57c2a8-35c6-23ac-e0ac-87f67e8a3158

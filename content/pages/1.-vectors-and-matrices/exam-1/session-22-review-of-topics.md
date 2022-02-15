@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exam 1
+parent_type: CourseSection
 parent_uid: 7afcc16e-1e66-9d99-4325-103cb87d25c3
 title: 'Session 22: Review of Topics'
 uid: 4c00bd72-d37d-f573-d815-a9f9bebd50d6

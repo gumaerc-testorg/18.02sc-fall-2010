@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c27b9f57370dc257e6ad2af38c3733f8_MIT18_02SC_L18Brds_8a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/c27b9f57370dc257e6ad2af38c3733f8_MIT18_02SC_L18Brds_8a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 53: Change of Variables'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L18Brds_8a.png
 uid: c27b9f57-370d-c257-e6ad-2af38c3733f8

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8582026907cb19a3692118a528559ce9_MIT18_02SC_L32Brds_5a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/8582026907cb19a3692118a528559ce9_MIT18_02SC_L32Brds_5a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 94: Simply Connected Regions; Topology'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L32Brds_5a.png
 uid: 85820269-07cb-19a3-6921-18a528559ce9

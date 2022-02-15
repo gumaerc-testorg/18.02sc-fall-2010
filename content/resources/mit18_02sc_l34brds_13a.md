@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b28fef04fef3f7fe7395a9c9c594fa94_MIT18_02SC_L34Brds_13a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/b28fef04fef3f7fe7395a9c9c594fa94_MIT18_02SC_L34Brds_13a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 100: Unit 2 Review'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L34Brds_13a.png
 uid: b28fef04-fef3-f7fe-7395-a9c9c594fa94

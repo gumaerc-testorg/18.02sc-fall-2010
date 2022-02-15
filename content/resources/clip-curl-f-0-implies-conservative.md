@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 66: Curl(F) = 0 Implies Conservative'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Curl(F)=0 Implies Conservative'
 uid: 5a3e0cf6-87db-49b3-c4c1-6b219c627ea0

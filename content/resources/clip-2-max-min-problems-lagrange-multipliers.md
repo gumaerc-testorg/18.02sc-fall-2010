@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 100: Unit 2 Review'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Max-Min Problems, Lagrange Multipliers'
 uid: fe37c9e2-262b-2641-aa22-a92301181e7b

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8e5cef595cff37438541e7a31b5ebacf_MIT18_02SC_L31Brds_8a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/8e5cef595cff37438541e7a31b5ebacf_MIT18_02SC_L31Brds_8a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 92: Proof of Stokes'' Theorem'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L31Brds_8a.png
 uid: 8e5cef59-5cff-3743-8541-e7a31b5ebacf

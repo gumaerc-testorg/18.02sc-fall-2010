@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 16: Intersection of a Line and a Plane'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Intersection of a Line and a Plane'
 uid: a5b5f4dc-5240-712f-5235-6acdeb44c6cd

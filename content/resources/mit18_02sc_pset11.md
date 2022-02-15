@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information related to 3D vector fields, surface
   integrals and flux.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3ab56b603e45206b3b455dfe15791e44_MIT18_02SC_pset11.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/3ab56b603e45206b3b455dfe15791e44_MIT18_02SC_pset11.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Problem Set 11
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_pset11.pdf
 uid: 3ab56b60-3e45-206b-3b45-5dfe15791e44

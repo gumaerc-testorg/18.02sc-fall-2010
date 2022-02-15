@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations for Curves'
+parent_type: CourseSection
 parent_uid: 6f575227-d303-8c11-3827-c5c3b8aaf897
 title: 'Session 20: Velocity and Arc Length'
 uid: 25cd5a91-eff0-444d-5fd8-5ec6178eef45

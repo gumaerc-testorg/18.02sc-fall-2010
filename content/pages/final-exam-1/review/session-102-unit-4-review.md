@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Review
+parent_type: CourseSection
 parent_uid: d16553d3-0b55-2bab-87a4-60f03b2e6366
 title: 'Session 102: Unit 4 Review'
 uid: 1c1eefd6-f3a6-602f-82cc-22e51a322ada

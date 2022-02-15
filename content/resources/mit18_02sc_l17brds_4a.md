@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/533809f5bfad3b68e53c3dcce5b3d3c7_MIT18_02SC_L17Brds_4a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/533809f5bfad3b68e53c3dcce5b3d3c7_MIT18_02SC_L17Brds_4a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 50: Double Integrals in Polar Coordinates'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L17Brds_4a.png
 uid: 533809f5-bfad-3b68-e53c-3dcce5b3d3c7

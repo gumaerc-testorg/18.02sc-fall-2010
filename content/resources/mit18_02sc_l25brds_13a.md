@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6da3a345951235a5c9cdbdf69bc06156_MIT18_02SC_L25Brds_13a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/6da3a345951235a5c9cdbdf69bc06156_MIT18_02SC_L25Brds_13a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 75: Applications and Examples'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L25Brds_13a.png
 uid: 6da3a345-9512-35a5-c9cd-bdf69bc06156

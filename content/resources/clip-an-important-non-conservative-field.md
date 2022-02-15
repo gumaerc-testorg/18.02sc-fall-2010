@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 60: Fundamental Theorem for Line Integrals'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: An Important Non-Conservative Field'
 uid: befd251d-78aa-7e5d-c826-51b1021fb4fd

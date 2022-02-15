@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/edb30ba060de81fe89126d6bb9e6c84f_MIT18_02SC_L12Brds_3.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/edb30ba060de81fe89126d6bb9e6c84f_MIT18_02SC_L12Brds_3.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 35: Gradient: Definition, Perpendicular to Level Curves'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L12Brds_3.png
 uid: edb30ba0-60de-81fe-8912-6d6bb9e6c84f

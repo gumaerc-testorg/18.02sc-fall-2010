@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Functions of Two Variables, Tangent Approximation and Optimization'
+parent_type: CourseSection
 parent_uid: 5ee00816-c5fb-6f61-1e73-27400ba69bef
 title: 'Session 30: Second Derivative Test'
 uid: 47187485-2c83-ac55-1b87-dcff9cb3f6cc

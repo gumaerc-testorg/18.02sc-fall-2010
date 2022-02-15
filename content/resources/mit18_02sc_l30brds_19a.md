@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/fb5977279207a8c37babddf11bed8a2e_MIT18_02SC_L30Brds_19a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/fb5977279207a8c37babddf11bed8a2e_MIT18_02SC_L30Brds_19a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 90: Curl in 3D'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L30Brds_19a.png
 uid: fb597727-9207-a8c3-7bab-ddf11bed8a2e

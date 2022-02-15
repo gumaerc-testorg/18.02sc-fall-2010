@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding equation of a tangent plane.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/593089011952ba62a2ce28593e7f949c_MIT18_02SC_pb_44_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/593089011952ba62a2ce28593e7f949c_MIT18_02SC_pb_44_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 37: Example'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Equation of a Tangent Plane'
 uid: 59308901-1952-ba62-a2ce-28593e7f949c

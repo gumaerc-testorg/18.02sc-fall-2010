@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Physics Applications
+parent_type: CourseSection
 parent_uid: e4a6d671-1614-af40-73c1-a224e90fc6b0
 title: 'Session 97: Curl and Physics'
 uid: 8810a4ba-7a95-b6f8-69ae-4b8347785a1b

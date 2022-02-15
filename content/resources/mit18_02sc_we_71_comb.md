@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding extended green's theorem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a241cf9e8bc16a36763e9326ace52f4d_MIT18_02SC_we_71_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a241cf9e8bc16a36763e9326ace52f4d_MIT18_02SC_we_71_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 71: Extended Green''s Theorem: Boundaries with Multiple Pieces'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Extended Green''s Theorem'
 uid: a241cf9e-8bc1-6a36-763e-9326ace52f4d

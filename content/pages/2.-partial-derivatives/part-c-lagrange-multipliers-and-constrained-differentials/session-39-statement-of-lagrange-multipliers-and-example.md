@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Lagrange Multipliers and Constrained Differentials'
+parent_type: CourseSection
 parent_uid: c2b5d174-7730-9fb5-372b-d98ef12fed7d
 title: 'Session 39: Statement of Lagrange Multipliers and Example'
 uid: 353136b8-318c-d2cd-2244-76fe67ed8426

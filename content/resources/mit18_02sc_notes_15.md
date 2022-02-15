@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information related to level curves and contour
   plots.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/d32be016df4d1bcf9c9e32cb109db15b_MIT18_02SC_notes_15.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/d32be016df4d1bcf9c9e32cb109db15b_MIT18_02SC_notes_15.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 25: Level Curves and Contour Plots'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_notes_15.pdf
 uid: d32be016-df4d-1bcf-9c9e-32cb109db15b

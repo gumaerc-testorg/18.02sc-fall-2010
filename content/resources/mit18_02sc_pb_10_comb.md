@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains problem statements and solutions related to matrix
   multiplication.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e2a4fce62976e74e34767839aa7b3626_MIT18_02SC_pb_10_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/e2a4fce62976e74e34767839aa7b3626_MIT18_02SC_pb_10_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: '.Session 9: Matrix Multiplication'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_pb_10_comb.pdf
 uid: e2a4fce6-2976-e74e-3476-7839aa7b3626

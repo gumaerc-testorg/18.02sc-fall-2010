@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4. Triple Integrals and Surface Integrals in 3-Space
+parent_type: CourseSection
 parent_uid: 80a7ff20-650c-3af9-a002-f822edced8a0
 title: 'Part B: Flux and the Divergence Theorem'
 uid: 2afdabb0-a4ac-ff04-2357-fe33b02c43c3

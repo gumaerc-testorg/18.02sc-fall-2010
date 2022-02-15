@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: ' 2. Partial Derivatives'
 uid: c4eb7979-ba24-3270-46e3-f4d3be8fc654
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 3: Uses of the Dot Product: Lengths and Angles'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Lengths and Angles'
 uid: 589a41ce-497e-c23c-622e-73e24e18c1b1

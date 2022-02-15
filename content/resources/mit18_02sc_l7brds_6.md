@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4b8c3d1bab320f1d6780db88677b249f_MIT18_02SC_L7Brds_6.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/4b8c3d1bab320f1d6780db88677b249f_MIT18_02SC_L7Brds_6.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 23: Review of Problems'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L7Brds_6.png
 uid: 4b8c3d1b-ab32-0f1d-6780-db88677b249f

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 10: Meaning of Matrix Multiplication'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Meaning of Matrix Multiplication'
 uid: 3c702621-c214-5925-a663-f13e5b7b97c3

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0cf2b4ea4f13c9b3b9773642449f4691_MIT18_02SC_L8Brds_10.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/0cf2b4ea4f13c9b3b9773642449f4691_MIT18_02SC_L8Brds_10.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 25: Level Curves and Contour Plots'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L8Brds_10.png
 uid: 0cf2b4ea-4f13-c9b3-b977-3642449f4691

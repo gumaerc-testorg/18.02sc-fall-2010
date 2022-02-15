@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Double Integrals'
+parent_type: CourseSection
 parent_uid: 9fa9495f-e35f-5fa9-506b-b63e2d42812f
 title: 'Session 54: Example: Polar Coordinates'
 uid: 4298c9f5-2873-d0fa-0eca-900cbdf04cdc
@@ -36,7 +39,7 @@ Related Readings
 Recitation Video
 ----------------
 
-### Integral of exp(-x2)
+### Integral of exp(-x{{< sup "2" >}})
 
 {{< resource f7685aa8-46f6-8545-1a32-d878ca01c6fd >}}
 

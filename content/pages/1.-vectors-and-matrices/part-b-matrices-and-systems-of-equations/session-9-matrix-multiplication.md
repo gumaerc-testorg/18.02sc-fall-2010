@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Matrices and Systems of Equations'
+parent_type: CourseSection
 parent_uid: 5785559c-ca75-4f05-db71-1c0de8a26bc4
 title: '.Session 9: Matrix Multiplication'
 uid: 14090654-9310-aba4-7394-1897b75d97d3

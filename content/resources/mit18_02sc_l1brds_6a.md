@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/7afb4fb7bea88c1ad978f9c643adb386_MIT18_02SC_L1Brds_6a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/7afb4fb7bea88c1ad978f9c643adb386_MIT18_02SC_L1Brds_6a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 2: Dot Products'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L1Brds_6a.png
 uid: 7afb4fb7-bea8-8c1a-d978-f9c643adb386

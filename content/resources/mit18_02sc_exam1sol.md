@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to rear bumper.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c77745b9eb93ee503a5e7f914907804b_MIT18_02SC_exam1sol.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/c77745b9eb93ee503a5e7f914907804b_MIT18_02SC_exam1sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Exam
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_exam1sol.pdf
 uid: c77745b9-eb93-ee50-3a5e-7f914907804b

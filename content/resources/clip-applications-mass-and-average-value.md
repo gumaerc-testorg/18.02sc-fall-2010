@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 51: Applications: Mass and Average Value'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Applications: Mass and Average Value'
 uid: 9fd1f97f-9b6c-6521-cc1a-f2400a9f6107

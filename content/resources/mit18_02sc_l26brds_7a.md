@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/756bae1b7167566d25fe34b0146dba1f_MIT18_02SC_L26Brds_7a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/756bae1b7167566d25fe34b0146dba1f_MIT18_02SC_L26Brds_7a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 77: Triple Integrals in Spherical Coordinates'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L26Brds_7a.png
 uid: 756bae1b-7167-566d-25fe-34b0146dba1f

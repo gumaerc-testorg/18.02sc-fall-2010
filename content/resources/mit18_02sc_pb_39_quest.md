@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information regarding fundamental theorem for
   line integrals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0e5255d3c80f8330cdf0de8baac68c83_MIT18_02SC_pb_39_quest.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/0e5255d3c80f8330cdf0de8baac68c83_MIT18_02SC_pb_39_quest.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 60: Fundamental Theorem for Line Integrals'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems : Fundamental Theorem for Line Integrals'
 uid: 0e5255d3-c80f-8330-cdf0-de8baac68c83

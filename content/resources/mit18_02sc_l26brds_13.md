@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/2144906914744933e9e90d30168bbcb0_MIT18_02SC_L26Brds_13.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/2144906914744933e9e90d30168bbcb0_MIT18_02SC_L26Brds_13.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 78: Applications: Gravitational Attraction'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L26Brds_13.png
 uid: 21449069-1474-4933-e9e9-0d30168bbcb0

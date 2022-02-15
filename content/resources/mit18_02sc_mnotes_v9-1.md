@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to surface integrals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/2c1720a794622fa3dbec65e82e1f2503_MIT18_02SC_MNotes_v9.1.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/2c1720a794622fa3dbec65e82e1f2503_MIT18_02SC_MNotes_v9.1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 80: Flux Through a Surface'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_MNotes_v9.1.pdf
 uid: 2c1720a7-9462-2fa3-dbec-65e82e1f2503

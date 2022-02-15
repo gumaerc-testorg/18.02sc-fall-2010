@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Vectors, Determinants and Planes'
+parent_type: CourseSection
 parent_uid: 5ec6e19f-f0b0-98e4-0ec6-5f8bcf898f57
 title: 'Session 7: Cross Products'
 uid: 83e4aaa9-ae8c-110f-1c28-12e303bd3f4a

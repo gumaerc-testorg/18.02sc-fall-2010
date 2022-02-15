@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/00224b2a96df609fc463ab774fdb6bee_MIT18_02SC_L9Brds_18.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/00224b2a96df609fc463ab774fdb6bee_MIT18_02SC_L9Brds_18.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 29: Least Squares'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L9Brds_18.png
 uid: 00224b2a-96df-609f-c463-ab774fdb6bee

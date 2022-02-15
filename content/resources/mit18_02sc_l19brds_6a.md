@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6e8b5ff26d1dfcabc2926dbaf87347d5_MIT18_02SC_L19Brds_6a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/6e8b5ff26d1dfcabc2926dbaf87347d5_MIT18_02SC_L19Brds_6a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 57: Work and Line Integrals'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L19Brds_6a.png
 uid: 6e8b5ff2-6d1d-fcab-c292-6dbaf87347d5

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Vector Fields and Line Integrals'
+parent_type: CourseSection
 parent_uid: 14558d9f-4e08-d12a-4191-54f3c8100c75
 title: 'Session 57: Work and Line Integrals'
 uid: 966d4aa4-c089-ef86-4415-1b6c0f5a967b

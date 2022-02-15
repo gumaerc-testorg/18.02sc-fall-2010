@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/da351b9869ff44a64e207fe4ef90c48a_go.jar
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/da351b9869ff44a64e207fe4ef90c48a_go.jar
 file_type: application/java-archive
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 24: Functions of Two Variables: Graphs'
+parent_type: CourseSection
 resourcetype: Other
 title: go.jar
 uid: da351b98-69ff-44a6-4e20-7fe4ef90c48a

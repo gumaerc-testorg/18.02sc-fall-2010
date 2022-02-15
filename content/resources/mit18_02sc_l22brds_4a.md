@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/46eeaaca9a7000bf2e9b0f8d1543eee1_MIT18_02SC_L22Brds_4a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/46eeaaca9a7000bf2e9b0f8d1543eee1_MIT18_02SC_L22Brds_4a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 65: Green''s Theorem'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L22Brds_4a.png
 uid: 46eeaaca-9a70-00bf-2e9b-0f8d1543eee1

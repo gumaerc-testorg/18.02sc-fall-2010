@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 18: Point (Cusp) on Cycloid'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Point (Cusp) of a Cycloid'
 uid: 7dd0b1c1-2ec6-e9a2-2511-28bd7cdbf51d

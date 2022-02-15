@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e704e603ad4bfc13b3aabfc6b32b3f0b_MIT18_02SC_L3Brds_6a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/e704e603ad4bfc13b3aabfc6b32b3f0b_MIT18_02SC_L3Brds_6a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: '.Session 9: Matrix Multiplication'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L3Brds_6a.png
 uid: e704e603-ad4b-fc13-b3aa-bfc6b32b3f0b

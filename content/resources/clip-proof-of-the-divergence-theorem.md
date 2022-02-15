@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 86: Proof of the Divergence Theorem'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Proof of the Divergence Theorem'
 uid: 94d7ab99-80f0-97e3-4a9b-2b3bb03ea98b

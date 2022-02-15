@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Final Exam
+parent_type: CourseSection
 parent_uid: dd6fb5d9-0caa-c5e5-061b-3b20b27d5d15
 title: Review
 uid: d16553d3-0b55-2bab-87a4-60f03b2e6366

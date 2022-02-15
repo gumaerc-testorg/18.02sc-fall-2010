@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information related to partial differentiation
   and non-independent variables.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e8bfec88100214ac350534e295633ca5_MIT18_02SC_MNotes_n1_2.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/e8bfec88100214ac350534e295633ca5_MIT18_02SC_MNotes_n1_2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 43: Clearer Notation'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_MNotes_n1_2.pdf
 uid: e8bfec88-1002-14ac-3505-34e295633ca5

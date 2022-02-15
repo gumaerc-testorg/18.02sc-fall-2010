@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Chain Rule, Gradient and Directional Derivatives'
+parent_type: CourseSection
 parent_uid: e7048e4b-fd0d-70c8-ef29-4e9d7a9c4a9d
 title: 'Session 36: Proof'
 uid: 35a3500c-af50-f550-a59f-1b0dfe9285b9

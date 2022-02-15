@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ad3860ef12b66dfef196f361ab849b9a_MIT18_02SC_L14Brds_8.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/ad3860ef12b66dfef196f361ab849b9a_MIT18_02SC_L14Brds_8.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 43: Clearer Notation'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L14Brds_8.png
 uid: ad3860ef-12b6-6dfe-f196-f361ab849b9a

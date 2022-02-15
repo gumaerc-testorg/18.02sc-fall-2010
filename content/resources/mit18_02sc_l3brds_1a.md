@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/94334de0f5a0e9aa98debfc59e75ef6a_MIT18_02SC_L3Brds_1a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/94334de0f5a0e9aa98debfc59e75ef6a_MIT18_02SC_L3Brds_1a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 7: Cross Products'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L3Brds_1a.png
 uid: 94334de0-f5a0-e9aa-98de-bfc59e75ef6a

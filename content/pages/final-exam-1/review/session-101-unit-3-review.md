@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Review
+parent_type: CourseSection
 parent_uid: d16553d3-0b55-2bab-87a4-60f03b2e6366
 title: 'Session 101: Unit 3 Review'
 uid: 3dcafa5b-3b8b-27b9-e70f-458ddfc579bd

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Triple Integrals'
 uid: d27541ba-9964-e4df-289e-7e41934ff399

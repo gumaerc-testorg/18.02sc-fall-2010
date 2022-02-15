@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Matrices and Systems of Equations'
+parent_type: CourseSection
 parent_uid: 5785559c-ca75-4f05-db71-1c0de8a26bc4
 title: 'Session 12: Equations of Planes II'
 uid: 373d1bd0-0654-8266-3191-d1be06e5b406

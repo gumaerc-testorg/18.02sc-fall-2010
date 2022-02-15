@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Functions of Two Variables, Tangent Approximation and Optimization'
+parent_type: CourseSection
 parent_uid: 5ee00816-c5fb-6f61-1e73-27400ba69bef
 title: 'Session 25: Level Curves and Contour Plots'
 uid: 1d647248-9b24-f436-8ee8-e9e8a2dd7c81

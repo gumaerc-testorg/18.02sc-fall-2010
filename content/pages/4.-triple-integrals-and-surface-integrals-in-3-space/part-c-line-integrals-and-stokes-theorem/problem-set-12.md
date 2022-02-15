@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Line Integrals and Stokes'' Theorem'
+parent_type: CourseSection
 parent_uid: 55dd3380-3633-2e8c-fa42-36beffad3294
 title: Problem Set 12
 uid: d4c9cf62-3704-3e68-41b7-c0d8b46caa17

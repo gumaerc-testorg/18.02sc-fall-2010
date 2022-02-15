@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a273d1dfa70f421ed8e5bb9f3d194cfc_MIT18_02SC_L6Brds_11.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a273d1dfa70f421ed8e5bb9f3d194cfc_MIT18_02SC_L6Brds_11.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 21: Kepler''s Second Law'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L6Brds_11.png
 uid: a273d1df-a70f-421e-d8e5-bb9f3d194cfc

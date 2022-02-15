@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exam 1
+parent_type: CourseSection
 parent_uid: 7afcc16e-1e66-9d99-4325-103cb87d25c3
 title: Practice Exam
 uid: 654a80f5-0b3e-994a-fe5f-119759a792fb

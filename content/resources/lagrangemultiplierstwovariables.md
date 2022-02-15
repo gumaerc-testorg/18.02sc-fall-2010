@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b06ea9eeb4520c370e849b76741ae68e_lagrangeMultipliersTwoVariables.jar
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/b06ea9eeb4520c370e849b76741ae68e_lagrangeMultipliersTwoVariables.jar
 file_type: application/java-archive
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 40: Proof of Lagrange Multipliers'
+parent_type: CourseSection
 resourcetype: Other
 title: lagrangeMultipliersTwoVariables.jar
 uid: b06ea9ee-b452-0c37-0e84-9b76741ae68e

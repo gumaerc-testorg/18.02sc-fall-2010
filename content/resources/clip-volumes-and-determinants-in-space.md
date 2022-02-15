@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 6: Volumes and Determinants in Space'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Volumes and Determinants in Space'
 uid: aaf28ea9-eb90-58db-1c1a-62a2416340f6

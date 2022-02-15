@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 50: Double Integrals in Polar Coordinates'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Double Integrals in Polar Coordinates'
 uid: 6427b72f-2fbb-3d1a-fc03-49b59100a541

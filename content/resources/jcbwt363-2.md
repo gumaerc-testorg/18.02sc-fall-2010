@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ec81c6dc773372278908bcb93e3e428d_jcbwt363.jar
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/ec81c6dc773372278908bcb93e3e428d_jcbwt363.jar
 file_type: application/java-archive
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 30: Second Derivative Test'
+parent_type: CourseSection
 resourcetype: Other
 title: jcbwt363.jar
 uid: ec81c6dc-7733-7227-8908-bcb93e3e428d

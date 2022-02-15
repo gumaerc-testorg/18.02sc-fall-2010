@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/eb7e5d61ef2b6000bca4af2a31aa93c5_MIT18_02SC_L6Brds_6a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/eb7e5d61ef2b6000bca4af2a31aa93c5_MIT18_02SC_L6Brds_6a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 20: Velocity and Arc Length'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L6Brds_6a.png
 uid: eb7e5d61-ef2b-6000-bca4-af2a31aa93c5

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 49: Exchanging the Order of Integration'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Exchanging the Order of Integration'
 uid: 563c7e72-868c-8575-6d39-8ae98bcad77e

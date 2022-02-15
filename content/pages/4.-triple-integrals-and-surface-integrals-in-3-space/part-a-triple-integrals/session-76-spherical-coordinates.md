@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Triple Integrals'
+parent_type: CourseSection
 parent_uid: fae04710-1871-2678-ad1b-80e80246916a
 title: 'Session 76: Spherical Coordinates'
 uid: 1a869f5f-6349-e1f5-e91f-d375e74314ee

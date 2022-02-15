@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ed33d036a644a3f5dce2b1443d3355cf_MIT18_02SC_L22Brds_7a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/ed33d036a644a3f5dce2b1443d3355cf_MIT18_02SC_L22Brds_7a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 66: Curl(F) = 0 Implies Conservative'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L22Brds_7a.png
 uid: ed33d036-a644-a3f5-dce2-b1443d3355cf

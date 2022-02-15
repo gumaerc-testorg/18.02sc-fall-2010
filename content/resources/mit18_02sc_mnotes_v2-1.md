@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to gradient fields.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3a1b52c21f342f3dcbea16e8cb2f2824_MIT18_02SC_MNotes_v2.1.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/3a1b52c21f342f3dcbea16e8cb2f2824_MIT18_02SC_MNotes_v2.1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 62: Gradient Fields'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_02SC_MNotes_v2.1.pdf
 uid: 3a1b52c2-1f34-2f3d-cbea-16e8cb2f2824

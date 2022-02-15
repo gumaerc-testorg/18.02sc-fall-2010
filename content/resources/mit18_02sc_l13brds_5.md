@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/49fe2bdd66f15fea08f6c8e83cc92bc8_MIT18_02SC_L13Brds_5.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/49fe2bdd66f15fea08f6c8e83cc92bc8_MIT18_02SC_L13Brds_5.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 39: Statement of Lagrange Multipliers and Example'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L13Brds_5.png
 uid: 49fe2bdd-66f1-5fea-08f6-c8e83cc92bc8

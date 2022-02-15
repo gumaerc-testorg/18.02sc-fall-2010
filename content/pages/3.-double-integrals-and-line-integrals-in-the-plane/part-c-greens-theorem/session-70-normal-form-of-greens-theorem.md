@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Green''s Theorem'
+parent_type: CourseSection
 parent_uid: 138f6170-e946-b9b1-22d9-693749cc9860
 title: 'Session 70: Normal Form of Green''s Theorem'
 uid: dae7ac00-7cfa-7edb-c3d6-3aa45f355773

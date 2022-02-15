@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Review
+parent_type: CourseSection
 parent_uid: d16553d3-0b55-2bab-87a4-60f03b2e6366
 title: 'Session 99: Unit 1 Review'
 uid: 439b0e93-6f08-6aaa-4e33-7925a9d02c17

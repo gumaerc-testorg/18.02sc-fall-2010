@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0235b431e264380acebb560d4ca326ba_MIT18_02SC_L20Brds_9a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/0235b431e264380acebb560d4ca326ba_MIT18_02SC_L20Brds_9a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 60: Fundamental Theorem for Line Integrals'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L20Brds_9a.png
 uid: 0235b431-e264-380a-cebb-560d4ca326ba

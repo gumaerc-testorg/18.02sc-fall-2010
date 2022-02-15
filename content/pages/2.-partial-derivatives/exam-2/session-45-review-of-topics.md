@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exam 2
+parent_type: CourseSection
 parent_uid: 846864c2-281f-9104-4786-c16555ecc0bf
 title: 'Session 45: Review of Topics'
 uid: 01648978-5666-8ae2-3f95-81e972458de3

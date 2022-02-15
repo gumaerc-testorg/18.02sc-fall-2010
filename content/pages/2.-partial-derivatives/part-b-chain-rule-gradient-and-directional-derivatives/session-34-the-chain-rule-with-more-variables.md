@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Chain Rule, Gradient and Directional Derivatives'
+parent_type: CourseSection
 parent_uid: e7048e4b-fd0d-70c8-ef29-4e9d7a9c4a9d
 title: 'Session 34: The Chain Rule with More Variables'
 uid: dce75e0b-0628-19f0-f3d6-a420fbe9b880

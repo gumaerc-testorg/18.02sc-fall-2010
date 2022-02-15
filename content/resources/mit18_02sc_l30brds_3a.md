@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/296866ff1b895fda488060e4fa53002a_MIT18_02SC_L30Brds_3a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/296866ff1b895fda488060e4fa53002a_MIT18_02SC_L30Brds_3a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 88: Line Integrals in Space'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L30Brds_3a.png
 uid: 296866ff-1b89-5fda-4880-60e4fa53002a

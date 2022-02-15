@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a18de0ddf73ba3742e43b30b5fac070f_MIT18_02SC_L31Brds_3.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a18de0ddf73ba3742e43b30b5fac070f_MIT18_02SC_L31Brds_3.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 91: Stokes'' Theorem'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L31Brds_3.png
 uid: a18de0dd-f73b-a374-2e43-b30b5fac070f

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 99: Unit 1 Review'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Vectors, Equations of Lines/Curves/Planes'
 uid: 255f67c0-aeb8-37dc-e5b8-fb391ff804c8

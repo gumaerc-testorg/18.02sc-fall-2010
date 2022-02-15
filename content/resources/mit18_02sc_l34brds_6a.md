@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c4e686f8bff2660121569090c6142678_MIT18_02SC_L34Brds_6a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/c4e686f8bff2660121569090c6142678_MIT18_02SC_L34Brds_6a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 99: Unit 1 Review'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L34Brds_6a.png
 uid: c4e686f8-bff2-6601-2156-9090c6142678

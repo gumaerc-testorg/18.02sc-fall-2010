@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Functions of Two Variables, Tangent Approximation and Optimization'
+parent_type: CourseSection
 parent_uid: 5ee00816-c5fb-6f61-1e73-27400ba69bef
 title: 'Session 28: Optimization Problems'
 uid: c9676214-b810-ddca-3b9f-f7a223b17158

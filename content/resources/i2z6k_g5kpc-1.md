@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/cdcbce2b7b3d91fbc9f7a0e0c5e9be6a_I2Z6K_g5kpc.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/cdcbce2b7b3d91fbc9f7a0e0c5e9be6a_I2Z6K_g5kpc.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: cdcbce2b-7b3d-91fb-c9f7-a0e0c5e9be6a

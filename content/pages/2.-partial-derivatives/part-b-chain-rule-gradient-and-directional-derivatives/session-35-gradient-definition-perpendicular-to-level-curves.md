@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Chain Rule, Gradient and Directional Derivatives'
+parent_type: CourseSection
 parent_uid: e7048e4b-fd0d-70c8-ef29-4e9d7a9c4a9d
 title: 'Session 35: Gradient: Definition, Perpendicular to Level Curves'
 uid: bec58626-ee69-e1c4-dd18-54a8969ab451

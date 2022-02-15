@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Triple Integrals'
+parent_type: CourseSection
 parent_uid: fae04710-1871-2678-ad1b-80e80246916a
 title: 'Session 75: Applications and Examples'
 uid: c4da9711-508e-8f11-a356-167da3376cd3

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding surface independence.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c135480a190b0214277598fe20bd1f21_MIT18_02SC_pb_95_comb.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/c135480a190b0214277598fe20bd1f21_MIT18_02SC_pb_95_comb.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 95: Stokes'' Theorem and Surface Independence'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Surface Independence'
 uid: c135480a-190b-0214-2775-98fe20bd1f21

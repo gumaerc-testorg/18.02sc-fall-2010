@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Vector Fields and Line Integrals'
+parent_type: CourseSection
 parent_uid: 14558d9f-4e08-d12a-4191-54f3c8100c75
 title: 'Session 58: Geometric Approach'
 uid: fa095203-c47d-195d-b13f-ae16f977f84b

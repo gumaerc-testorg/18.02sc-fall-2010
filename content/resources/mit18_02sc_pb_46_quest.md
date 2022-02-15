@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding lagrange multipliers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a2af1e8a10df37abb9aaa31871c6ea87_MIT18_02SC_pb_46_quest.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a2af1e8a10df37abb9aaa31871c6ea87_MIT18_02SC_pb_46_quest.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 39: Statement of Lagrange Multipliers and Example'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems : Problems: Lagrange Multipliers'
 uid: a2af1e8a-10df-37ab-b9aa-a31871c6ea87

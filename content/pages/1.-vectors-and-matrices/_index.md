@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 1. Vectors and Matrices
 uid: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
 ---

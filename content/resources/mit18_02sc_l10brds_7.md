@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/199d89530ad0a7423e6a7d4b30ea1ca3_MIT18_02SC_L10Brds_7.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/199d89530ad0a7423e6a7d4b30ea1ca3_MIT18_02SC_L10Brds_7.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 30: Second Derivative Test'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L10Brds_7.png
 uid: 199d8953-0ad0-a742-3e6a-7d4b30ea1ca3

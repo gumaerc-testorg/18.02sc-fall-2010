@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a2f8b1a1c2027a8fbef3b7ea264d63bc_MIT18_02SC_L27Brds_7a.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/a2f8b1a1c2027a8fbef3b7ea264d63bc_MIT18_02SC_L27Brds_7a.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 80: Flux Through a Surface'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L27Brds_7a.png
 uid: a2f8b1a1-c202-7a8f-bef3-b7ea264d63bc

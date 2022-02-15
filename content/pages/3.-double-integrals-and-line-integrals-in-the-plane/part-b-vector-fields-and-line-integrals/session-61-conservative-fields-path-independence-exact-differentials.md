@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Vector Fields and Line Integrals'
+parent_type: CourseSection
 parent_uid: 14558d9f-4e08-d12a-4191-54f3c8100c75
 title: 'Session 61: Conservative Fields, Path Independence, Exact Differentials'
 uid: 9e1952de-8d4d-a6a6-dd36-24e6169f4681

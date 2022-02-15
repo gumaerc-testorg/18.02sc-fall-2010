@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding work and line integrals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/07b11c92c4a8c464f824776ab88b953b_MIT18_02SC_pb_57_quest.pdf
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/07b11c92c4a8c464f824776ab88b953b_MIT18_02SC_pb_57_quest.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 57: Work and Line Integrals'
+parent_type: CourseSection
 resourcetype: Document
 title: '18.02SC Problems : Problems: Work and Line Integrals'
 uid: 07b11c92-c4a8-c464-f824-776ab88b953b

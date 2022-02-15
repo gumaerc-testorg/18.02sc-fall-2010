@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: ' 2. Partial Derivatives'
+parent_type: CourseSection
 parent_uid: c4eb7979-ba24-3270-46e3-f4d3be8fc654
 title: 'Part B: Chain Rule, Gradient and Directional Derivatives'
 uid: e7048e4b-fd0d-70c8-ef29-4e9d7a9c4a9d

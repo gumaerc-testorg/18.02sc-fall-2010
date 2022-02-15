@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Flux and the Divergence Theorem'
+parent_type: CourseSection
 parent_uid: 2afdabb0-a4ac-ff04-2357-fe33b02c43c3
 title: Problem Set 11
 uid: e551f36b-8726-957b-dbfc-f83bac110097

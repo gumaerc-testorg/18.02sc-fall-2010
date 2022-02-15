@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Final Exam
+parent_type: CourseSection
 parent_uid: dd6fb5d9-0caa-c5e5-061b-3b20b27d5d15
 title: Practice Final Exam
 uid: 37347015-2d61-a306-21c6-ebdfe7e34763

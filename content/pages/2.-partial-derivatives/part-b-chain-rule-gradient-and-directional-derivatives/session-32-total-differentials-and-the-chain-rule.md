@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Chain Rule, Gradient and Directional Derivatives'
+parent_type: CourseSection
 parent_uid: e7048e4b-fd0d-70c8-ef29-4e9d7a9c4a9d
 title: 'Session 32: Total Differentials and the Chain Rule'
 uid: a7ce3132-0948-c640-37b7-e082d4a53ecc

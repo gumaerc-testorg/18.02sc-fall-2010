@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 95: Stokes'' Theorem and Surface Independence'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip: Stokes'' Theorem and Surface Independence'
 uid: fd1b10a7-1dd1-b247-88a0-38917ddf6657

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/d7d4033bee254aef3a1feab526dedeb4_MIT18_02SC_L4Brds_7.png
+file: /media/courses/18-02sc-multivariable-calculus-fall-2010/d7d4033bee254aef3a1feab526dedeb4_MIT18_02SC_L4Brds_7.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 13: Linear Systems and Planes'
+parent_type: CourseSection
 resourcetype: Image
 title: MIT18_02SC_L4Brds_7.png
 uid: d7d4033b-ee25-4aef-3a1f-eab526dedeb4

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 4: Vector Components'
 parent_type: CourseSection
+parent_uid: 375dd1f6-85ad-f2e0-9b71-14726b7f7b54
 resourcetype: Image
 title: MIT18_02SC_L2Brds_3a.png
 uid: bba584c4-a140-bb4a-f841-c123c4a68fa8

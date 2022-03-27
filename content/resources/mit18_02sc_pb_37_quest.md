@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 52: Applications: Moment of Inertia'
 parent_type: CourseSection
+parent_uid: 71ab1fd2-8595-ea71-a49d-ec2a50b44b1f
 resourcetype: Document
 title: MIT18_02SC_pb_37_quest.pdf
 uid: aa19eb97-ed09-1f99-5439-5208d73c1a65

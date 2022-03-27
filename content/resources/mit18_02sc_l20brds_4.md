@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 59: Example: Line Integrals for Work'
 parent_type: CourseSection
+parent_uid: 251c2875-0901-cae7-a94e-eaecf01f6e6b
 resourcetype: Image
 title: MIT18_02SC_L20Brds_4.png
 uid: 845afd67-7a5f-c50f-e873-57ff25fb4569

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 47: Definition of Double Integration'
 parent_type: CourseSection
+parent_uid: c27b3aad-7c20-4b2a-4094-be585177be01
 resourcetype: Document
 title: MIT18_02SC_notes_23.pdf
 uid: 6e4a3ff6-8be7-2d26-d3c7-0d8ea7347331

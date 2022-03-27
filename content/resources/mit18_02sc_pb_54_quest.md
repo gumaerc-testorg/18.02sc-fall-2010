@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 54: Example: Polar Coordinates'
 parent_type: CourseSection
+parent_uid: 4298c9f5-2873-d0fa-0eca-900cbdf04cdc
 resourcetype: Document
 title: '18.02SC Problems : Problems: Polar Coordinates and the Jacobian'
 uid: 406c26cd-f850-ffc6-d243-e8be69abdf02

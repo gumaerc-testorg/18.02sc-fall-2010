@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 62: Gradient Fields'
 parent_type: CourseSection
+parent_uid: 2e446b90-21aa-10b2-7a0d-206567272851
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Identifying Gradient Fields and Exact Differentials'
 uid: a9522460-3877-0b74-ad08-968540c2448a

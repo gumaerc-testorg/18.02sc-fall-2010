@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 94: Simply Connected Regions; Topology'
 parent_type: CourseSection
+parent_uid: 9da45f78-5868-f3ae-fcb2-c3ec1ad5293e
 resourcetype: Image
 title: MIT18_02SC_L32Brds_2.png
 uid: 3318eba8-1c5b-3e30-8dce-6abc3a0ea275

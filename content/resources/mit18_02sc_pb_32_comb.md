@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 36: Proof'
 parent_type: CourseSection
+parent_uid: 35a3500c-af50-f550-a59f-1b0dfe9285b9
 resourcetype: Document
 title: MIT18_02SC_pb_32_comb.pdf
 uid: 7a59a42c-f041-1e76-9aac-046b33f10f19

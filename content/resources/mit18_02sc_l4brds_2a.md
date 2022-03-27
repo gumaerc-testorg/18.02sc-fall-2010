@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 12: Equations of Planes II'
 parent_type: CourseSection
+parent_uid: 373d1bd0-0654-8266-3191-d1be06e5b406
 resourcetype: Image
 title: MIT18_02SC_L4Brds_2a.png
 uid: 174e5dbb-1be6-c18b-4d35-ddd5a1a02a1f

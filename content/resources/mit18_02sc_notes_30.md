@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 65: Green''s Theorem'
 parent_type: CourseSection
+parent_uid: bb85ae20-524b-81e6-eb9a-d8ae9cd2220c
 resourcetype: Document
 title: MIT18_02SC_notes_30.pdf
 uid: f6f3d244-fdb0-8732-ea8e-49ef3dce6e0c

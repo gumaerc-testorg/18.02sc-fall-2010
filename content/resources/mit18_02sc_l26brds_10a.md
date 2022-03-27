@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 77: Triple Integrals in Spherical Coordinates'
 parent_type: CourseSection
+parent_uid: f707a26e-ec56-fdb6-c3ca-f56567807058
 resourcetype: Image
 title: MIT18_02SC_L26Brds_10a.png
 uid: ba978989-70f0-7397-00fd-95424ccad27c

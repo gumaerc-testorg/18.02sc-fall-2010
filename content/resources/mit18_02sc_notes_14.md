@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 24: Functions of Two Variables: Graphs'
 parent_type: CourseSection
+parent_uid: c2cc5b93-7ffb-ca97-9260-841317394439
 resourcetype: Document
 title: MIT18_02SC_notes_14.pdf
 uid: 837e7b10-5450-ed2a-79f2-0ca45c524848

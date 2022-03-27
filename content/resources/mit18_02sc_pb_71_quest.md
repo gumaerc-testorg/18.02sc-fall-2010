@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 71: Extended Green''s Theorem: Boundaries with Multiple Pieces'
 parent_type: CourseSection
+parent_uid: 5bbb4de2-941a-4319-bca3-41074dd6e5f3
 resourcetype: Document
 title: '18.02SC Problems : Problems: Extended Green''s Theorem'
 uid: de4f8d0f-3059-0339-968c-9a78eafb6729

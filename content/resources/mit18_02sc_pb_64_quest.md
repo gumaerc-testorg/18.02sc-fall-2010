@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 64: Curl'
 parent_type: CourseSection
+parent_uid: 13adb394-0267-51e6-b83b-43c03adb8511
 resourcetype: Document
 title: '18.02SC Problems : Problems: Two Dimensional Curl'
 uid: 4c198066-f23c-4ec6-b9e3-b706da72edb1

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 49: Exchanging the Order of Integration'
 parent_type: CourseSection
+parent_uid: 835ad424-3cd2-5ec6-b244-f1c7dc764bc4
 resourcetype: Document
 title: MIT18_02SC_we_20_comb.pdf
 uid: 66d49509-fdfe-1afe-1bb0-fbc41dda93c7

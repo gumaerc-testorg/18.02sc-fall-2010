@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: '.Session 9: Matrix Multiplication'
 parent_type: CourseSection
+parent_uid: 14090654-9310-aba4-7394-1897b75d97d3
 resourcetype: Document
 title: MIT18_02SC_MNotes_m1.pdf
 uid: b50a14cc-26e0-e5ef-6661-e190ed2d5271

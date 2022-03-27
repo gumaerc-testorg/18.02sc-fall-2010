@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 66: Curl(F) = 0 Implies Conservative'
 parent_type: CourseSection
+parent_uid: bf983f8d-7c6f-881d-2fbd-5426ef1eaf4e
 resourcetype: Image
 title: MIT18_02SC_L22Brds_10.png
 uid: 41497848-558e-caab-bdfd-8f50aab2285e

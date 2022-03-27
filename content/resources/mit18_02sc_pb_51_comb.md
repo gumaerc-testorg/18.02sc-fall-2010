@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 51: Applications: Mass and Average Value'
 parent_type: CourseSection
+parent_uid: 43332687-cd97-d854-2b2f-75420455c62c
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Mass and Average Value'
 uid: a3624e55-552a-4466-7623-28f8af153133

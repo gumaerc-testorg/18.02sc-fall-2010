@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates'
 parent_type: CourseSection
+parent_uid: 6369fc2c-0ed6-73b1-973b-a7af526cb70d
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Triple Integrals'
 uid: a251431a-9b41-5110-7e8d-1ce286bac61f

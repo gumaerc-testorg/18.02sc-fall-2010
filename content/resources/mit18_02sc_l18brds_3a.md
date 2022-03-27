@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 53: Change of Variables'
 parent_type: CourseSection
+parent_uid: efa093dc-347f-d4af-527f-1b857bb14f2c
 resourcetype: Image
 title: MIT18_02SC_L18Brds_3a.png
 uid: 503fa043-6fbe-337c-66d1-fa56f8165dd9

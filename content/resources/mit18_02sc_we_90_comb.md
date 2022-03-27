@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 90: Curl in 3D'
 parent_type: CourseSection
+parent_uid: acfc5d4e-3602-454b-1118-b52cb66b3039
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Testing for a Conservative Field'
 uid: 9af9200a-cf48-62e5-548d-81ef8333888e

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 57: Work and Line Integrals'
 parent_type: CourseSection
+parent_uid: 966d4aa4-c089-ef86-4415-1b6c0f5a967b
 resourcetype: Document
 title: MIT18_02SC_notes_27.pdf
 uid: 6facab84-c409-b0ac-b65a-aea786f31652

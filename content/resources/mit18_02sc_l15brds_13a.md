@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 45: Review of Topics'
 parent_type: CourseSection
+parent_uid: 01648978-5666-8ae2-3f95-81e972458de3
 resourcetype: Image
 title: MIT18_02SC_L15Brds_13a.png
 uid: 121cd0c5-255e-c4d1-4977-e4c11fce2d60

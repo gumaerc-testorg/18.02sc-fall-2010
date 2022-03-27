@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 100: Unit 2 Review'
 parent_type: CourseSection
+parent_uid: ba74dfa4-49c8-210a-5b7d-14173c6666b7
 resourcetype: Image
 title: MIT18_02SC_L34Brds_13a.png
 uid: b28fef04-fef3-f7fe-7395-a9c9c594fa94

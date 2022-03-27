@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 90: Curl in 3D'
 parent_type: CourseSection
+parent_uid: acfc5d4e-3602-454b-1118-b52cb66b3039
 resourcetype: Image
 title: MIT18_02SC_L30Brds_20a.png
 uid: 55de55ee-b15a-c342-331b-de3dba94b777

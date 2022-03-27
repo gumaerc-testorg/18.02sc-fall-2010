@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 93: Example'
 parent_type: CourseSection
+parent_uid: 2135423b-6b5a-305e-81a9-1b1358ec262c
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Extended Stokes'' Theorem'
 uid: 6cd629fb-c29e-cea4-83e1-a74b2c65bebe

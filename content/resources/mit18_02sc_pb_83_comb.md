@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 83: Other Ways to Find ndS'
 parent_type: CourseSection
+parent_uid: 3fca6127-615a-7e82-bece-f2e551d0f223
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Flux Through a Paraboloid'
 uid: ffecf665-b0df-a653-099c-cc8fbdd4d099

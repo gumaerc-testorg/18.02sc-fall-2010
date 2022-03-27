@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 64: Curl'
 parent_type: CourseSection
+parent_uid: 13adb394-0267-51e6-b83b-43c03adb8511
 resourcetype: Image
 title: MIT18_02SC_L21Brds_21.png
 uid: ba353e41-4c8e-4979-f33b-3cd42f4622e3

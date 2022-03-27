@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 55: Example'
 parent_type: CourseSection
+parent_uid: 9d0e3d8a-0846-d1b8-71f4-f3c5171f3b33
 resourcetype: Document
 title: MIT18_02SC_MNotes_cv3.pdf
 uid: 19b23027-94ab-e47e-60c5-1e6a7537eef9

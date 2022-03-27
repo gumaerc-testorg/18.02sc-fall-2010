@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 18: Point (Cusp) on Cycloid'
 parent_type: CourseSection
+parent_uid: 77d5c5f1-c564-ebd6-027c-3128c160dcb3
 resourcetype: Image
 title: MIT18_02SC_L5Brds_15.png
 uid: 1c7b6cf6-4254-6ba9-5960-212c0ecdd09e

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 95: Stokes'' Theorem and Surface Independence'
 parent_type: CourseSection
+parent_uid: f551eb10-9c52-2f31-3239-84495ef23ce8
 resourcetype: Image
 title: MIT18_02SC_L32Brds_8.png
 uid: 7076f093-40fb-400d-1274-e6b67cebb299

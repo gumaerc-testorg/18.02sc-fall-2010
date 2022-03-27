@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 82: ndS for a Surface z = f(x, y)'
 parent_type: CourseSection
+parent_uid: d2fa06a0-8024-e028-2fdf-891fe896985d
 resourcetype: Image
 title: MIT18_02SC_L28Brds_2a.png
 uid: 85032657-5e2e-c150-48d7-bc2470d49592

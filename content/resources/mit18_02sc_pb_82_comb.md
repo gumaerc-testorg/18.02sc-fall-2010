@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 82: ndS for a Surface z = f(x, y)'
 parent_type: CourseSection
+parent_uid: d2fa06a0-8024-e028-2fdf-891fe896985d
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Flux Through General Surfaces'
 uid: 60dd6ff2-1b8e-da75-214d-328a5ae5710f

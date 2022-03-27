@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 32: Total Differentials and the Chain Rule'
 parent_type: CourseSection
+parent_uid: a7ce3132-0948-c640-37b7-e082d4a53ecc
 resourcetype: Document
 title: MIT18_02SC_we_15_comb.pdf
 uid: 48c905cc-f42b-4e0d-9284-da8fc4897212

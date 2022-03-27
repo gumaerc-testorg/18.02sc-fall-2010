@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 84: Divergence Theorem'
 parent_type: CourseSection
+parent_uid: d088492f-402f-9db5-c30d-cd82be2c37a6
 resourcetype: Document
 title: MIT18_02SC_MNotes_v10.1.pdf
 uid: 9c15c202-ca57-e69f-25a9-8a0c76b2fb8b

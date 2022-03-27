@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 57: Work and Line Integrals'
 parent_type: CourseSection
+parent_uid: 966d4aa4-c089-ef86-4415-1b6c0f5a967b
 resourcetype: Document
 title: '18.02SC Problems : Problems: Work and Line Integrals'
 uid: 07b11c92-c4a8-c464-f824-776ab88b953b

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 41: Advanced Example'
 parent_type: CourseSection
+parent_uid: 9ebd1d32-024e-0a86-8958-b6ad334b76ad
 resourcetype: Image
 title: MIT18_02SC_L13Brds_17a.png
 uid: d1b85616-4b9f-5b3c-24fa-4a6ffa7ba649

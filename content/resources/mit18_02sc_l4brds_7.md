@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 13: Linear Systems and Planes'
 parent_type: CourseSection
+parent_uid: 6362fcf6-7aa8-fa07-ec5a-3312c93ef17d
 resourcetype: Image
 title: MIT18_02SC_L4Brds_7.png
 uid: d7d4033b-ee25-4aef-3a1f-eab526dedeb4

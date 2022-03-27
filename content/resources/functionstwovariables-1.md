@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 25: Level Curves and Contour Plots'
 parent_type: CourseSection
+parent_uid: 1d647248-9b24-f436-8ee8-e9e8a2dd7c81
 resourcetype: Other
 title: functionsTwoVariables.jar
 uid: 1211ae55-6aa1-7354-92b1-f0a305571788

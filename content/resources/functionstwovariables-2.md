@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 30: Second Derivative Test'
 parent_type: CourseSection
+parent_uid: 47187485-2c83-ac55-1b87-dcff9cb3f6cc
 resourcetype: Other
 title: functionsTwoVariables.jar
 uid: 6c7919a8-2719-f6fa-8015-73244349720f

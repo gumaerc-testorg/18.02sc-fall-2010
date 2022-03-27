@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 24: Functions of Two Variables: Graphs'
 parent_type: CourseSection
+parent_uid: c2cc5b93-7ffb-ca97-9260-841317394439
 resourcetype: Other
 title: functionsTwoVariables.jar
 uid: 0421542e-f096-ecf4-1b83-18283d330396

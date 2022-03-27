@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 25: Level Curves and Contour Plots'
 parent_type: CourseSection
+parent_uid: 1d647248-9b24-f436-8ee8-e9e8a2dd7c81
 resourcetype: Image
 title: MIT18_02SC_L8Brds_9.png
 uid: bae4d8f8-ffb0-a2f0-8a70-cd058ea76f96

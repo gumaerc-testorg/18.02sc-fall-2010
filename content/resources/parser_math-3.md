@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 4
 parent_type: CourseSection
+parent_uid: d25e4e51-80c1-1145-7a33-520120b986bf
 resourcetype: Other
 title: parser_math.jar
 uid: 48c68e80-9b9e-6da3-92d3-b4b19a04ca74

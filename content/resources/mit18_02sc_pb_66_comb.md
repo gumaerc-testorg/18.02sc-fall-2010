@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 66: Curl(F) = 0 Implies Conservative'
 parent_type: CourseSection
+parent_uid: bf983f8d-7c6f-881d-2fbd-5426ef1eaf4e
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Identifying Gradient Fields and Exact Differentials'
 uid: 4967c4ad-ab8b-6f26-e3f0-952d460d4e80

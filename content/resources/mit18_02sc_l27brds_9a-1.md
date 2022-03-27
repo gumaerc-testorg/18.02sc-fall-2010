@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 81: Calculating Flux; Finding ndS'
 parent_type: CourseSection
+parent_uid: 0dbd561e-4c4f-ace8-7b1a-fcf29eb32c91
 resourcetype: Image
 title: MIT18_02SC_L27Brds_9a.png
 uid: 416e0ccc-2ead-19e2-d6dc-a2f65b500533

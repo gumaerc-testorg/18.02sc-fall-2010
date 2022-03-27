@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 29: Least Squares'
 parent_type: CourseSection
+parent_uid: 4dee8231-f05e-53cc-79cb-f731a6390b29
 resourcetype: Document
 title: MIT18_02SC_pb_28_comb.pdf
 uid: ddcf6209-8a0c-15fa-d158-5957a6434b97

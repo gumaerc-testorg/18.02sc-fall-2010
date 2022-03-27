@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 11: Matrix Inverses'
 parent_type: CourseSection
+parent_uid: 1d9d5040-576e-a02c-3a97-9204ca7b1e30
 resourcetype: Image
 title: MIT18_02SC_L3Brds_15.png
 uid: 392211c9-fa87-11be-12ba-8b0c4c438191

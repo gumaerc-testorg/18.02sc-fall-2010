@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 78: Applications: Gravitational Attraction'
 parent_type: CourseSection
+parent_uid: 8a967290-4a3f-5c9c-c88b-b651406304a8
 resourcetype: Document
 title: '18.02SC Problems : Problems: Applications of Spherical Coordinates'
 uid: 3b9f5509-81de-c339-f62f-e9a7491be07a

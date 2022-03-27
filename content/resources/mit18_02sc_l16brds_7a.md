@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 48: Examples of Double Integration'
 parent_type: CourseSection
+parent_uid: 3ad46114-9d5e-6097-2563-36b54cf159d4
 resourcetype: Image
 title: MIT18_02SC_L16Brds_7a.png
 uid: a70a82ec-e7f3-5b0b-9ee4-3f41848f98dd

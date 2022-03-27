@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 77: Triple Integrals in Spherical Coordinates'
 parent_type: CourseSection
+parent_uid: f707a26e-ec56-fdb6-c3ca-f56567807058
 resourcetype: Document
 title: MIT18_02SC_MNotes_cv4.pdf
 uid: ab771b91-2c2e-6220-337c-3e4ee7243a33

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 98: Maxwell''s Equations'
 parent_type: CourseSection
+parent_uid: 61a1ca32-dff9-6477-6203-bdd2b30e1875
 resourcetype: Document
 title: MIT18_02SC_MNotes_v15.2to3.pdf
 uid: 3f371db5-1e1e-e354-0e6f-0ff50e46d07b

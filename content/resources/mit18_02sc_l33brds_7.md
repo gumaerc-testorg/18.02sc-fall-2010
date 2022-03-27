@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 98: Maxwell''s Equations'
 parent_type: CourseSection
+parent_uid: 61a1ca32-dff9-6477-6203-bdd2b30e1875
 resourcetype: Image
 title: MIT18_02SC_L33Brds_7.png
 uid: b962f642-b6b2-46ce-78de-29a91881b7ba

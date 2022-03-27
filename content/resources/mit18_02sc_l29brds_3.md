@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 85: Physical Meaning of Flux; Del Notation'
 parent_type: CourseSection
+parent_uid: 249236df-69e4-0920-33ef-e2787a0cd1ad
 resourcetype: Image
 title: MIT18_02SC_L29Brds_3.png
 uid: 59719fc1-b1dd-6a6a-c53e-513d30edf24c

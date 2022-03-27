@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 11: Matrix Inverses'
 parent_type: CourseSection
+parent_uid: 1d9d5040-576e-a02c-3a97-9204ca7b1e30
 resourcetype: Document
 title: MIT18_02SC_pb_12_comb.pdf
 uid: 06054059-af5b-c60c-bae3-62924590e03e

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 83: Other Ways to Find ndS'
 parent_type: CourseSection
+parent_uid: 3fca6127-615a-7e82-bece-f2e551d0f223
 resourcetype: Image
 title: MIT18_02SC_L28Brds_10a.png
 uid: 9ee61ea1-dfc9-0a42-bf70-ce0558f77af4

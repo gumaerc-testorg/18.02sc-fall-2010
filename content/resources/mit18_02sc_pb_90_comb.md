@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 90: Curl in 3D'
 parent_type: CourseSection
+parent_uid: acfc5d4e-3602-454b-1118-b52cb66b3039
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Curl in 3D'
 uid: 72d6db93-7154-0cbe-2e76-ab1139716c40

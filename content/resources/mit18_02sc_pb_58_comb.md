@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 58: Geometric Approach'
 parent_type: CourseSection
+parent_uid: fa095203-c47d-195d-b13f-ae16f977f84b
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Geometric Approach to Line Integrals'
 uid: de63abcc-40a8-0811-d375-73bc43f27398

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 87: Diffusion Equation'
 parent_type: CourseSection
+parent_uid: 7564bb64-749a-9b68-9ece-4277dd91ada1
 resourcetype: Image
 title: MIT18_02SC_L29Brds_14a.png
 uid: d272e1a4-a1af-a330-019f-41c649ef4890

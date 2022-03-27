@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 36: Proof'
 parent_type: CourseSection
+parent_uid: 35a3500c-af50-f550-a59f-1b0dfe9285b9
 resourcetype: Image
 title: MIT18_02SC_L12Brds_9a.png
 uid: d3f734be-9fdf-d378-b991-493cf84dba94

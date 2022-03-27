@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 71: Extended Green''s Theorem: Boundaries with Multiple Pieces'
 parent_type: CourseSection
+parent_uid: 5bbb4de2-941a-4319-bca3-41074dd6e5f3
 resourcetype: Image
 title: MIT18_02SC_L24Brds_4.png
 uid: 5b5f883a-24b1-66e3-ad84-e201e9265995

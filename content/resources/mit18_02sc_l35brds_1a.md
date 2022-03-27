@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 101: Unit 3 Review'
 parent_type: CourseSection
+parent_uid: 3dcafa5b-3b8b-27b9-e70f-458ddfc579bd
 resourcetype: Image
 title: MIT18_02SC_L35Brds_1a.png
 uid: 42641c6a-2a8d-dd9e-f158-e2dfcea9b287

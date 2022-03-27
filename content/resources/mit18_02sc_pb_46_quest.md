@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 39: Statement of Lagrange Multipliers and Example'
 parent_type: CourseSection
+parent_uid: 353136b8-318c-d2cd-2244-76fe67ed8426
 resourcetype: Document
 title: '18.02SC Problems : Problems: Lagrange Multipliers'
 uid: a2af1e8a-10df-37ab-b9aa-a31871c6ea87

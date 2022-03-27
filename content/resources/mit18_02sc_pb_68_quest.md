@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 68: Planimeter: Green''s Theorem and Area'
 parent_type: CourseSection
+parent_uid: fce780d8-a145-fae3-fe0d-349fbce595cf
 resourcetype: Document
 title: '18.02SC Problems : Problems: Green''s Theorem and Area'
 uid: 7d8ad07f-69bd-a4fd-4899-e0227295ee16

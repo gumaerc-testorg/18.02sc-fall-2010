@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 35: Gradient: Definition, Perpendicular to Level Curves'
 parent_type: CourseSection
+parent_uid: bec58626-ee69-e1c4-dd18-54a8969ab451
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Elliptic Paraboloid'
 uid: 9f291190-e5de-3c69-354c-5152448fc73b

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 60: Fundamental Theorem for Line Integrals'
 parent_type: CourseSection
+parent_uid: 59598015-71e0-55a7-023b-590e1522b972
 resourcetype: Document
 title: '18.02SC Problems : Fundamental Theorem for Line Integrals'
 uid: 0e5255d3-c80f-8330-cdf0-de8baac68c83

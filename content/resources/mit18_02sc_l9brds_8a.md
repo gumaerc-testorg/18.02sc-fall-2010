@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 28: Optimization Problems'
 parent_type: CourseSection
+parent_uid: c9676214-b810-ddca-3b9f-f7a223b17158
 resourcetype: Image
 title: MIT18_02SC_L9Brds_8a.png
 uid: ada885db-92e9-690e-6987-8684c56655a9

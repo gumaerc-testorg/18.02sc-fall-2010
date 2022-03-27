@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 83: Other Ways to Find ndS'
 parent_type: CourseSection
+parent_uid: 3fca6127-615a-7e82-bece-f2e551d0f223
 resourcetype: Document
 title: '18.02SC Problems and Solutions: General Formula for ndS'
 uid: b00361f9-2e5f-01a9-cf63-62a1f38c44ed

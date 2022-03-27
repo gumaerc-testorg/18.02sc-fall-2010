@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 1: Vectors'
 parent_type: CourseSection
+parent_uid: a55f30b5-41f0-fdb2-8aa6-929b363cf479
 resourcetype: Document
 title: MIT18_02SC_we_4_comb.pdf
 uid: 8b820999-0fd0-248b-6769-e30af8589c7a

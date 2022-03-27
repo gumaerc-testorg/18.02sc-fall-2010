@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 2: Dot Products'
 parent_type: CourseSection
+parent_uid: ff28657b-53d8-149e-d206-0215c11e86bd
 resourcetype: Document
 title: MIT18_02SC_pb_2_quest.pdf
 uid: 5e57c2a8-35c6-23ac-e0ac-87f67e8a3158

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 92: Proof of Stokes'' Theorem'
 parent_type: CourseSection
+parent_uid: 6bcf7641-05bf-41d1-5a38-3392f24a4910
 resourcetype: Document
 title: MIT18_02SC_MNotes_v13.3.pdf
 uid: 41527923-bc92-0dd4-aace-150f72a87f96

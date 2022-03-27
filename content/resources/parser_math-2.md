@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 30: Second Derivative Test'
 parent_type: CourseSection
+parent_uid: 47187485-2c83-ac55-1b87-dcff9cb3f6cc
 resourcetype: Other
 title: parser_math.jar
 uid: 9f1da725-b2ea-fb2c-552b-6e0ce5f2681d

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 37: Example'
 parent_type: CourseSection
+parent_uid: 10e11645-483c-9e7b-c1e8-194ff0a40c7e
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Equation of a Tangent Plane'
 uid: 59308901-1952-ba62-a2ce-28593e7f949c

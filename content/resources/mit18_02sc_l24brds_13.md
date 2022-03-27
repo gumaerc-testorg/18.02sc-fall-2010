@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 73: Exam Review'
 parent_type: CourseSection
+parent_uid: d286d8f1-d8ac-d0b2-0d8e-58a9967f8be9
 resourcetype: Image
 title: MIT18_02SC_L24Brds_13.png
 uid: fe723261-c916-32d0-a04a-5f7102f8e25b

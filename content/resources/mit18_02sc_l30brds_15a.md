@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 89: Gradient Fields and Potential Functions'
 parent_type: CourseSection
+parent_uid: f5c1d74d-e71a-42ee-f54e-858fdda4ad8f
 resourcetype: Image
 title: MIT18_02SC_L30Brds_15a.png
 uid: 6c1201c7-5a74-7485-3a06-de46be8904e1

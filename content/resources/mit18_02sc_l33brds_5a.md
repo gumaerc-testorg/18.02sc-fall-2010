@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 97: Curl and Physics'
 parent_type: CourseSection
+parent_uid: 8810a4ba-7a95-b6f8-69ae-4b8347785a1b
 resourcetype: Image
 title: MIT18_02SC_L33Brds_5a.png
 uid: d36d7c92-4cd3-9bf7-0d3e-904a7ce3888e

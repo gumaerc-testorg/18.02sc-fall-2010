@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 51: Applications: Mass and Average Value'
 parent_type: CourseSection
+parent_uid: 43332687-cd97-d854-2b2f-75420455c62c
 resourcetype: Document
 title: MIT18_02SC_notes_25.pdf
 uid: e152e024-4962-6d11-188c-bb6f42e37d5f

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 65: Green''s Theorem'
 parent_type: CourseSection
+parent_uid: bb85ae20-524b-81e6-eb9a-d8ae9cd2220c
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Green''s Theorem'
 uid: 8f10304f-6994-358d-a7a2-46128030bf41

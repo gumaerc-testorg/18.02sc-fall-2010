@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: '.Session 9: Matrix Multiplication'
 parent_type: CourseSection
+parent_uid: 14090654-9310-aba4-7394-1897b75d97d3
 resourcetype: Image
 title: MIT18_02SC_L3Brds_5.png
 uid: daa175b3-98eb-07bd-26c5-2c979faeceb2

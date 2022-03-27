@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 91: Stokes'' Theorem'
 parent_type: CourseSection
+parent_uid: 369a5a9d-53f8-ab4d-a9f4-78cd9a5ab7c7
 resourcetype: Document
 title: '18.02SC Problems : Problems: Stokes'' Theorem'
 uid: da9cae6a-48cf-e514-0a91-9b3756305d76

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 50: Double Integrals in Polar Coordinates'
 parent_type: CourseSection
+parent_uid: 526fb43e-aa20-5187-0cb7-2c769f2c80ae
 resourcetype: Image
 title: MIT18_02SC_L17Brds_5.png
 uid: a84217b7-3cf9-188f-948c-6039eab23752

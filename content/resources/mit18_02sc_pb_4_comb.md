@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 4: Vector Components'
 parent_type: CourseSection
+parent_uid: 375dd1f6-85ad-f2e0-9b71-14726b7f7b54
 resourcetype: Document
 title: MIT18_02SC_pb_4_comb.pdf
 uid: 2086208d-c354-86fe-4037-bede6ddad69c

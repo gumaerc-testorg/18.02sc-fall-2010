@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 38: Directional Derivatives'
 parent_type: CourseSection
+parent_uid: 39fb1a7a-22ea-5009-fdbd-92b8775e6362
 resourcetype: Image
 title: MIT18_02SC_L12Brds_14.png
 uid: e4e43cc5-8c67-9f1e-9b5b-94611b87c9e5

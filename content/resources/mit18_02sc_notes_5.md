@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 12: Equations of Planes II'
 parent_type: CourseSection
+parent_uid: 373d1bd0-0654-8266-3191-d1be06e5b406
 resourcetype: Document
 title: MIT18_02SC_notes_5.pdf
 uid: 581296ab-1100-fe56-15fc-cb7ff2511530

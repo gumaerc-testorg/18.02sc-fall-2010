@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 7: Cross Products'
 parent_type: CourseSection
+parent_uid: 83e4aaa9-ae8c-110f-1c28-12e303bd3f4a
 resourcetype: Document
 title: MIT18_02SC_pb_8_comb.pdf
 uid: 1edeed41-9b7e-944c-c7ae-4a79100744fa

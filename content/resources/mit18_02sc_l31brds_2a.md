@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Part A: Vectors, Determinants and Planes'
 parent_type: CourseSection
+parent_uid: 5ec6e19f-f0b0-98e4-0ec6-5f8bcf898f57
 resourcetype: Image
 title: MIT18_02SC_L31Brds_2a.png
 uid: 85b09dd2-7799-6807-70bb-6bfbb4e85e32

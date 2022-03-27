@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 65: Green''s Theorem'
 parent_type: CourseSection
+parent_uid: bb85ae20-524b-81e6-eb9a-d8ae9cd2220c
 resourcetype: Image
 title: MIT18_02SC_L22Brds_1.png
 uid: c1f271ad-337e-9d80-9512-55c06aecb8d8

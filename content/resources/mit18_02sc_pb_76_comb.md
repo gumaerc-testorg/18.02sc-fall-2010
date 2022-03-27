@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 76: Spherical Coordinates'
 parent_type: CourseSection
+parent_uid: 1a869f5f-6349-e1f5-e91f-d375e74314ee
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Limits in Spherical Coordinates'
 uid: af128482-53f4-896a-9077-1e073c650f26

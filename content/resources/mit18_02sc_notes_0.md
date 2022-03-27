@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 1: Vectors'
 parent_type: CourseSection
+parent_uid: a55f30b5-41f0-fdb2-8aa6-929b363cf479
 resourcetype: Document
 title: Vectors
 uid: 38223d6e-c70b-12de-9d01-446438100b9d

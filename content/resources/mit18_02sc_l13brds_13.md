@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 40: Proof of Lagrange Multipliers'
 parent_type: CourseSection
+parent_uid: 211a985b-a1cd-42a3-ab78-a18bc42ff996
 resourcetype: Image
 title: MIT18_02SC_L13Brds_13.png
 uid: 2be374e2-e617-dedf-23d8-ae73d31e21f0

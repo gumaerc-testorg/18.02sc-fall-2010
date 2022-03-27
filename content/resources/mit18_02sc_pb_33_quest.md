@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 41: Advanced Example'
 parent_type: CourseSection
+parent_uid: 9ebd1d32-024e-0a86-8958-b6ad334b76ad
 resourcetype: Document
 title: MIT18_02SC_pb_33_quest.pdf
 uid: 879d99a9-8c2f-d20e-16d4-fcb9f7310616

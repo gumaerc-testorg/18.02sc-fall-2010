@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 51: Applications: Mass and Average Value'
 parent_type: CourseSection
+parent_uid: 43332687-cd97-d854-2b2f-75420455c62c
 resourcetype: Image
 title: MIT18_02SC_L17Brds_7a.png
 uid: 7f6b2658-0e8b-312d-e03f-bc6f70d71eea

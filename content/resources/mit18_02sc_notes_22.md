@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 40: Proof of Lagrange Multipliers'
 parent_type: CourseSection
+parent_uid: 211a985b-a1cd-42a3-ab78-a18bc42ff996
 resourcetype: Document
 title: MIT18_02SC_notes_22.pdf
 uid: ebbeb8e6-1827-a805-8d2c-45b674d003b3

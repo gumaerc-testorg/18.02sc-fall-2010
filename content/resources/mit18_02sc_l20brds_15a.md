@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 60: Fundamental Theorem for Line Integrals'
 parent_type: CourseSection
+parent_uid: 59598015-71e0-55a7-023b-590e1522b972
 resourcetype: Image
 title: MIT18_02SC_L20Brds_15a.png
 uid: 87167f11-1d42-0e43-9905-dba5a3838610

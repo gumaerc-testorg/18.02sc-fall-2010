@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 96: Summary of Multiple Integration'
 parent_type: CourseSection
+parent_uid: 9fa0f56b-39e8-582f-a9aa-fecfcba944f6
 resourcetype: Image
 title: MIT18_02SC_L32Brds_13.png
 uid: a2d46c68-2dd0-9aac-f90a-6ecd61d75342

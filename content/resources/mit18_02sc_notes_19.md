@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 36: Proof'
 parent_type: CourseSection
+parent_uid: 35a3500c-af50-f550-a59f-1b0dfe9285b9
 resourcetype: Document
 title: MIT18_02SC_notes_19.pdf
 uid: 85c1d853-63d9-8085-0535-1b571d2750aa

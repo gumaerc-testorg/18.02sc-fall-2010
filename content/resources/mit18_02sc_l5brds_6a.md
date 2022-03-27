@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 16: Intersection of a Line and a Plane'
 parent_type: CourseSection
+parent_uid: d48352f4-17dc-b010-c0a5-ce62f99b2e0a
 resourcetype: Image
 title: MIT18_02SC_L5Brds_6a.png
 uid: a04f5c74-63d5-483d-1740-0f792eda6ad5

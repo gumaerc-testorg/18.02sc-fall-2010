@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 80: Flux Through a Surface'
 parent_type: CourseSection
+parent_uid: 076b5dff-cda3-d135-851c-f7a311c53208
 resourcetype: Image
 title: MIT18_02SC_L27Brds_5.png
 uid: 42b4106f-7a1e-f857-fb71-205f491f99ac

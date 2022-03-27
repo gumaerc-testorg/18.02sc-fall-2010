@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 84: Divergence Theorem'
 parent_type: CourseSection
+parent_uid: d088492f-402f-9db5-c30d-cd82be2c37a6
 resourcetype: Image
 title: MIT18_02SC_L28Brds_15a.png
 uid: c4986bdd-abc8-a8e6-4cd7-6d9be6475687

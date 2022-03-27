@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 17: General Parametric Equations; the Cycloid'
 parent_type: CourseSection
+parent_uid: c5c027c8-45bf-0f7d-bc7b-9514c509aeab
 resourcetype: Image
 title: MIT18_02SC_L5Brds_12a.png
 uid: 81dbf6c5-78ab-3c0a-0b60-032e3aedacc5

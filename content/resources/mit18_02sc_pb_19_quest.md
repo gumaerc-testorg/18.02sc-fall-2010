@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 17: General Parametric Equations; the Cycloid'
 parent_type: CourseSection
+parent_uid: c5c027c8-45bf-0f7d-bc7b-9514c509aeab
 resourcetype: Document
 title: MIT18_02SC_pb_19_quest.pdf
 uid: 45bfa44b-4183-d895-9432-dd6456258ceb

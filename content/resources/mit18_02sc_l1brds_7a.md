@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 2: Dot Products'
 parent_type: CourseSection
+parent_uid: ff28657b-53d8-149e-d206-0215c11e86bd
 resourcetype: Image
 title: MIT18_02SC_L1Brds_7a.png
 uid: e4fc8ad7-d847-52ab-7ad1-8f95d4fffcdc

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 22: Review of Topics'
 parent_type: CourseSection
+parent_uid: 4c00bd72-d37d-f573-d815-a9f9bebd50d6
 resourcetype: Image
 title: MIT18_02SC_L7Brds_4a.png
 uid: d5a0f005-8b12-5ffe-ea6d-7ea5b42c682b

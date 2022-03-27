@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 89: Gradient Fields and Potential Functions'
 parent_type: CourseSection
+parent_uid: f5c1d74d-e71a-42ee-f54e-858fdda4ad8f
 resourcetype: Document
 title: MIT18_02SC_MNotes_v12.pdf
 uid: b30cc37b-ba57-6d91-d0c9-c60dd7368b16

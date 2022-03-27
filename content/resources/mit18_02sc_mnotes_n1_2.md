@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 43: Clearer Notation'
 parent_type: CourseSection
+parent_uid: a853b2a1-cf33-cf94-2198-4d602044e1f1
 resourcetype: Document
 title: MIT18_02SC_MNotes_n1_2.pdf
 uid: e8bfec88-1002-14ac-3505-34e295633ca5

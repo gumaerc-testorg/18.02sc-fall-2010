@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 69: Flux in 2D'
 parent_type: CourseSection
+parent_uid: 667a15fc-5433-85da-7673-e4a4912acd3d
 resourcetype: Image
 title: MIT18_02SC_L23Brds_11.png
 uid: 25cfecb8-d679-ecfe-2c8f-61f6f8793996

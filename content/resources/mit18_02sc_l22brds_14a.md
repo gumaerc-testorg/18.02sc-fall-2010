@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 67: Proof of Green''s Theorem'
 parent_type: CourseSection
+parent_uid: 213ba9d9-b909-14c6-1861-1b9025c7869d
 resourcetype: Image
 title: MIT18_02SC_L22Brds_14a.png
 uid: 8fe4293b-71a9-230d-ca96-b2f5f819bce2

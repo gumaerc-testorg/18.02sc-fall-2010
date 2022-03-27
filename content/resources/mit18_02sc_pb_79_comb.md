@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 79: Vector Fields in Space'
 parent_type: CourseSection
+parent_uid: cb1f2e44-229f-3ba5-0543-b58ec8cc851e
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Vector Fields in Space'
 uid: 957c453b-c01d-676e-a31c-f0b98afcf1f6

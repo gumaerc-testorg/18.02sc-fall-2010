@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 19: Velocity and Acceleration'
 parent_type: CourseSection
+parent_uid: dcdc00f0-31ba-84ce-819f-58d5b2584e2e
 resourcetype: Image
 title: MIT18_02SC_L6Brds_3.png
 uid: 26b87fd3-b27b-72c0-e35c-f31a2ad900c2

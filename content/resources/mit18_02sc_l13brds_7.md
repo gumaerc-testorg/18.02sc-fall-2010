@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 39: Statement of Lagrange Multipliers and Example'
 parent_type: CourseSection
+parent_uid: 353136b8-318c-d2cd-2244-76fe67ed8426
 resourcetype: Image
 title: MIT18_02SC_L13Brds_7.png
 uid: 78a29d5f-1130-4c9c-481d-79a655e4cb16

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 62: Gradient Fields'
 parent_type: CourseSection
+parent_uid: 2e446b90-21aa-10b2-7a0d-206567272851
 resourcetype: Image
 title: MIT18_02SC_L21Brds_7.png
 uid: 19bbc300-ae4a-1b46-102a-50d506d2eebe

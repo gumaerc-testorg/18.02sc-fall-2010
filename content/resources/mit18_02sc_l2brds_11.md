@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 7: Cross Products'
 parent_type: CourseSection
+parent_uid: 83e4aaa9-ae8c-110f-1c28-12e303bd3f4a
 resourcetype: Image
 title: MIT18_02SC_L2Brds_11.png
 uid: cce9be6f-25d8-ff92-e272-24885b6a6679

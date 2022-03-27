@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 4
 parent_type: CourseSection
+parent_uid: d25e4e51-80c1-1145-7a33-520120b986bf
 resourcetype: Other
 title: mk_lib.jar
 uid: bbb362c2-9741-002e-ec12-f6d58eaebe3d

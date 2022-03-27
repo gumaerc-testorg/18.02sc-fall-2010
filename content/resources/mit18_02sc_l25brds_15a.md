@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 75: Applications and Examples'
 parent_type: CourseSection
+parent_uid: c4da9711-508e-8f11-a356-167da3376cd3
 resourcetype: Image
 title: MIT18_02SC_L25Brds_15a.png
 uid: 8a5866f0-f4ff-976d-0d7a-6e07722c4b33

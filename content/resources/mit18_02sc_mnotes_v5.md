@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 72: Simply Connected Regions and Conservative Fields'
 parent_type: CourseSection
+parent_uid: 7e63a591-cff7-d483-506d-4b94bb0df706
 resourcetype: Document
 title: MIT18_02SC_MNotes_v5.pdf
 uid: 1bc33736-db05-b99f-564b-a15fe7174311

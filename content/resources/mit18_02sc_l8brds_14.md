@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 26: Partial Derivatives'
 parent_type: CourseSection
+parent_uid: 9bc5502d-75dd-79dd-4f22-0e496468c323
 resourcetype: Image
 title: MIT18_02SC_L8Brds_14.png
 uid: a789cfb3-c28c-4e9b-85cf-8ee8a8d0463a

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 70: Normal Form of Green''s Theorem'
 parent_type: CourseSection
+parent_uid: dae7ac00-7cfa-7edb-c3d6-3aa45f355773
 resourcetype: Image
 title: MIT18_02SC_L23Brds_16.png
 uid: dea4f67f-e19b-0af3-2db1-5ed81dde1e26

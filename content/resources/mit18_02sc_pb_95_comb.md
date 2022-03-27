@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 95: Stokes'' Theorem and Surface Independence'
 parent_type: CourseSection
+parent_uid: f551eb10-9c52-2f31-3239-84495ef23ce8
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Surface Independence'
 uid: c135480a-190b-0214-2775-98fe20bd1f21

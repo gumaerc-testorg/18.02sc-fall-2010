@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 52: Applications: Moment of Inertia'
 parent_type: CourseSection
+parent_uid: 71ab1fd2-8595-ea71-a49d-ec2a50b44b1f
 resourcetype: Image
 title: MIT18_02SC_L17Brds_11a.png
 uid: f5e16de9-1b38-f1c4-97df-399edf1e8bb7

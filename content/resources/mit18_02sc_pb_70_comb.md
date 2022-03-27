@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 70: Normal Form of Green''s Theorem'
 parent_type: CourseSection
+parent_uid: dae7ac00-7cfa-7edb-c3d6-3aa45f355773
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Normal Form of Green''s Theorem'
 uid: ff340959-884f-97b7-8d31-69ea24b4bbd3

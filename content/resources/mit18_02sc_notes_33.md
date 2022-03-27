@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 64: Curl'
 parent_type: CourseSection
+parent_uid: 13adb394-0267-51e6-b83b-43c03adb8511
 resourcetype: Document
 title: MIT18_02SC_notes_33.pdf
 uid: 03ff53bc-a18d-c4b2-ea72-5a9be4215517

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 90: Curl in 3D'
 parent_type: CourseSection
+parent_uid: acfc5d4e-3602-454b-1118-b52cb66b3039
 resourcetype: Document
 title: MIT18_02SC_MNotes_v15.1.pdf
 uid: a5910abd-3b1b-31bd-b0c2-6ff1e0185ef2

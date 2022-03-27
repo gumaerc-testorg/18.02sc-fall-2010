@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Practice Exam
 parent_type: CourseSection
+parent_uid: d3eb0ebc-a99b-efe6-1791-999be3008002
 resourcetype: Document
 title: MIT18_02SC_prac3A.pdf
 uid: 8cac15f0-6a6c-d6e2-ad68-85241b70c5f7

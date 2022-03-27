@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 91: Stokes'' Theorem'
 parent_type: CourseSection
+parent_uid: 369a5a9d-53f8-ab4d-a9f4-78cd9a5ab7c7
 resourcetype: Document
 title: MIT18_02SC_MNotes_v13.1to2.pdf
 uid: 9b8d5f9f-ebf5-84d8-5089-1f631393a87c

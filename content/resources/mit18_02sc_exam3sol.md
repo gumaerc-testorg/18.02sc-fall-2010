@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam
 parent_type: CourseSection
+parent_uid: a5f42a3b-f32c-2c20-138b-c941619180b2
 resourcetype: Document
 title: MIT18_02SC_exam3sol.pdf
 uid: 5028c6e0-86e5-3bc7-ec53-4ff874b45cd2

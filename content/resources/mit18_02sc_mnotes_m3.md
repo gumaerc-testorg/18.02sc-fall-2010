@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 14: Solutions to Square Systems'
 parent_type: CourseSection
+parent_uid: 7d94f07b-8bc7-0601-a943-1aa48d6b4518
 resourcetype: Document
 title: MIT18_02SC_MNotes_m3.pdf
 uid: ae721c48-ce74-1018-e1a3-c2aefb6a8640

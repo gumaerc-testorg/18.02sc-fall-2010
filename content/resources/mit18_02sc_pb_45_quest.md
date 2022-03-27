@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 38: Directional Derivatives'
 parent_type: CourseSection
+parent_uid: 39fb1a7a-22ea-5009-fdbd-92b8775e6362
 resourcetype: Document
 title: '18.02SC Problems : Problems: Directional Derivatives'
 uid: ece6a179-f86a-1e98-91cb-0db2f8a786ec

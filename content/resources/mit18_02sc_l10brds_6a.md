@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 30: Second Derivative Test'
 parent_type: CourseSection
+parent_uid: 47187485-2c83-ac55-1b87-dcff9cb3f6cc
 resourcetype: Image
 title: MIT18_02SC_L10Brds_6a.png
 uid: 1f465a3f-33a2-62b7-1e5e-568140235db0

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 78: Applications: Gravitational Attraction'
 parent_type: CourseSection
+parent_uid: 8a967290-4a3f-5c9c-c88b-b651406304a8
 resourcetype: Image
 title: MIT18_02SC_L26Brds_15.png
 uid: 550d7a30-cf28-4ae1-c605-f184ac77a287

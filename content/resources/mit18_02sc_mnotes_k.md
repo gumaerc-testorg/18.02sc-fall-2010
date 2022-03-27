@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 21: Kepler''s Second Law'
 parent_type: CourseSection
+parent_uid: 8c2c314c-7639-2934-4855-b23ce9880749
 resourcetype: Document
 title: MIT18_02SC_MNotes_k.pdf
 uid: 040b72c0-8d4f-0ef6-7faf-085066e1cc71

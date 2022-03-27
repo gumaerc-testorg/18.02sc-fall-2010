@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 5: Area and Determinants in 2D'
 parent_type: CourseSection
+parent_uid: f85eebfc-2c74-d08c-7980-6f454c3446ae
 resourcetype: Image
 title: MIT18_02SC_L2Brds_7.png
 uid: 8f8dd16c-8f60-21b0-ef5b-8bb075e5f7e3

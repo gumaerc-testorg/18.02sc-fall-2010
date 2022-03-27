@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 72: Simply Connected Regions and Conservative Fields'
 parent_type: CourseSection
+parent_uid: 7e63a591-cff7-d483-506d-4b94bb0df706
 resourcetype: Document
 title: '18.02SC Problems : Problems: Simply Connected Regions'
 uid: c75a4c31-bba8-aac9-f546-bb6ca0bc7add

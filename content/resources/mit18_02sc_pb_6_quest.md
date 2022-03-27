@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 6: Volumes and Determinants in Space'
 parent_type: CourseSection
+parent_uid: bb78c434-746c-4a7d-4c1a-369991a0b5d2
 resourcetype: Document
 title: MIT18_02SC_pb_6_quest.pdf
 uid: c11d83db-e117-bd6a-b41b-e2e8bc923194

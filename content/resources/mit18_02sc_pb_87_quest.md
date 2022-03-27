@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 87: Diffusion Equation'
 parent_type: CourseSection
+parent_uid: 7564bb64-749a-9b68-9ece-4277dd91ada1
 resourcetype: Document
 title: '18.02SC Problems : Problems: Harmonic Functions and Averages'
 uid: d3b45f9b-49ab-d97f-a10d-20fcf99cc886

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 27: Approximation Formula'
 parent_type: CourseSection
+parent_uid: 13765482-5c1e-9afc-7157-b73f07e97db6
 resourcetype: Document
 title: MIT18_02SC_MNotes_ta4.pdf
 uid: ff89ab81-dc34-6272-59fc-f4dc45909f85

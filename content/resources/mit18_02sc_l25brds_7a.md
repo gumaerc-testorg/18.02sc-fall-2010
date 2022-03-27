@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates'
 parent_type: CourseSection
+parent_uid: 6369fc2c-0ed6-73b1-973b-a7af526cb70d
 resourcetype: Image
 title: MIT18_02SC_L25Brds_7a.png
 uid: 0526a77d-911d-8c37-cb31-c44fc58770be

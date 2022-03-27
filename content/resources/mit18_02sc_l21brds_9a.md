@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 63: Potential Functions'
 parent_type: CourseSection
+parent_uid: d4f09bad-1bc5-04b8-2a71-9aa7c3f72168
 resourcetype: Image
 title: MIT18_02SC_L21Brds_9a.png
 uid: 67bad0d5-2618-7ced-ff12-b81e1399786a

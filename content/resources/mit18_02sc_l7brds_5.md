@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 23: Review of Problems'
 parent_type: CourseSection
+parent_uid: 7095650b-914e-4168-0d64-df9d74e9ffb8
 resourcetype: Image
 title: MIT18_02SC_L7Brds_5.png
 uid: 9f9f19e3-abe9-89f6-2b10-8af902f221ff

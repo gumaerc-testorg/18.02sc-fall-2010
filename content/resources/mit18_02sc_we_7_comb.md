@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 8: Equations of Planes'
 parent_type: CourseSection
+parent_uid: 5efcd66b-0cb6-bf6c-4156-5b1820985c00
 resourcetype: Document
 title: MIT18_02SC_we_7_comb.pdf
 uid: 42a8b344-ffc5-8e1d-f8b5-6144d245fdf1

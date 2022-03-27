@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 42: Constrained Differentials'
 parent_type: CourseSection
+parent_uid: 189d8c48-a287-41d4-f72b-8613f8e35c61
 resourcetype: Document
 title: '18.02SC Problems : Problems: Non-independent Variables'
 uid: 3bf21abc-a6ad-229e-34a4-37530e8854f0

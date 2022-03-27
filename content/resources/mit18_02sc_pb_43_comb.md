@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 43: Clearer Notation'
 parent_type: CourseSection
+parent_uid: a853b2a1-cf33-cf94-2198-4d602044e1f1
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: The Chain Rule with Constraints'
 uid: 1f3eb6a2-d5a0-8273-9e4b-decdce5f62a1

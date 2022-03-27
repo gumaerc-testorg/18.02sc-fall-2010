@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 40: Proof of Lagrange Multipliers'
 parent_type: CourseSection
+parent_uid: 211a985b-a1cd-42a3-ab78-a18bc42ff996
 resourcetype: Other
 title: lagrangeMultipliersTwoVariables.jar
 uid: b06ea9ee-b452-0c37-0e84-9b76741ae68e

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 53: Change of Variables'
 parent_type: CourseSection
+parent_uid: efa093dc-347f-d4af-527f-1b857bb14f2c
 resourcetype: Document
 title: '18.02SC Problems : Problems: Change of Variables'
 uid: fcf68357-1b94-e31e-9bcf-de0765a944be

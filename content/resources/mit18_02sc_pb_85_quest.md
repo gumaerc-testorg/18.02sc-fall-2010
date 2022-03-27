@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 85: Physical Meaning of Flux; Del Notation'
 parent_type: CourseSection
+parent_uid: 249236df-69e4-0920-33ef-e2787a0cd1ad
 resourcetype: Document
 title: '18.02SC Problems : Problems: Del Notation; Flux'
 uid: 41fa432b-f31c-baf0-825b-2cf37986b763

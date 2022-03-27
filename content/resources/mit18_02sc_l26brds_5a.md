@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 76: Spherical Coordinates'
 parent_type: CourseSection
+parent_uid: 1a869f5f-6349-e1f5-e91f-d375e74314ee
 resourcetype: Image
 title: MIT18_02SC_L26Brds_5a.png
 uid: 9dba66cd-36a2-8c02-d0c8-838862468ab9

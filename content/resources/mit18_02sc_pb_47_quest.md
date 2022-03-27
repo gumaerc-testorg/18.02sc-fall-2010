@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 77: Triple Integrals in Spherical Coordinates'
 parent_type: CourseSection
+parent_uid: f707a26e-ec56-fdb6-c3ca-f56567807058
 resourcetype: Document
 title: '18.02SC Problems : Problems: Spherical Coordinates'
 uid: ab074853-98f4-c4a1-5f26-706bf3a51488

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 80: Flux Through a Surface'
 parent_type: CourseSection
+parent_uid: 076b5dff-cda3-d135-851c-f7a311c53208
 resourcetype: Document
 title: MIT18_02SC_MNotes_v9.1.pdf
 uid: 2c1720a7-9462-2fa3-dbec-65e82e1f2503

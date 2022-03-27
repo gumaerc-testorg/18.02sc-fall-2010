@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 3: Uses of the Dot Product: Lengths and Angles'
 parent_type: CourseSection
+parent_uid: 6bffee60-0f9e-4f4f-dbab-82ddbed0e07d
 resourcetype: Image
 title: MIT18_02SC_L1Brds_8.png
 uid: 98ee2f0a-c246-6c89-7298-60392c7efdc7

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 1: Vectors'
 parent_type: CourseSection
+parent_uid: a55f30b5-41f0-fdb2-8aa6-929b363cf479
 resourcetype: Image
 title: MIT18_02SC_L1Brds_1th.png
 uid: 550eb16f-5cf5-ace2-a6f7-22b41c8bec86

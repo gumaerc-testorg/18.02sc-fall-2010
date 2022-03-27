@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 56: Vector Fields'
 parent_type: CourseSection
+parent_uid: d5133bed-a26e-a5ab-008f-fd452f137dfa
 resourcetype: Document
 title: '18.02SC Problems : Problems: Vector Fields'
 uid: 19221c7b-2cfd-9bf5-ed04-c2cbe936abf8

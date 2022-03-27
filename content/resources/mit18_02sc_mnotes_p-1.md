@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 87: Diffusion Equation'
 parent_type: CourseSection
+parent_uid: 7564bb64-749a-9b68-9ece-4277dd91ada1
 resourcetype: Document
 title: MIT18_02SC_MNotes_p.pdf
 uid: ff44c3d5-eeca-06ce-b075-cdfc2b466f4b

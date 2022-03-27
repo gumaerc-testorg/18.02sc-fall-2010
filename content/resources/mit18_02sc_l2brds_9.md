@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 6: Volumes and Determinants in Space'
 parent_type: CourseSection
+parent_uid: bb78c434-746c-4a7d-4c1a-369991a0b5d2
 resourcetype: Image
 title: MIT18_02SC_L2Brds_9.png
 uid: baa9a4ea-0bb3-3800-d7ab-7d127a008ae4

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 27: Approximation Formula'
 parent_type: CourseSection
+parent_uid: 13765482-5c1e-9afc-7157-b73f07e97db6
 resourcetype: Image
 title: MIT18_02SC_L9Brds_4.png
 uid: 3477eb4b-fb1a-95f6-f782-5346f2130c9b

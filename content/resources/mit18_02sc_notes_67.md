@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 67: Proof of Green''s Theorem'
 parent_type: CourseSection
+parent_uid: 213ba9d9-b909-14c6-1861-1b9025c7869d
 resourcetype: Document
 title: '18.02SC Notes: Green''s Theorem: Sketch of Proof'
 uid: fc757ef1-e527-abe8-ac11-54d78b084637

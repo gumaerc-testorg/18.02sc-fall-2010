@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 56: Vector Fields'
 parent_type: CourseSection
+parent_uid: d5133bed-a26e-a5ab-008f-fd452f137dfa
 resourcetype: Image
 title: MIT18_02SC_L19Brds_2a.png
 uid: aac7c456-cb2f-e4f9-7960-04364c4a5ab5

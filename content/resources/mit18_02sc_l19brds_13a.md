@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 58: Geometric Approach'
 parent_type: CourseSection
+parent_uid: fa095203-c47d-195d-b13f-ae16f977f84b
 resourcetype: Image
 title: MIT18_02SC_L19Brds_13a.png
 uid: aa87d45c-9537-3b86-ff33-0df8167c11c5

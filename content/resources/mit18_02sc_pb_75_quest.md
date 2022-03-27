@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 75: Applications and Examples'
 parent_type: CourseSection
+parent_uid: c4da9711-508e-8f11-a356-167da3376cd3
 resourcetype: Document
 title: '18.02SC Problems : Problems: Practice with Triple Integrals'
 uid: dd43a5b1-ff2a-9996-1d94-d9cd5d613bbe

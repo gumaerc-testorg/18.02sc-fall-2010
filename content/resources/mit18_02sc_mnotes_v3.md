@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 69: Flux in 2D'
 parent_type: CourseSection
+parent_uid: 667a15fc-5433-85da-7673-e4a4912acd3d
 resourcetype: Document
 title: MIT18_02SC_MNotes_v3.pdf
 uid: d4d8e457-e8dd-0c8c-92f2-4234b52e87ae

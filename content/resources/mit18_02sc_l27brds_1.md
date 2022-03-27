@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 79: Vector Fields in Space'
 parent_type: CourseSection
+parent_uid: cb1f2e44-229f-3ba5-0543-b58ec8cc851e
 resourcetype: Image
 title: MIT18_02SC_L27Brds_1.png
 uid: df6c1cf5-5292-ceeb-84d4-2bfb455ba9ce

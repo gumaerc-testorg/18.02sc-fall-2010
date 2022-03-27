@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 61: Conservative Fields, Path Independence, Exact Differentials'
 parent_type: CourseSection
+parent_uid: 9e1952de-8d4d-a6a6-dd36-24e6169f4681
 resourcetype: Image
 title: MIT18_02SC_L20Brds_20.png
 uid: f5c17643-89dd-c4a1-3ba3-7438e0c77656

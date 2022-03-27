@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 91: Stokes'' Theorem'
 parent_type: CourseSection
+parent_uid: 369a5a9d-53f8-ab4d-a9f4-78cd9a5ab7c7
 resourcetype: Image
 title: MIT18_02SC_L31Brds_7.png
 uid: 1665199f-96ea-b669-d427-e1d53e9e9aa9

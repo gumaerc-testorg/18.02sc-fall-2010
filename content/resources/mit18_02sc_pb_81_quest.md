@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 81: Calculating Flux; Finding ndS'
 parent_type: CourseSection
+parent_uid: 0dbd561e-4c4f-ace8-7b1a-fcf29eb32c91
 resourcetype: Document
 title: '18.02SC Problems : Problems: Flux Through Surfaces'
 uid: b93d0e83-490e-3ae7-f6c6-c668cf3abe0b

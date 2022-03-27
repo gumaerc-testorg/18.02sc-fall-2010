@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 89: Gradient Fields and Potential Functions'
 parent_type: CourseSection
+parent_uid: f5c1d74d-e71a-42ee-f54e-858fdda4ad8f
 resourcetype: Document
 title: '18.02SC Problems : Problems: Gradient Fields and Potential Functions'
 uid: 38770d10-5df1-b432-33ea-e45992b31d18

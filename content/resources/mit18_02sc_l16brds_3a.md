@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 47: Definition of Double Integration'
 parent_type: CourseSection
+parent_uid: c27b3aad-7c20-4b2a-4094-be585177be01
 resourcetype: Image
 title: MIT18_02SC_L16Brds_3a.png
 uid: 65a85e7d-e2c3-b8ed-57d1-c6476d6e30ba

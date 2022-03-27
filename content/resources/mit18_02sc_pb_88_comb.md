@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 88: Line Integrals in Space'
 parent_type: CourseSection
+parent_uid: 9d4fafc8-bb3b-b6f7-f352-581e663be4be
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Work Along a Space Curve'
 uid: 4b8942e6-d445-e97b-3617-3420bbdc4039

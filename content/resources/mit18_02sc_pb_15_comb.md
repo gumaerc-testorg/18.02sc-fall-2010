@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 13: Linear Systems and Planes'
 parent_type: CourseSection
+parent_uid: 6362fcf6-7aa8-fa07-ec5a-3312c93ef17d
 resourcetype: Document
 title: MIT18_02SC_pb_15_comb.pdf
 uid: 988501af-6a64-1704-fdaa-dd8cb8c40960

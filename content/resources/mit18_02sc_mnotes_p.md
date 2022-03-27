@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 45: Review of Topics'
 parent_type: CourseSection
+parent_uid: 01648978-5666-8ae2-3f95-81e972458de3
 resourcetype: Document
 title: MIT18_02SC_MNotes_p.pdf
 uid: 52f2d984-bbc8-d9c8-fa3b-a43731182883

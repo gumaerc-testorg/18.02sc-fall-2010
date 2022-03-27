@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 94: Simply Connected Regions; Topology'
 parent_type: CourseSection
+parent_uid: 9da45f78-5868-f3ae-fcb2-c3ec1ad5293e
 resourcetype: Document
 title: MIT18_02SC_MNotes_v14.pdf
 uid: f790233a-e3e5-4f46-3bee-c68b9f8827ff

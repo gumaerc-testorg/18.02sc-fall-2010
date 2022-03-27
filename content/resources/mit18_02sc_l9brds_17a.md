@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 29: Least Squares'
 parent_type: CourseSection
+parent_uid: 4dee8231-f05e-53cc-79cb-f731a6390b29
 resourcetype: Image
 title: MIT18_02SC_L9Brds_17a.png
 uid: fe6306fd-4eea-4f8f-6b15-00e9aee376ee

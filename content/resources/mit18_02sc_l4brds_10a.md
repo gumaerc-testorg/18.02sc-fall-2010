@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 14: Solutions to Square Systems'
 parent_type: CourseSection
+parent_uid: 7d94f07b-8bc7-0601-a943-1aa48d6b4518
 resourcetype: Image
 title: MIT18_02SC_L4Brds_10a.png
 uid: cf9edaf4-2965-531e-5401-fb2948bf6289

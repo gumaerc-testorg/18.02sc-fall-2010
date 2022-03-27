@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 34: The Chain Rule with More Variables'
 parent_type: CourseSection
+parent_uid: dce75e0b-0628-19f0-f3d6-a420fbe9b880
 resourcetype: Image
 title: MIT18_02SC_L11Brds_16a.png
 uid: 22804e4e-ee98-1782-1f77-8f0b3b54df9b

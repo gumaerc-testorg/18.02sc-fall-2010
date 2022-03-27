@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 57: Work and Line Integrals'
 parent_type: CourseSection
+parent_uid: 966d4aa4-c089-ef86-4415-1b6c0f5a967b
 resourcetype: Image
 title: MIT18_02SC_L19Brds_10.png
 uid: e38b2336-6988-0287-2d8b-ce916c3f523e

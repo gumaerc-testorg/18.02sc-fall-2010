@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 4
 parent_type: CourseSection
+parent_uid: d25e4e51-80c1-1145-7a33-520120b986bf
 resourcetype: Document
 title: MIT18_02SC_SupProb2.pdf
 uid: de301eb2-1501-d2ee-f5a9-ebcae0b5a333

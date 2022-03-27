@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 10: Meaning of Matrix Multiplication'
 parent_type: CourseSection
+parent_uid: 2893633a-059c-b4ab-36d7-7e4e15b1e870
 resourcetype: Document
 title: MIT18_02SC_notes_4.pdf
 uid: e6f05e8d-d95b-31f2-dc80-fe3b5a6a955f

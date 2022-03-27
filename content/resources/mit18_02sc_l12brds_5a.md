@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 35: Gradient: Definition, Perpendicular to Level Curves'
 parent_type: CourseSection
+parent_uid: bec58626-ee69-e1c4-dd18-54a8969ab451
 resourcetype: Image
 title: MIT18_02SC_L12Brds_5a.png
 uid: 32212385-8092-eda4-bd28-ccd93a228b7b

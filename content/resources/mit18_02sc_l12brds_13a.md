@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 37: Example'
 parent_type: CourseSection
+parent_uid: 10e11645-483c-9e7b-c1e8-194ff0a40c7e
 resourcetype: Image
 title: MIT18_02SC_L12Brds_13a.png
 uid: 01ba9e09-c511-ef90-ddb6-22c78e197bc1

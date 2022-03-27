@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 50: Double Integrals in Polar Coordinates'
 parent_type: CourseSection
+parent_uid: 526fb43e-aa20-5187-0cb7-2c769f2c80ae
 resourcetype: Document
 title: MIT18_02SC_pb_36_quest.pdf
 uid: 9b592e55-9908-d74e-4ddb-e967325add52

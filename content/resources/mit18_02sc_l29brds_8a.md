@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 86: Proof of the Divergence Theorem'
 parent_type: CourseSection
+parent_uid: 03a91fed-e2f7-988b-991d-1ddd6eb70a7c
 resourcetype: Image
 title: MIT18_02SC_L29Brds_8a.png
 uid: 4d5eee8c-e827-e853-fb7f-0421eba9f0ba

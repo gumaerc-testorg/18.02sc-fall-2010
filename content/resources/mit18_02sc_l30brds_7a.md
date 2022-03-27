@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 88: Line Integrals in Space'
 parent_type: CourseSection
+parent_uid: 9d4fafc8-bb3b-b6f7-f352-581e663be4be
 resourcetype: Image
 title: MIT18_02SC_L30Brds_7a.png
 uid: 05e1cfd5-5df8-640c-ed38-beb0792c262c

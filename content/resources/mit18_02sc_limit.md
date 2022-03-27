@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Part A: Functions of Two Variables, Tangent Approximation and Optimization'
 parent_type: CourseSection
+parent_uid: 5ee00816-c5fb-6f61-1e73-27400ba69bef
 resourcetype: Image
 title: MIT18_02SC_limit.png
 uid: d2c4c630-7955-820e-38ff-7004326fe258

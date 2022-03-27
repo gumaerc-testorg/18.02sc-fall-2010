@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 20: Velocity and Arc Length'
 parent_type: CourseSection
+parent_uid: 25cd5a91-eff0-444d-5fd8-5ec6178eef45
 resourcetype: Image
 title: MIT18_02SC_L6Brds_7.png
 uid: 8c065af6-bd21-1996-5c6b-8b428b02b0a9

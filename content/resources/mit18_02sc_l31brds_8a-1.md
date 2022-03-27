@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 92: Proof of Stokes'' Theorem'
 parent_type: CourseSection
+parent_uid: 6bcf7641-05bf-41d1-5a38-3392f24a4910
 resourcetype: Image
 title: MIT18_02SC_L31Brds_8a.png
 uid: 8e5cef59-5cff-3743-8541-e7a31b5ebacf

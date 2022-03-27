@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 80: Flux Through a Surface'
 parent_type: CourseSection
+parent_uid: 076b5dff-cda3-d135-851c-f7a311c53208
 resourcetype: Document
 title: '18.02SC Problems : Problems: Calculating Flux'
 uid: b4e14f64-7a3a-df7c-59d7-52ec7e5a5474

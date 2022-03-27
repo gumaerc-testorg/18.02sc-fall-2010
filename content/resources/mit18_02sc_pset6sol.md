@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 6
 parent_type: CourseSection
+parent_uid: 2167c545-5531-8868-d776-80b258acc02d
 resourcetype: Document
 title: MIT18_02SC_pset6sol.pdf
 uid: e17d1ae1-3c8f-bbe6-6bcc-bc3a55b556fb

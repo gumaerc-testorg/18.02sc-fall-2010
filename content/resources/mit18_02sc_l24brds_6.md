@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 72: Simply Connected Regions and Conservative Fields'
 parent_type: CourseSection
+parent_uid: 7e63a591-cff7-d483-506d-4b94bb0df706
 resourcetype: Image
 title: MIT18_02SC_L24Brds_6.png
 uid: 3fb4b831-ede3-19cb-c696-4989089bcc97

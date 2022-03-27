@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 84: Divergence Theorem'
 parent_type: CourseSection
+parent_uid: d088492f-402f-9db5-c30d-cd82be2c37a6
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Divergence Theorem'
 uid: cd0a3c93-02ff-a25d-0dc2-767e0065a756

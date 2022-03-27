@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 15: Equations of Lines'
 parent_type: CourseSection
+parent_uid: e5343669-3ea8-a4e9-6e81-941891967e93
 resourcetype: Image
 title: MIT18_02SC_L5Brds_3.png
 uid: 98e0436c-ee02-6b56-98d2-72c530b3e315

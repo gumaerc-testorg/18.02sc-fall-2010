@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 55: Example'
 parent_type: CourseSection
+parent_uid: 9d0e3d8a-0846-d1b8-71f4-f3c5171f3b33
 resourcetype: Document
 title: '18.02SC Problems and Solutions: Problems: Change of Variables Example'
 uid: bacba6e1-1e68-d1f1-bf57-39abe23f8aef

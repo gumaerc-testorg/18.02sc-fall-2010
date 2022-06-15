@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session contains a lecture video clip, board notes, an example,
+  and a recitation video.  It also contains problems and solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Vectors, Determinants and Planes'
@@ -7,9 +9,11 @@ parent_type: CourseSection
 parent_uid: 5ec6e19f-f0b0-98e4-0ec6-5f8bcf898f57
 title: 'Session 5: Area and Determinants in 2D'
 uid: f85eebfc-2c74-d08c-7980-6f454c3446ae
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space) »
+« {{% resource_link 375dd1f6-85ad-f2e0-9b71-14726b7f7b54 "Previous" %}} | {{% resource_link bb78c434-746c-4a7d-4c1a-369991a0b5d2 "Next" %}} »
 
 Problems and Solutions
 ----------------------
@@ -26,16 +30,16 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Area and Determinants in 2D]({{< baseurl >}}/resources/clip-area-and-determinants-in-2d)
+{{% resource_link ef262472-30db-42f5-1799-c22b31134215 "Clip: Area and Determinants in 2D" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![MIT18_02SC_L2Brds_4a.png]({{< resource_file d1eee34f-c833-8154-a990-db82e886fb3c >}})]({{< baseurl >}}/resources/mit18_02sc_l2brds_4)[![MIT18_02SC_L2Brds_5a.png]({{< resource_file 32c40fcc-83d1-fa6a-034d-96c1ec12ad22 >}})]({{< baseurl >}}/resources/mit18_02sc_l2brds_5)[![MIT18_02SC_L2Brds_6a.png]({{< resource_file 1576f12b-bc69-86d3-d0ce-b7093944186e >}})]({{< baseurl >}}/resources/mit18_02sc_l2brds_6)[![MIT18_02SC_L2Brds_7a.png]({{< resource_file e94e02eb-15da-ce75-3861-10d208eca821 >}})]({{< baseurl >}}/resources/mit18_02sc_l2brds_7)
+{{< resource uuid="d1eee34f-c833-8154-a990-db82e886fb3c" href_uuid="ec68ed54-3c9b-aa2f-65dc-e6a5e2ec4e83" >}}{{< resource uuid="32c40fcc-83d1-fa6a-034d-96c1ec12ad22" href_uuid="7d680424-b5b6-cab9-b7f5-7b9f14d0ff0d" >}}{{< resource uuid="1576f12b-bc69-86d3-d0ce-b7093944186e" href_uuid="2ed0ee82-a657-c3c1-b021-6663ccf8e2e2" >}}{{< resource uuid="e94e02eb-15da-ce75-3861-10d208eca821" href_uuid="8f8dd16c-8f60-21b0-ef5b-8bb075e5f7e3" >}}
 
 Examples
 --------
 
-[Areas and Determinants (PDF)]({{< baseurl >}}/resources/mit18_02sc_we_6_comb)
+{{% resource_link 14957918-d67d-27e7-833e-dd92452f1c92 "Areas and Determinants (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -47,8 +51,8 @@ Recitation Video
 Problems and Solutions
 ----------------------
 
-[Problems: 2x2 Determinants (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_5_quest)
+{{% resource_link 57711a86-1227-a873-60f4-e12f0eabc372 "Problems: 2x2 Determinants (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_5_comb)
+{{% resource_link 860e3ac4-bb8a-3d42-8154-86b9f00617c5 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space) »
+« {{% resource_link 375dd1f6-85ad-f2e0-9b71-14726b7f7b54 "Previous" %}} | {{% resource_link bb78c434-746c-4a7d-4c1a-369991a0b5d2 "Next" %}} »

@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on course goals, structure, lecture videos, recitation videos, readings, activities,
+  exams, textbooks, technical requirements, and joining a study group.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: d764fda4-99d7-f9dd-f72d-00c4e7ae00c3
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 670edba6-2cf4-bbd8-3537-93d6e066fb6c "Next" %}} »
 
 Introduction
 ------------
@@ -116,4 +121,4 @@ Technical Requirements
 
 This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 670edba6-2cf4-bbd8-3537-93d6e066fb6c "Next" %}} »

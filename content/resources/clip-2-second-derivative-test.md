@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2730'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 30: Second Derivative Test'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1755'
 title: 'Clip 2: Second Derivative Test'
 uid: 618e7165-d449-57ad-2188-13f73f15291b
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: 3_goGnJm5sA
 ---
 
-From Lecture 10 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 10 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

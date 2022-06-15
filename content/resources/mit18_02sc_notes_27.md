@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to work and line integrals.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/6facab84c409b0acb65aaea786f31652_MIT18_02SC_notes_27.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/6facab84c409b0acb65aaea786f31652_MIT18_02SC_notes_27.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: 966d4aa4-c089-ef86-4415-1b6c0f5a967b
 resourcetype: Document
 title: MIT18_02SC_notes_27.pdf
 uid: 6facab84-c409-b0ac-b65a-aea786f31652
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to work and line integrals.
+

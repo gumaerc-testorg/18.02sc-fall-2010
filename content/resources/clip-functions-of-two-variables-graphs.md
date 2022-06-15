@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '940'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 24: Functions of Two Variables: Graphs'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '21'
 title: 'Clip: Functions of Two Variables: Graphs'
 uid: ce571812-3585-46c6-d40b-fd4291354f4e
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: dK3NEf13nPc
 ---
 
-From Lecture 8 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 8 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

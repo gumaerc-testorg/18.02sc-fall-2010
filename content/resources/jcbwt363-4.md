@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/2411862df545646f19093d8f74cca30c_jcbwt363.jar
+file: /courses/18-02sc-multivariable-calculus-fall-2010/2411862df545646f19093d8f74cca30c_jcbwt363.jar
 file_type: application/java-archive
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,6 @@ parent_uid: 211a985b-a1cd-42a3-ab78-a18bc42ff996
 resourcetype: Other
 title: jcbwt363.jar
 uid: 2411862d-f545-646f-1909-3d8f74cca30c
+video_metadata:
+  youtube_id: null
 ---

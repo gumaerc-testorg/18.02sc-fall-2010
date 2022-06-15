@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1234'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 36: Proof'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '618'
 title: 'Clip: Proof'
 uid: df9130ec-c09e-5207-714d-ee7170031748
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: 2XraaWefBd8
 ---
 
-From Lecture 12 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 12 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

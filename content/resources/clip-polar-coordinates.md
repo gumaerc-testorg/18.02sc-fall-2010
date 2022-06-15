@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2215'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 54: Example: Polar Coordinates'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1735'
 title: 'Clip: Polar Coordinates'
 uid: a9bead07-723d-ec86-c5ff-972ccf7ad980
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: UZb9hZIAvL4
 ---
 
-From Lecture 18 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 18 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

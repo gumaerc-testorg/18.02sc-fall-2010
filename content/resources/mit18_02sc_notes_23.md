@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to double integration.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/6e4a3ff68be72d26d3c70d8ea7347331_MIT18_02SC_notes_23.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/6e4a3ff68be72d26d3c70d8ea7347331_MIT18_02SC_notes_23.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: c27b3aad-7c20-4b2a-4094-be585177be01
 resourcetype: Document
 title: MIT18_02SC_notes_23.pdf
 uid: 6e4a3ff6-8be7-2d26-d3c7-0d8ea7347331
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to double integration.
+

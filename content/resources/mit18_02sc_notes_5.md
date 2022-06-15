@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to equations of planes.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/581296ab1100fe5615fccb7ff2511530_MIT18_02SC_notes_5.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/581296ab1100fe5615fccb7ff2511530_MIT18_02SC_notes_5.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: 373d1bd0-0654-8266-3191-d1be06e5b406
 resourcetype: Document
 title: MIT18_02SC_notes_5.pdf
 uid: 581296ab-1100-fe56-15fc-cb7ff2511530
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to equations of planes.
+

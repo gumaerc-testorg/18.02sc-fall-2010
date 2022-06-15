@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '835'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 99: Unit 1 Review'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '22'
 title: 'Clip 1: Vectors, Equations of Lines/Curves/Planes'
 uid: 255f67c0-aeb8-37dc-e5b8-fb391ff804c8
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: ZwpwmGP5ITM
 ---
 
-From Lecture 34 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 34 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

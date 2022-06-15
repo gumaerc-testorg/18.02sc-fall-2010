@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to velocity and acceleration.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/72216820fcb729129ceab1cd4a79b291_MIT18_02SC_pb_20_quest.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/72216820fcb729129ceab1cd4a79b291_MIT18_02SC_pb_20_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: dcdc00f0-31ba-84ce-819f-58d5b2584e2e
 resourcetype: Document
 title: MIT18_02SC_pb_20_quest.pdf
 uid: 72216820-fcb7-2912-9cea-b1cd4a79b291
+video_metadata:
+  youtube_id: null
 ---
+This resource contains problem statements related to velocity and acceleration.
+

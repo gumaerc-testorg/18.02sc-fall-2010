@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding change of variables.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/fcf683571b94e31e9bcfde0765a944be_MIT18_02SC_pb_53_quest.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/fcf683571b94e31e9bcfde0765a944be_MIT18_02SC_pb_53_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: efa093dc-347f-d4af-527f-1b857bb14f2c
 resourcetype: Document
 title: '18.02SC Problems : Problems: Change of Variables'
 uid: fcf68357-1b94-e31e-9bcf-de0765a944be
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information regarding change of variables.
+

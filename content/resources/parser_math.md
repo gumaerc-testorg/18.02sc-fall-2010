@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/01aed4299f55fc4220f32fc360a4493e_parser_math.jar
+file: /courses/18-02sc-multivariable-calculus-fall-2010/01aed4299f55fc4220f32fc360a4493e_parser_math.jar
 file_type: application/java-archive
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,6 @@ parent_uid: c2cc5b93-7ffb-ca97-9260-841317394439
 resourcetype: Other
 title: parser_math.jar
 uid: 01aed429-9f55-fc42-20f3-2fc360a4493e
+video_metadata:
+  youtube_id: null
 ---

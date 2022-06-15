@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1615'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 39: Statement of Lagrange Multipliers and Example'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '22'
 title: 'Clip: Lagrange Multipliers by Example'
 uid: d1654000-46a9-a04c-e848-e9045dec4876
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: 15HVevXRsBA
 ---
 
-From Lecture 13 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 13 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

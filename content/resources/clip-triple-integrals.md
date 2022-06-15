@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1290'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '22'
 title: 'Clip: Triple Integrals'
 uid: d27541ba-9964-e4df-289e-7e41934ff399
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: 44R5HgbrUmc
 ---
 
-From Lecture 25 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 25 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

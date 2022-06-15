@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '685'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 71: Extended Green''s Theorem: Boundaries with Multiple Pieces'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '21'
 title: 'Clip: Extended Green''s Theorem'
 uid: e591b229-b09d-3f28-463e-ffbaf38a5507
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: PnPIqh7Frlw
 ---
 
-From Lecture 24 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 24 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

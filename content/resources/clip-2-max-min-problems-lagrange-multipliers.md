@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2633'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 100: Unit 2 Review'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2240'
 title: 'Clip 2: Max-Min Problems, Lagrange Multipliers'
 uid: fe37c9e2-262b-2641-aa22-a92301181e7b
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: ZwpwmGP5ITM
 ---
 
-From Lecture 34 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 34 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

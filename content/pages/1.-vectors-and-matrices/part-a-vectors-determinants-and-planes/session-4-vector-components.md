@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This session contains a lecture video clip, board notes, readings, examples,
+  and a recitation video.  It also contains problems and solutions.  '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Vectors, Determinants and Planes'
@@ -7,9 +9,11 @@ parent_type: CourseSection
 parent_uid: 5ec6e19f-f0b0-98e4-0ec6-5f8bcf898f57
 title: 'Session 4: Vector Components'
 uid: 375dd1f6-85ad-f2e0-9b71-14726b7f7b54
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-5-area-and-determinants-in-2d) »
+« {{% resource_link 6bffee60-0f9e-4f4f-dbab-82ddbed0e07d "Previous" %}} | {{% resource_link f85eebfc-2c74-d08c-7980-6f454c3446ae "Next" %}} »
 
 Overview
 --------
@@ -26,16 +30,16 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Vector Components]({{< baseurl >}}/resources/copy2_of_clip-vector-components)
+{{% resource_link e10acdc3-fbc1-5976-8686-903dedf77788 "Clip: Vector Components" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![MIT18_02SC_L2Brds_1a.png]({{< resource_file 7b3965e8-f171-0c77-f521-8bb81011ba40 >}})]({{< baseurl >}}/resources/mit18_02sc_l2brds_1)[![MIT18_02SC_L2Brds_2a.png]({{< resource_file 125c2c3b-7271-906d-f60e-6292f62d8e5a >}})]({{< baseurl >}}/resources/mit18_02sc_l2brds_2)[![MIT18_02SC_L2Brds_3a.png]({{< resource_file bba584c4-a140-bb4a-f841-c123c4a68fa8 >}})]({{< baseurl >}}/resources/mit18_02sc_l2brds_3)
+{{< resource uuid="7b3965e8-f171-0c77-f521-8bb81011ba40" href_uuid="df5541aa-5c6e-b0aa-ad3d-c3ef7b465dec" >}}{{< resource uuid="125c2c3b-7271-906d-f60e-6292f62d8e5a" href_uuid="41ae41b4-db72-ae73-d97e-89dd34567288" >}}{{< resource uuid="bba584c4-a140-bb4a-f841-c123c4a68fa8" href_uuid="23d4dfd2-3548-cd53-acf5-4f92bb809aca" >}}
 
 Reading and Examples
 --------------------
 
-[Components and Projection (PDF)]({{< baseurl >}}/resources/mit18_02sc_notes_2)
+{{% resource_link f1b2876c-bb42-07c9-72b9-0eb04ebc861d "Components and Projection (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -47,8 +51,8 @@ Recitation Video
 Problems and Solutions
 ----------------------
 
-[Problems: Components (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_4_quest)
+{{% resource_link 6d372112-6244-3a57-48b2-4696f1801841 "Problems: Components (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_4_comb)
+{{% resource_link 2086208d-c354-86fe-4037-bede6ddad69c "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-5-area-and-determinants-in-2d) »
+« {{% resource_link 6bffee60-0f9e-4f4f-dbab-82ddbed0e07d "Previous" %}} | {{% resource_link f85eebfc-2c74-d08c-7980-6f454c3446ae "Next" %}} »

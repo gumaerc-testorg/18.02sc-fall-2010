@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 3. Double Integrals and Line Integrals in the Plane
 uid: e20c7287-dbfb-8ff8-c5a6-75c132a454cc
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/exam-2/exam-materials) | [Next]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals) »
+« {{% resource_link 135fc901-eb8a-1a47-6950-a83a9b8c2e7e "Previous" %}} | {{% resource_link 9fa9495f-e35f-5fa9-506b-b63e2d42812f "Next" %}} »
 
 Unit 3 Introduction
 -------------------
@@ -22,48 +25,48 @@ All integrals can be thought of as a sum, technically a limit of Riemann sums, a
 
 We will conclude the unit by learning Green's theorem which relates the two types of integrals and is a generalization of the Fundamental Theorem of Calculus. Along the way we will introduce the concepts of work and two dimensional flux and also two types of derivatives of vector valued functions of two variables, the curl and the divergence.
 
-[**Part A: Double Integrals**]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals)
+{{% resource_link 9fa9495f-e35f-5fa9-506b-b63e2d42812f "**Part A: Double Integrals**" %}}
 
-> » [Session 47: Definition of Double Integration]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-47-definition-of-double-integration)  
-> » [Session 48: Examples of Double Integration]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration)  
-> » [Session 49: Exchanging the Order of Integration]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration)  
-> » [Session 50: Double Integrals in Polar Coordinates]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-50-double-integrals-in-polar-coordinates)  
-> » [Session 51: Applications: Mass and Average Value]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-51-applications-mass-and-average-value)  
-> » [Session 52: Applications: Moment of Inertia]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-52-applications-moment-of-inertia)  
-> » [Session 53: Change of Variables]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-53-change-of-variables)  
-> » [Session 54: Example: Polar Coordinates]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-54-example-polar-coordinates)  
-> » [Session 55: Example]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example)  
-> » [Problem Set 7]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/problem-set-7)
+> » {{% resource_link c27b3aad-7c20-4b2a-4094-be585177be01 "Session 47: Definition of Double Integration" %}}  
+> » {{% resource_link 3ad46114-9d5e-6097-2563-36b54cf159d4 "Session 48: Examples of Double Integration" %}}  
+> » {{% resource_link 835ad424-3cd2-5ec6-b244-f1c7dc764bc4 "Session 49: Exchanging the Order of Integration" %}}  
+> » {{% resource_link 526fb43e-aa20-5187-0cb7-2c769f2c80ae "Session 50: Double Integrals in Polar Coordinates" %}}  
+> » {{% resource_link 43332687-cd97-d854-2b2f-75420455c62c "Session 51: Applications: Mass and Average Value" %}}  
+> » {{% resource_link 71ab1fd2-8595-ea71-a49d-ec2a50b44b1f "Session 52: Applications: Moment of Inertia" %}}  
+> » {{% resource_link efa093dc-347f-d4af-527f-1b857bb14f2c "Session 53: Change of Variables" %}}  
+> » {{% resource_link 4298c9f5-2873-d0fa-0eca-900cbdf04cdc "Session 54: Example: Polar Coordinates" %}}  
+> » {{% resource_link 9d0e3d8a-0846-d1b8-71f4-f3c5171f3b33 "Session 55: Example" %}}  
+> » {{% resource_link 8ba5193a-7be7-a413-46bd-3c273f529619 "Problem Set 7" %}}
 
-**[Part B: Vector Fields and Line Integrals]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals)**
+**{{% resource_link 14558d9f-4e08-d12a-4191-54f3c8100c75 "Part B: Vector Fields and Line Integrals" %}}**
 
-> » [Session 56: Vector Fields]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-56-vector-fields)  
-> » [Session 57: Work and Line Integrals]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals)  
-> » [Session 58: Geometric Approach]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-58-geometric-approach)  
-> » [Session 59: Example: Line Integrals for Work]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-59-example-line-integrals-for-work)  
-> » [Session 60: Fundamental Theorem for Line Integrals]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-60-fundamental-theorem-for-line-integrals)  
-> » [Session 61: Conservative Fields, Path Independence, Exact Differentials]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-61-conservative-fields-path-independence-exact-differentials)  
-> » [Session 62: Gradient Fields]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-62-gradient-fields)  
-> » [Session 63: Potential Functions]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions)  
-> » [Session 64: Curl]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-64-curl)  
-> » [Problem Set 8]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/problem-set-8)
+> » {{% resource_link d5133bed-a26e-a5ab-008f-fd452f137dfa "Session 56: Vector Fields" %}}  
+> » {{% resource_link 966d4aa4-c089-ef86-4415-1b6c0f5a967b "Session 57: Work and Line Integrals" %}}  
+> » {{% resource_link fa095203-c47d-195d-b13f-ae16f977f84b "Session 58: Geometric Approach" %}}  
+> » {{% resource_link 251c2875-0901-cae7-a94e-eaecf01f6e6b "Session 59: Example: Line Integrals for Work" %}}  
+> » {{% resource_link 59598015-71e0-55a7-023b-590e1522b972 "Session 60: Fundamental Theorem for Line Integrals" %}}  
+> » {{% resource_link 9e1952de-8d4d-a6a6-dd36-24e6169f4681 "Session 61: Conservative Fields, Path Independence, Exact Differentials" %}}  
+> » {{% resource_link 2e446b90-21aa-10b2-7a0d-206567272851 "Session 62: Gradient Fields" %}}  
+> » {{% resource_link d4f09bad-1bc5-04b8-2a71-9aa7c3f72168 "Session 63: Potential Functions" %}}  
+> » {{% resource_link 13adb394-0267-51e6-b83b-43c03adb8511 "Session 64: Curl" %}}  
+> » {{% resource_link a98a58f6-bb5b-104f-61be-c3ff5c09e97e "Problem Set 8" %}}
 
-**[Part C: Green's Theorem]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem)**
+**{{% resource_link 138f6170-e946-b9b1-22d9-693749cc9860 "Part C: Green's Theorem" %}}**
 
-> » [Session 65: Green's Theorem]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-65-greens-theorem)  
-> » [Session 66: Curl(F) = 0 Implies Conservative]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-66-curl-f-equals-0-implies-conservative)  
-> » [Session 67: Proof of Green's Theorem]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-67-proof-of-greens-theorem)  
-> » [Session 68: Planimeter: Green's Theorem and Area]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area)  
-> » [Session 69: Flux in 2D]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-69-flux-in-2d)  
-> » [Session 70: Normal Form of Green's Theorem]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-70-normal-form-of-greens-theorem)  
-> » [Session 71: Extended Green's Theorem: Boundaries with Multiple Pieces]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-71-extended-greens-theorem-boundaries-with-multiple-pieces)  
-> » [Session 72: Simply Connected Regions and Conservative]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-72-simply-connected-regions-and-conservative-fields)  
-> » [Problem Set 9]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/problem-set-9)
+> » {{% resource_link bb85ae20-524b-81e6-eb9a-d8ae9cd2220c "Session 65: Green's Theorem" %}}  
+> » {{% resource_link bf983f8d-7c6f-881d-2fbd-5426ef1eaf4e "Session 66: Curl(F) = 0 Implies Conservative" %}}  
+> » {{% resource_link 213ba9d9-b909-14c6-1861-1b9025c7869d "Session 67: Proof of Green's Theorem" %}}  
+> » {{% resource_link fce780d8-a145-fae3-fe0d-349fbce595cf "Session 68: Planimeter: Green's Theorem and Area" %}}  
+> » {{% resource_link 667a15fc-5433-85da-7673-e4a4912acd3d "Session 69: Flux in 2D" %}}  
+> » {{% resource_link dae7ac00-7cfa-7edb-c3d6-3aa45f355773 "Session 70: Normal Form of Green's Theorem" %}}  
+> » {{% resource_link 5bbb4de2-941a-4319-bca3-41074dd6e5f3 "Session 71: Extended Green's Theorem: Boundaries with Multiple Pieces" %}}  
+> » {{% resource_link 7e63a591-cff7-d483-506d-4b94bb0df706 "Session 72: Simply Connected Regions and Conservative" %}}  
+> » {{% resource_link c72cd9fc-8ace-c420-57f0-71dc278a5e5d "Problem Set 9" %}}
 
-**[Exam 3]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/exam-3)**
+**{{% resource_link e79da896-ae6c-7889-8c52-c2803214c68e "Exam 3" %}}**
 
-> » [Practice Exam]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/exam-3/practice-exam)  
-> » [Session 73: Exam Review]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/exam-3/session-73-exam-review)  
-> » [Exam]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/exam-3/exam)
+> » {{% resource_link d3eb0ebc-a99b-efe6-1791-999be3008002 "Practice Exam" %}}  
+> » {{% resource_link d286d8f1-d8ac-d0b2-0d8e-58a9967f8be9 "Session 73: Exam Review" %}}  
+> » {{% resource_link a5f42a3b-f32c-2c20-138b-c941619180b2 "Exam" %}}
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/exam-2/exam-materials) | [Next]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals) »
+« {{% resource_link 135fc901-eb8a-1a47-6950-a83a9b8c2e7e "Previous" %}} | {{% resource_link 9fa9495f-e35f-5fa9-506b-b63e2d42812f "Next" %}} »

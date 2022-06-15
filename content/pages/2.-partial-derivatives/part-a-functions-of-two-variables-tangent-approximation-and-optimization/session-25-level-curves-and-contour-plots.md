@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session includes a lecture video clip, board notes, course notes,
+  examples, two recitation videos, and a Mathlet.  It also includes problems and solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Functions of Two Variables, Tangent Approximation and Optimization'
@@ -7,9 +9,11 @@ parent_type: CourseSection
 parent_uid: 5ee00816-c5fb-6f61-1e73-27400ba69bef
 title: 'Session 25: Level Curves and Contour Plots'
 uid: 1d647248-9b24-f436-8ee8-e9e8a2dd7c81
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs) | [Next]({{< baseurl >}}/pages/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives) »
+« {{% resource_link c2cc5b93-7ffb-ca97-9260-841317394439 "Previous" %}} | {{% resource_link 9bc5502d-75dd-79dd-4f22-0e496468c323 "Next" %}} »
 
 Overview
 --------
@@ -27,16 +31,16 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Level Curves and Contour Plots]({{< baseurl >}}/resources/clip-level-curves-and-contour-plots)
+{{% resource_link 9c18d65e-a519-64d6-3e39-0f691a774142 "Clip: Level Curves and Contour Plots" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file 16fb4e7e-44f7-5536-1eb6-239ec7713638 >}})]({{< baseurl >}}/resources/mit18_02sc_l8brds_7)[![Chalkboard 2.]({{< resource_file d6f5d72e-eda4-d51e-f795-fb05258ff5b0 >}})]({{< baseurl >}}/resources/mit18_02sc_l8brds_8)[![Chalkboard 3.]({{< resource_file 79e28848-4e07-75c1-2cd6-2449a5f1fe01 >}})]({{< baseurl >}}/resources/mit18_02sc_l8brds_9)[![Chalkboard 4.]({{< resource_file a37c037d-335d-c3b5-8813-8b9176f23c45 >}})]({{< baseurl >}}/resources/mit18_02sc_l8brds_10)
+{{< resource uuid="16fb4e7e-44f7-5536-1eb6-239ec7713638" href_uuid="d1de0110-4675-4f64-e279-8611b1faa834" >}}{{< resource uuid="d6f5d72e-eda4-d51e-f795-fb05258ff5b0" href_uuid="f6f6fd93-d777-2ed0-f8c0-3db2c76da626" >}}{{< resource uuid="79e28848-4e07-75c1-2cd6-2449a5f1fe01" href_uuid="bae4d8f8-ffb0-a2f0-8a70-cd058ea76f96" >}}{{< resource uuid="a37c037d-335d-c3b5-8813-8b9176f23c45" href_uuid="0cf2b4ea-4f13-c9b3-b977-3642449f4691" >}}
 
 Reading and Examples
 --------------------
 
-[Level Curves and Contour Plots (PDF)]({{< baseurl >}}/resources/mit18_02sc_notes_15)
+{{% resource_link d32be016-df4d-1bcf-9c9e-32cb109db15b "Level Curves and Contour Plots (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -57,8 +61,8 @@ Related Resources
 Problems and Solutions
 ----------------------
 
-[Problems: Contour Plots (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_24_quest)
+{{% resource_link 1b2901c7-9999-8835-8a6c-913b0c6669f9 "Problems: Contour Plots (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_24_comb)
+{{% resource_link 0badbad0-16b2-b77a-4d75-81be8d110575 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs) | [Next]({{< baseurl >}}/pages/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives) »
+« {{% resource_link c2cc5b93-7ffb-ca97-9260-841317394439 "Previous" %}} | {{% resource_link 9bc5502d-75dd-79dd-4f22-0e496468c323 "Next" %}} »

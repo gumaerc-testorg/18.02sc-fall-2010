@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to vectore methods.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/904c6ca3318bd35307bb65ba3dd0f50e_MIT18_02SC_pracfinal.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/904c6ca3318bd35307bb65ba3dd0f50e_MIT18_02SC_pracfinal.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: 37347015-2d61-a306-21c6-ebdfe7e34763
 resourcetype: Document
 title: MIT18_02SC_pracfinal.pdf
 uid: 904c6ca3-318b-d353-07bb-65ba3dd0f50e
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to vectore methods.
+

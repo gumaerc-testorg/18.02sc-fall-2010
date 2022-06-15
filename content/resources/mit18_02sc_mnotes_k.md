@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource contains information related to kepler\u2019s second law."
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/040b72c08d4f0ef67faf085066e1cc71_MIT18_02SC_MNotes_k.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/040b72c08d4f0ef67faf085066e1cc71_MIT18_02SC_MNotes_k.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: 8c2c314c-7639-2934-4855-b23ce9880749
 resourcetype: Document
 title: MIT18_02SC_MNotes_k.pdf
 uid: 040b72c0-8d4f-0ef6-7faf-085066e1cc71
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to kepler’s second law.
+

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3089'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 52: Applications: Moment of Inertia'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1853'
 title: 'Clip: Applications: Moment of Inertia'
 uid: 76e34d51-5cd6-74c3-8db9-d76e7e7c64ef
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: 60e4hdCi1D4
 ---
 
-From Lecture 17 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 17 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

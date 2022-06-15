@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements and solutions related to example
   for Lagrange's multipliers and constrained differentials.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/43eaedda87972dcb36183e369c33b7be_MIT18_02SC_pb_34_comb.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/43eaedda87972dcb36183e369c33b7be_MIT18_02SC_pb_34_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,8 @@ parent_uid: 07dd5e0f-e2b2-03b0-b268-5c1b278acc2a
 resourcetype: Document
 title: MIT18_02SC_pb_34_comb.pdf
 uid: 43eaedda-8797-2dcb-3618-3e369c33b7be
+video_metadata:
+  youtube_id: null
 ---
+This resource contains problem statements and solutions related to example for Lagrange's multipliers and constrained differentials.
+

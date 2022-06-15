@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to parametric equations of
   curves.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/cf83cf53826ae477eaeeb1caf05b1cab_MIT18_02SC_notes_8.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/cf83cf53826ae477eaeeb1caf05b1cab_MIT18_02SC_notes_8.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,8 @@ parent_uid: e5343669-3ea8-a4e9-6e81-941891967e93
 resourcetype: Document
 title: MIT18_02SC_notes_8.pdf
 uid: cf83cf53-826a-e477-eaee-b1caf05b1cab
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to parametric equations of curves.
+

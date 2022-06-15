@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2500'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 17: General Parametric Equations; the Cycloid'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1500'
 title: 'Clip: General Parametric Equations and the Cycloid'
 uid: 273e6dac-19a4-c239-9593-f0ae9ef0525f
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: 57jzPlxf4fk
 ---
 
-From Lecture 5 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 5 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

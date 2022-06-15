@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2247'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 10: Meaning of Matrix Multiplication'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1535'
 title: 'Clip: Meaning of Matrix Multiplication'
 uid: 3c702621-c214-5925-a663-f13e5b7b97c3
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: bHdzkFrgRcA
 ---
 
-From Lecture 3 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 3 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

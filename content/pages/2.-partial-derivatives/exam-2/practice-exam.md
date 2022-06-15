@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This session includes a practice exam and solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Exam 2
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 846864c2-281f-9104-4786-c16555ecc0bf
 title: Practice Exam
 uid: ef716277-c365-24c9-f191-01f372bbd3a3
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/problem-set-6) | [Next]({{< baseurl >}}/pages/2.-partial-derivatives/exam-2/session-45-review-of-topics) »
+« {{% resource_link 2167c545-5531-8868-d776-80b258acc02d "Previous" %}} | {{% resource_link 01648978-5666-8ae2-3f95-81e972458de3 "Next" %}} »
 
 Overview
 --------
@@ -22,8 +25,8 @@ In this session you will:
 Problems and Solutions
 ----------------------
 
-[Practice Exam 2 (PDF)]({{< baseurl >}}/resources/mit18_02sc_prac2a)
+{{% resource_link 8d46e0b6-446f-4a0e-3a8b-8dfb868a90b5 "Practice Exam 2 (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_prac2asol)
+{{% resource_link 28e92bdd-fd9d-2aff-cbda-6a982c2d2a75 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/problem-set-6) | [Next]({{< baseurl >}}/pages/2.-partial-derivatives/exam-2/session-45-review-of-topics) »
+« {{% resource_link 2167c545-5531-8868-d776-80b258acc02d "Previous" %}} | {{% resource_link 01648978-5666-8ae2-3f95-81e972458de3 "Next" %}} »

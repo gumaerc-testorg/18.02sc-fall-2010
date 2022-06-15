@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/49578738897a9744d85227c74b9cc432_MIT18_02SC_L20Brds_21a.png
+file: /courses/18-02sc-multivariable-calculus-fall-2010/49578738897a9744d85227c74b9cc432_MIT18_02SC_L20Brds_21a.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: 9e1952de-8d4d-a6a6-dd36-24e6169f4681
 resourcetype: Image
 title: MIT18_02SC_L20Brds_21a.png
 uid: 49578738-897a-9744-d852-27c74b9cc432
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

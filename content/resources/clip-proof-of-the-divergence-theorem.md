@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1930'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 86: Proof of the Divergence Theorem'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '725'
 title: 'Clip: Proof of the Divergence Theorem'
 uid: 94d7ab99-80f0-97e3-4a9b-2b3bb03ea98b
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: wu8kXZSAp20
 ---
 
-From Lecture 29 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 29 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

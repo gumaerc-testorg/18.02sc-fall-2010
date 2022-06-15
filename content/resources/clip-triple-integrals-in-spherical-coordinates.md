@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2165'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 77: Triple Integrals in Spherical Coordinates'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '830'
 title: 'Clip: Triple Integrals in Spherical Coordinates'
 uid: cc6ee3a8-4e00-9a39-ab07-a29b5f422b52
 video_files:
@@ -23,4 +24,7 @@ video_metadata:
   youtube_id: RMBGQtwkoyU
 ---
 
-From Lecture 26 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 26 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+
+
+

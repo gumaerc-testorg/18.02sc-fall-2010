@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Final Exam
@@ -7,13 +8,15 @@ parent_type: CourseSection
 parent_uid: dd6fb5d9-0caa-c5e5-061b-3b20b27d5d15
 title: Review
 uid: d16553d3-0b55-2bab-87a4-60f03b2e6366
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/final-exam-1/practice-final-exam) | [Next]({{< baseurl >}}/pages/final-exam-1/review/session-99-unit-1-review) »
+« {{% resource_link 37347015-2d61-a306-21c6-ebdfe7e34763 "Previous" %}} | {{% resource_link 439b0e93-6f08-6aaa-4e33-7925a9d02c17 "Next" %}} »
 
-> » [Session 99: Unit 1 Review]({{< baseurl >}}/pages/final-exam-1/review/session-99-unit-1-review)  
-> » [Session 100: Unit 2 Review]({{< baseurl >}}/pages/final-exam-1/review/session-100-unit-2-review)  
-> » [Session 101: Unit 3 Review]({{< baseurl >}}/pages/final-exam-1/review/session-101-unit-3-review)  
-> » [Session 102: Unit 4 Review]({{< baseurl >}}/pages/final-exam-1/review/session-102-unit-4-review)
+> » {{% resource_link 439b0e93-6f08-6aaa-4e33-7925a9d02c17 "Session 99: Unit 1 Review" %}}  
+> » {{% resource_link ba74dfa4-49c8-210a-5b7d-14173c6666b7 "Session 100: Unit 2 Review" %}}  
+> » {{% resource_link 3dcafa5b-3b8b-27b9-e70f-458ddfc579bd "Session 101: Unit 3 Review" %}}  
+> » {{% resource_link 1c1eefd6-f3a6-602f-82cc-22e51a322ada "Session 102: Unit 4 Review" %}}
 
-« [Previous]({{< baseurl >}}/pages/final-exam-1/practice-final-exam) | [Next]({{< baseurl >}}/pages/final-exam-1/review/session-99-unit-1-review) »
+« {{% resource_link 37347015-2d61-a306-21c6-ebdfe7e34763 "Previous" %}} | {{% resource_link 439b0e93-6f08-6aaa-4e33-7925a9d02c17 "Next" %}} »

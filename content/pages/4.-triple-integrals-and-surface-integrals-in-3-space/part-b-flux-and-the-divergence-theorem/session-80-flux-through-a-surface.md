@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session includes a lecture video clip, board notes, course notes,
+  and a recitation video.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Flux and the Divergence Theorem'
@@ -7,9 +9,11 @@ parent_type: CourseSection
 parent_uid: 2afdabb0-a4ac-ff04-2357-fe33b02c43c3
 title: 'Session 80: Flux Through a Surface'
 uid: 076b5dff-cda3-d135-851c-f7a311c53208
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-79-vector-fields-in-space) | [Next]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-81-calculating-flux-finding-nds) »
+« {{% resource_link cb1f2e44-229f-3ba5-0543-b58ec8cc851e "Previous" %}} | {{% resource_link 0dbd561e-4c4f-ace8-7b1a-fcf29eb32c91 "Next" %}} »
 
 Overview
 --------
@@ -25,17 +29,17 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Flux Through a Surface]({{< baseurl >}}/resources/clip-flux-through-a-surface)
+{{% resource_link 8f97d6d9-e91c-37b2-3a2e-74c9f929547a "Clip: Flux Through a Surface" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file 0c92bf3c-354d-62f1-90cc-9766270ff233 >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_5)[![Chalkboard 2.]({{< resource_file 32f4aa8d-268a-64ab-28cb-d2ce3b530fe3 >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_6)[![Chalkboard 3.]({{< resource_file a2f8b1a1-c202-7a8f-bef3-b7ea264d63bc >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_7)[![Chalkboard 4.]({{< resource_file 58bf6dcd-ff03-205c-f985-157c814b640c >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_8)  
-[![Chalkboard 5.]({{< resource_file a900f49a-cdae-a784-93b5-049f6a4819c2 >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_9)
+{{< resource uuid="0c92bf3c-354d-62f1-90cc-9766270ff233" href_uuid="42b4106f-7a1e-f857-fb71-205f491f99ac" >}}{{< resource uuid="32f4aa8d-268a-64ab-28cb-d2ce3b530fe3" href_uuid="99989249-0b08-d54a-cd37-db7c32a1ed92" >}}{{< resource uuid="a2f8b1a1-c202-7a8f-bef3-b7ea264d63bc" href_uuid="4592b566-ec56-85f4-fb27-64eae16141b4" >}}{{< resource uuid="58bf6dcd-ff03-205c-f985-157c814b640c" href_uuid="166377c5-fae0-0271-670b-e484f068c544" >}}  
+{{< resource uuid="a900f49a-cdae-a784-93b5-049f6a4819c2" href_uuid="8052953c-262d-7e12-80bf-5cb12228f6cf" >}}
 
 Related Readings
 ----------------
 
-[Surface Integrals (PDF)]({{< baseurl >}}/resources/mit18_02sc_mnotes_v9-1)
+{{% resource_link 2c1720a7-9462-2fa3-dbec-65e82e1f2503 "Surface Integrals (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -47,8 +51,8 @@ Recitation Video
 Problems and Solutions
 ----------------------
 
-[Problems: Calculating Flux (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_80_quest)
+{{% resource_link b4e14f64-7a3a-df7c-59d7-52ec7e5a5474 "Problems: Calculating Flux (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_80_comb)
+{{% resource_link 2c0ac47b-2621-249f-f258-d12c43f4e9a4 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-79-vector-fields-in-space) | [Next]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-81-calculating-flux-finding-nds) »
+« {{% resource_link cb1f2e44-229f-3ba5-0543-b58ec8cc851e "Previous" %}} | {{% resource_link 0dbd561e-4c4f-ace8-7b1a-fcf29eb32c91 "Next" %}} »

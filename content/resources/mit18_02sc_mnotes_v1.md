@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to vector fields in the plane
   and gradient fields.
-file: /media/courses/18-02sc-multivariable-calculus-fall-2010/1a6e16c878eb5aa8b580fe021dfa7f3d_MIT18_02SC_MNotes_v1.pdf
+file: /courses/18-02sc-multivariable-calculus-fall-2010/1a6e16c878eb5aa8b580fe021dfa7f3d_MIT18_02SC_MNotes_v1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,8 @@ parent_uid: d5133bed-a26e-a5ab-008f-fd452f137dfa
 resourcetype: Document
 title: MIT18_02SC_MNotes_v1.pdf
 uid: 1a6e16c8-78eb-5aa8-b580-fe021dfa7f3d
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to vector fields in the plane and gradient fields.
+

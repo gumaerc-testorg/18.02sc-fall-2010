@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: 'This session includes a lecture video clip, board notes, course notes,
+  and examples.  '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Triple Integrals'
+parent_type: CourseSection
 parent_uid: fae04710-1871-2678-ad1b-80e80246916a
 title: 'Session 76: Spherical Coordinates'
 uid: 1a869f5f-6349-e1f5-e91f-d375e74314ee
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples) | [Next]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-77-triple-integrals-in-spherical-coordinates) »
+« {{% resource_link c4da9711-508e-8f11-a356-167da3376cd3 "Previous" %}} | {{% resource_link f707a26e-ec56-fdb6-c3ca-f56567807058 "Next" %}} »
 
 Overview
 --------
@@ -21,23 +28,23 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Spherical Coordinates]({{< baseurl >}}/resources/clip-spherical-coordinates)
+{{% resource_link 9da09024-09dc-45d3-290a-fe9a6fba9306 "Clip: Spherical Coordinates" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file fb678059-17e0-d769-21c2-bbd02dfb786b >}})]({{< baseurl >}}/resources/mit18_02sc_l26brds_1)[![Chalkboard 2.]({{< resource_file f11b81b0-2d3a-17d6-fa94-182ea4f048f1 >}})]({{< baseurl >}}/resources/mit18_02sc_l26brds_2)[![Chalkboard 3.]({{< resource_file c3a4a336-8b69-1a6e-097e-cb396f817f07 >}})]({{< baseurl >}}/resources/mit18_02sc_l26brds_3)[![Chalkboard 4.]({{< resource_file 5a2112f5-b381-59cc-4668-1dacbc397549 >}})]({{< baseurl >}}/resources/mit18_02sc_l26brds_4)  
-[![Chalkboard 5.]({{< resource_file 9dba66cd-36a2-8c02-d0c8-838862468ab9 >}})]({{< baseurl >}}/resources/mit18_02sc_l26brds_5)
+{{< resource uuid="fb678059-17e0-d769-21c2-bbd02dfb786b" href_uuid="da2c56f9-c3a7-4d9e-0cae-705beaba761f" >}}{{< resource uuid="f11b81b0-2d3a-17d6-fa94-182ea4f048f1" href_uuid="363af12a-eb31-0962-6c24-732b5fe77b22" >}}{{< resource uuid="c3a4a336-8b69-1a6e-097e-cb396f817f07" href_uuid="7928edfe-cd93-8d11-f5fc-790aad32a8b3" >}}{{< resource uuid="5a2112f5-b381-59cc-4668-1dacbc397549" href_uuid="d6895ead-c1f0-7c99-deb1-53f4aad3f1b4" >}}  
+{{< resource uuid="9dba66cd-36a2-8c02-d0c8-838862468ab9" href_uuid="0117cebe-9b19-5602-7b59-62b5f5c64916" >}}
 
 Reading and Examples
 --------------------
 
-[Limits in Spherical Coordinates (PDF)]({{< baseurl >}}/resources/mit18_02sc_notes_32)
+{{% resource_link 531bea2b-8435-1ea2-732b-4815a104cd37 "Limits in Spherical Coordinates (PDF)" %}}
 
 Problems and Solutions
 ----------------------
 
-[Problems: Limits in Spherical Coordinates (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_76_quest)
+{{% resource_link 3268489c-deb4-f65f-8215-15dec2748344 "Problems: Limits in Spherical Coordinates (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_76_comb)
+{{% resource_link af128482-53f4-896a-9077-1e073c650f26 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples) | [Next]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-77-triple-integrals-in-spherical-coordinates) »
+« {{% resource_link c4da9711-508e-8f11-a356-167da3376cd3 "Previous" %}} | {{% resource_link f707a26e-ec56-fdb6-c3ca-f56567807058 "Next" %}} »

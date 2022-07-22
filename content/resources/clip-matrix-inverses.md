@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '3062'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 11: Matrix Inverses'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '2247'
 title: 'Clip: Matrix Inverses'
 uid: 36b9e728-25df-bf4d-e6d7-317bfb07e9c9
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: bHdzkFrgRcA
 ---
 
-From Lecture 3 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 3 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1735'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 53: Change of Variables'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip: Change of Variables'
 uid: 18ee5569-af2b-5330-294d-f97a03e1efe9
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: UZb9hZIAvL4
 ---
 
-From Lecture 18 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 18 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

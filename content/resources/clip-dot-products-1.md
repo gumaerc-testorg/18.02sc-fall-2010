@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1545'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 2: Dot Products'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '922'
 title: 'Clip: Dot Products'
 uid: 0b96c687-17c4-7d7f-0a1b-5ff19ae13255
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: PxCxlsl_YwY
 ---
 
-From Lecture 1 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 1 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

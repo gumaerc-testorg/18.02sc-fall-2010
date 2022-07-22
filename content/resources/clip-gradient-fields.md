@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '795'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 62: Gradient Fields'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '20'
 title: 'Clip: Gradient Fields'
 uid: 05035729-869b-e5c1-16a1-ef510de71bf9
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: z5TPjZrsp2k
 ---
 
-From Lecture 21 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 21 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

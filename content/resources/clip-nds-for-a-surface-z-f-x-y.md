@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1245'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 82: ndS for a Surface z = f(x, y)'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '22'
 title: 'Clip: ndS for a Surface z=f(x,y)'
 uid: 1a1ebcb3-63a8-bd1b-5e43-7bd0e824cfa0
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: WfEQabCGAqI
 ---
 
-From Lecture 28 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 28 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

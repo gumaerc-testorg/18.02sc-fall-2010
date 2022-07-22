@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1019'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 12: Equations of Planes II'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '21'
 title: 'Clip: Equations of Planes'
 uid: 6a566b77-d1a3-61cb-e426-bca87c42fce8
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: YBajUR3EFSM
 ---
 
-From Lecture 4 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 4 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

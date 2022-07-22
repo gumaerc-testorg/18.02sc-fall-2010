@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2580'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 83: Other Ways to Find ndS'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '1245'
 title: 'Clip: Other Ways to Find ndS'
 uid: 40d10179-8a63-6fca-327d-355e2065bf0a
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: WfEQabCGAqI
 ---
 
-From Lecture 28 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 28 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

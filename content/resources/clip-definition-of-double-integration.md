@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1177'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 47: Definition of Double Integration'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '20'
 title: 'Clip: Definition of Double Integration'
 uid: 4f2445c8-9096-5d46-b391-e2cd6653a4bd
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: YP_B0AapU0c
 ---
 
-From Lecture 16 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 16 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

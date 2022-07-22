@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '3049'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 18: Point (Cusp) on Cycloid'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '2500'
 title: 'Clip: Point (Cusp) of a Cycloid'
 uid: 7dd0b1c1-2ec6-e9a2-2511-28bd7cdbf51d
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: 57jzPlxf4fk
 ---
 
-From Lecture 5 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 5 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

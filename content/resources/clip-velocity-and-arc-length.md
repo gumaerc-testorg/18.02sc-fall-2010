@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1797'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 20: Velocity and Arc Length'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '966'
 title: 'Clip: Velocity and Arc Length'
 uid: 8443e0fc-c270-2008-4cc1-65f11e7cda01
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: 0D4BbCa4gHo
 ---
 
-From Lecture 6 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 6 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

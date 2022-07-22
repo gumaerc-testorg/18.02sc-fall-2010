@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This session includes a lecture video clip, board notes, course notes,
+  examples, and a recitation video.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Double Integrals'
+parent_type: CourseSection
 parent_uid: 9fa9495f-e35f-5fa9-506b-b63e2d42812f
 title: 'Session 55: Example'
 uid: 9d0e3d8a-0846-d1b8-71f4-f3c5171f3b33
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-54-example-polar-coordinates) | [Next]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/problem-set-7) »
+« {{% resource_link 4298c9f5-2873-d0fa-0eca-900cbdf04cdc "Previous" %}} | {{% resource_link 8ba5193a-7be7-a413-46bd-3c273f529619 "Next" %}} »
 
 Overview
 --------
@@ -22,16 +29,16 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Example]({{< baseurl >}}/resources/clip-example-3)
+{{% resource_link 6a1ebcae-a6d5-5732-246f-64a0deaa8c9c "Clip: Example" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file 3cb1dd5b-1959-6522-4734-90c736a4d7f5 >}})]({{< baseurl >}}/resources/mit18_02sc_l18brds_14)[![Chalkboard 2.]({{< resource_file f75cbeef-8e70-b012-1915-096dbe1f5f6b >}})]({{< baseurl >}}/resources/mit18_02sc_l18brds_15)[![Chalkboard 3.]({{< resource_file fcca1f68-ddcb-5aa8-f04d-878843363c71 >}})]({{< baseurl >}}/resources/mit18_02sc_l18brds_16)[![Chalkboard 4.]({{< resource_file 652ec98e-c3a7-f99d-38d3-37787a25a4c0 >}})]({{< baseurl >}}/resources/mit18_02sc_l18brds_17)
+{{< resource uuid="3cb1dd5b-1959-6522-4734-90c736a4d7f5" href_uuid="c1fe8fae-b5d9-9c79-e9aa-21c71b44f575" >}}{{< resource uuid="f75cbeef-8e70-b012-1915-096dbe1f5f6b" href_uuid="33cd2f1c-a7ef-01cc-1ac7-428952a94b14" >}}{{< resource uuid="fcca1f68-ddcb-5aa8-f04d-878843363c71" href_uuid="231ca0f2-8929-56bc-d9f6-f642db550c16" >}}{{< resource uuid="652ec98e-c3a7-f99d-38d3-37787a25a4c0" href_uuid="c79c7390-7b56-6ee9-19c0-420f2adb89cd" >}}
 
 Reading and Examples
 --------------------
 
-[Putting in the Limits (PDF)]({{< baseurl >}}/resources/mit18_02sc_mnotes_cv3)
+{{% resource_link 19b23027-94ab-e47e-60c5-1e6a7537eef9 "Putting in the Limits (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -43,8 +50,8 @@ Recitation Video
 Problems and Solutions
 ----------------------
 
-[Problems: Change of Variables Example (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_55_quest)
+{{% resource_link 25beabd2-f70e-e3a7-eb66-aba7b545f6df "Problems: Change of Variables Example (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_55_comb)
+{{% resource_link bacba6e1-1e68-d1f1-bf57-39abe23f8aef "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-54-example-polar-coordinates) | [Next]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/problem-set-7) »
+« {{% resource_link 4298c9f5-2873-d0fa-0eca-900cbdf04cdc "Previous" %}} | {{% resource_link 8ba5193a-7be7-a413-46bd-3c273f529619 "Next" %}} »

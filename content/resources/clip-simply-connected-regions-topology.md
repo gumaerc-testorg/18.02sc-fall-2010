@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1300'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 94: Simply Connected Regions; Topology'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '22'
 title: 'Clip: Simply Connected Regions, Topology'
 uid: 3d5272f2-2d98-08e7-8055-7748a3608345
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: sr7kCpzAuYw
 ---
 
-From Lecture 32 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 32 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

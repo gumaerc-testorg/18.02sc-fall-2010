@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '3034'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 81: Calculating Flux; Finding ndS'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '1425'
 title: 'Clip: Calculating Flux, Finding ndS'
 uid: 1530f4c6-fa21-a88c-abf9-c78edf103946
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: phk05iSMezA
 ---
 
-From Lecture 27 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 27 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

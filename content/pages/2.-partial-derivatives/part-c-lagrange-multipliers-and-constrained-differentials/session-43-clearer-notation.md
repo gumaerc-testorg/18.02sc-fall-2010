@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This session includes a lecture video clip, board notes, readings, examples,
+  and a recitation video.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Lagrange Multipliers and Constrained Differentials'
+parent_type: CourseSection
 parent_uid: c2b5d174-7730-9fb5-372b-d98ef12fed7d
 title: 'Session 43: Clearer Notation'
 uid: a853b2a1-cf33-cf94-2198-4d602044e1f1
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-42-constrained-differentials) | [Next]({{< baseurl >}}/pages/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example) »
+« {{% resource_link 189d8c48-a287-41d4-f72b-8613f8e35c61 "Previous" %}} | {{% resource_link 07dd5e0f-e2b2-03b0-b268-5c1b278acc2a "Next" %}} »
 
 Overview
 --------
@@ -23,16 +30,16 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Clearer Notation]({{< baseurl >}}/resources/clip-clearer-notation)
+{{% resource_link fb811db7-8cd1-3aad-bc24-2ad883ee6afa "Clip: Clearer Notation" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file 6e41a4a4-ebf8-f8d3-6e65-b91b059a4938 >}})]({{< baseurl >}}/resources/mit18_02sc_l14brds_6)[![Chalkboard 2.]({{< resource_file dd7c76ff-4726-bd61-2fa7-0fdc8ee9fddb >}})]({{< baseurl >}}/resources/mit18_02sc_l14brds_7)[![Chalkboard 3.]({{< resource_file e5de1bd7-638d-c343-873b-f104f8cd4c49 >}})]({{< baseurl >}}/resources/mit18_02sc_l14brds_8)
+{{< resource uuid="6e41a4a4-ebf8-f8d3-6e65-b91b059a4938" href_uuid="b08a029b-d047-be32-6876-130b1168f638" >}}{{< resource uuid="dd7c76ff-4726-bd61-2fa7-0fdc8ee9fddb" href_uuid="3db2f8f0-ab80-f7d5-c98a-193f8b43fdb0" >}}{{< resource uuid="e5de1bd7-638d-c343-873b-f104f8cd4c49" href_uuid="ad3860ef-12b6-6dfe-f196-f361ab849b9a" >}}
 
 Reading and Examples
 --------------------
 
-[Non-Independent Variables (PDF)]({{< baseurl >}}/resources/mit18_02sc_mnotes_n1_2)
+{{% resource_link e8bfec88-1002-14ac-3505-34e295633ca5 "Non-Independent Variables (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -44,13 +51,13 @@ Recitation Video
 Reading and Examples
 --------------------
 
-[Non-Independent Variables (PDF)]({{< baseurl >}}/resources/mit18_02sc_mnotes_n3)
+{{% resource_link ab0c0ef9-1fd3-0539-282a-3fd2477abdf0 "Non-Independent Variables (PDF)" %}}
 
 Problems and Solutions
 ----------------------
 
-[Problems: The Chain Rule with Constraints (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_43_quest)
+{{% resource_link 0444bfd9-fe2c-14fe-00c3-b6e39401e160 "Problems: The Chain Rule with Constraints (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_43_comb)
+{{% resource_link 1f3eb6a2-d5a0-8273-9e4b-decdce5f62a1 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-42-constrained-differentials) | [Next]({{< baseurl >}}/pages/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example) »
+« {{% resource_link 189d8c48-a287-41d4-f72b-8613f8e35c61 "Previous" %}} | {{% resource_link 07dd5e0f-e2b2-03b0-b268-5c1b278acc2a "Next" %}} »

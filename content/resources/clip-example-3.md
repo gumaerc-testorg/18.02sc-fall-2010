@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2994'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 55: Example'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '2215'
 title: 'Clip: Example'
 uid: 6a1ebcae-a6d5-5732-246f-64a0deaa8c9c
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: UZb9hZIAvL4
 ---
 
-From Lecture 18 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 18 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

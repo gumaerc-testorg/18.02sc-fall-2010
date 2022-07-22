@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '830'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 76: Spherical Coordinates'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '22'
 title: 'Clip: Spherical Coordinates'
 uid: 9da09024-09dc-45d3-290a-fe9a6fba9306
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: RMBGQtwkoyU
 ---
 
-From Lecture 26 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 26 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

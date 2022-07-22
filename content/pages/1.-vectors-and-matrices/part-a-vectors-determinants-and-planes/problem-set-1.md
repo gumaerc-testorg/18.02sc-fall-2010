@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This session includes problems and solutions.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Vectors, Determinants and Planes'
+parent_type: CourseSection
 parent_uid: 5ec6e19f-f0b0-98e4-0ec6-5f8bcf898f57
 title: Problem Set 1
 uid: cbef6907-ae6e-5d30-1c7c-22c91e8929ea
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-8-equations-of-planes) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations) »
+« {{% resource_link 5efcd66b-0cb6-bf6c-4156-5b1820985c00 "Previous" %}} | {{% resource_link 5785559c-ca75-4f05-db71-1c0de8a26bc4 "Next" %}} »
 
 Overview
 --------
@@ -19,10 +25,10 @@ In this session you will:
 Problem Set
 -----------
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_02sc_pset1)  
-[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pset1sol)
+{{% resource_link 2ea35c7a-b33c-5c14-3ae8-f60f949588f2 "Problem Set 1 (PDF)" %}}  
+{{% resource_link e5408882-6b56-4751-4efc-06071bf46ca5 "Problem Set 1 Solutions (PDF)" %}}
 
-[Supplemental Problems referenced in this problem set (PDF)]({{< baseurl >}}/resources/mit18_02sc_supprob1)  
-[Solutions to Supplemental Problems referenced in this problem set (PDF)]({{< baseurl >}}/resources/mit18_02sc_supprobsol1)
+{{% resource_link 389f3f3c-18e4-b8b8-9759-47306993983c "Supplemental Problems referenced in this problem set (PDF)" %}}  
+{{% resource_link 5a180046-cc90-37f4-c26e-13d3c3afc64f "Solutions to Supplemental Problems referenced in this problem set (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-8-equations-of-planes) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations) »
+« {{% resource_link 5efcd66b-0cb6-bf6c-4156-5b1820985c00 "Previous" %}} | {{% resource_link 5785559c-ca75-4f05-db71-1c0de8a26bc4 "Next" %}} »

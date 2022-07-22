@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: 'This session includes a lecture video clip, board notes, and a recitation
+  video.  '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Line Integrals and Stokes'' Theorem'
+parent_type: CourseSection
 parent_uid: 55dd3380-3633-2e8c-fa42-36beffad3294
 title: 'Session 93: Example'
 uid: 2135423b-6b5a-305e-81a9-1b1358ec262c
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-92-proof-of-stokes-theorem) | [Next]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology) »
+« {{% resource_link 6bcf7641-05bf-41d1-5a38-3392f24a4910 "Previous" %}} | {{% resource_link 9da45f78-5868-f3ae-fcb2-c3ec1ad5293e "Next" %}} »
 
 Overview
 --------
@@ -21,11 +28,11 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Example]({{< baseurl >}}/resources/clip-example-4)
+{{% resource_link 47551fcb-e996-db34-a753-e6e547d019d8 "Clip: Example" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file 15837180-3b6e-b344-300f-8995451da19e >}})]({{< baseurl >}}/resources/mit18_02sc_l31brds_10)[![Chalkboard 2.]({{< resource_file 69ece608-afc5-77a5-53fd-4d1a8c6fd1cd >}})]({{< baseurl >}}/resources/mit18_02sc_l31brds_11)[![Chalkboard 3.]({{< resource_file 23829f32-d4ee-a7bb-5e92-d0f90851fddc >}})]({{< baseurl >}}/resources/mit18_02sc_l31brds_12)
+{{< resource uuid="15837180-3b6e-b344-300f-8995451da19e" href_uuid="21e9a8f3-a17f-1c39-6c31-28bbebddb380" >}}{{< resource uuid="69ece608-afc5-77a5-53fd-4d1a8c6fd1cd" href_uuid="88da0462-5398-ef5d-4c6a-87a8f899984f" >}}{{< resource uuid="23829f32-d4ee-a7bb-5e92-d0f90851fddc" href_uuid="0065c1fa-f1c0-1198-e259-2d80ed8d1378" >}}
 
 Recitation Video
 ----------------
@@ -37,13 +44,13 @@ Recitation Video
 Examples
 --------
 
-[Extended Stokes' Theorem (PDF)]({{< baseurl >}}/resources/mit18_02sc_we_93_comb)
+{{% resource_link 42094c74-b7c3-7bdb-4a6e-42c79997f0ba "Extended Stokes' Theorem (PDF)" %}}
 
 Problems and Solutions
 ----------------------
 
-[Problems: Extended Stokes' Theorem (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_93_quest)
+{{% resource_link c11c063f-d297-02e8-fe3d-154bf1b19bc3 "Problems: Extended Stokes' Theorem (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_93_comb)
+{{% resource_link 6cd629fb-c29e-cea4-83e1-a74b2c65bebe "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-92-proof-of-stokes-theorem) | [Next]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology) »
+« {{% resource_link 6bcf7641-05bf-41d1-5a38-3392f24a4910 "Previous" %}} | {{% resource_link 9da45f78-5868-f3ae-fcb2-c3ec1ad5293e "Next" %}} »

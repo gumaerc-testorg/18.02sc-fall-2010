@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2490'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 60: Fundamental Theorem for Line Integrals'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '2190'
 title: 'Clip: An Important Non-Conservative Field'
 uid: befd251d-78aa-7e5d-c826-51b1021fb4fd
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: o7UCBjGsRTE
 ---
 
-From Lecture 20 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 20 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

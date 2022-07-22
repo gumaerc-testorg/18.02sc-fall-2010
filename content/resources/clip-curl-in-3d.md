@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2981'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 90: Curl in 3D'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '2400'
 title: 'Clip: Curl in 3D'
 uid: 41b38711-58c1-552c-74aa-a6b260bea34f
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: seO7-TwXH_I
 ---
 
-From Lecture 30 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 30 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

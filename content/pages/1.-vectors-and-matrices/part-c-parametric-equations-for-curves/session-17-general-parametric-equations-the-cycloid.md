@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This session includes a lecture video clip, board notes, a mathlet, course
+  notes, readings, and examples.  It also includes problems and solutions.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations for Curves'
+parent_type: CourseSection
 parent_uid: 6f575227-d303-8c11-3827-c5c3b8aaf897
 title: 'Session 17: General Parametric Equations; the Cycloid'
 uid: c5c027c8-45bf-0f7d-bc7b-9514c509aeab
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-16-intersection-of-a-line-and-a-plane) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-18-point-cusp-on-cycloid) »
+« {{% resource_link d48352f4-17dc-b010-c0a5-ce62f99b2e0a "Previous" %}} | {{% resource_link 77d5c5f1-c564-ebd6-027c-3128c160dcb3 "Next" %}} »
 
 Overview
 --------
@@ -23,12 +30,12 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: General Parametric Equations and the Cycloid]({{< baseurl >}}/resources/clip-general-parametric-equations-and-the-cycloid)
+{{% resource_link 273e6dac-19a4-c239-9593-f0ae9ef0525f "Clip: General Parametric Equations and the Cycloid" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file 2da330d8-bafe-960f-eac5-b7ab1b759753 >}})]({{< baseurl >}}/resources/mit18_02sc_l5brds_9)[![Chalkboard 2.]({{< resource_file 07bcf506-ec03-f1ef-f468-90de5340af4b >}})]({{< baseurl >}}/resources/mit18_02sc_l5brds_10)[![Chalkboard 3.]({{< resource_file e1210d72-58ee-abfc-c844-4a672d420edd >}})]({{< baseurl >}}/resources/mit18_02sc_l5brds_11)[![Chalkboard 4.]({{< resource_file 81dbf6c5-78ab-3c0a-0b60-032e3aedacc5 >}})]({{< baseurl >}}/resources/mit18_02sc_l5brds_12)  
-[![Chalkboard 5.]({{< resource_file e4bc2bf5-1f33-7765-66ac-6e4aac5ad06d >}})]({{< baseurl >}}/resources/mit18_02sc_l5brds_13)[![Chalkboard 6.]({{< resource_file 8ee9517a-f5e0-95a9-50a6-c4197bed43c3 >}})]({{< baseurl >}}/resources/mit18_02sc_l5brds_14)
+{{< resource uuid="2da330d8-bafe-960f-eac5-b7ab1b759753" href_uuid="1eba9a48-b073-133c-4f23-35fbd239521c" >}}{{< resource uuid="07bcf506-ec03-f1ef-f468-90de5340af4b" href_uuid="cc396f01-9f3f-6131-40c9-c58c120d7c31" >}}{{< resource uuid="e1210d72-58ee-abfc-c844-4a672d420edd" href_uuid="6f48cb61-b907-c027-32ed-52757865704a" >}}{{< resource uuid="81dbf6c5-78ab-3c0a-0b60-032e3aedacc5" href_uuid="785d02d8-26a8-907f-4ee9-bb01c8db7ef6" >}}  
+{{< resource uuid="e4bc2bf5-1f33-7765-66ac-6e4aac5ad06d" href_uuid="dc3aeec3-b5e2-0f10-fc72-e7d2277d6a93" >}}{{< resource uuid="8ee9517a-f5e0-95a9-50a6-c4197bed43c3" href_uuid="08ffb5f4-0bc9-2386-393d-f9888d82f57f" >}}
 
 Related Resources
 -----------------
@@ -38,13 +45,13 @@ Related Resources
 Reading and Examples
 --------------------
 
-[Parametric Curves (PDF)]({{< baseurl >}}/resources/mit18_02sc_notes_9)
+{{% resource_link 2e7855c3-9897-2f7d-5da1-23cae42a8290 "Parametric Curves (PDF)" %}}
 
 Problems and Solutions
 ----------------------
 
-[Problems: Parametric Curves (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_19_quest)
+{{% resource_link 45bfa44b-4183-d895-9432-dd6456258ceb "Problems: Parametric Curves (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_19_comb)
+{{% resource_link 75129f4f-72e0-e349-f26a-10ff17c9fcb2 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-16-intersection-of-a-line-and-a-plane) | [Next]({{< baseurl >}}/pages/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-18-point-cusp-on-cycloid) »
+« {{% resource_link d48352f4-17dc-b010-c0a5-ce62f99b2e0a "Previous" %}} | {{% resource_link 77d5c5f1-c564-ebd6-027c-3128c160dcb3 "Next" %}} »

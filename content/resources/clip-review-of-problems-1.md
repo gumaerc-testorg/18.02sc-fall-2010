@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2722'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 46: Review of Problems'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '2390'
 title: 'Clip: Review of Problems'
 uid: c965b7fa-256b-6b9e-f5f3-04e9bdec3702
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: ChiM2-MV-qM
 ---
 
-From Lecture 15 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 15 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2900'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 93: Example'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '2400'
 title: 'Clip: Example'
 uid: 47551fcb-e996-db34-a753-e6e547d019d8
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: tzoYhe3H5dM
 ---
 
-From Lecture 31 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 31 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1535'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: '.Session 9: Matrix Multiplication'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '863'
 title: 'Clip: Matrix Multiplication'
 uid: 4ff368a3-648c-ff1f-0438-89b0f9ad97cb
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: bHdzkFrgRcA
 ---
 
-From Lecture 3 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 3 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

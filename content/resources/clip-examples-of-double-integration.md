@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2455'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 48: Examples of Double Integration'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '1177'
 title: 'Clip: Examples of Double Integration'
 uid: f4bbc21c-bed3-0f53-1fdc-a40d621ca9b8
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: YP_B0AapU0c
 ---
 
-From Lecture 16 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 16 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

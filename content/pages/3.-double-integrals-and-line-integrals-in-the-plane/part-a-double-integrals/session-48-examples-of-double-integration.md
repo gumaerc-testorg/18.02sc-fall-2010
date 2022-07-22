@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This session includes a lecture video clip, board notes, course notes,
+  examples, and a recitation video.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Double Integrals'
+parent_type: CourseSection
 parent_uid: 9fa9495f-e35f-5fa9-506b-b63e2d42812f
 title: 'Session 48: Examples of Double Integration'
 uid: 3ad46114-9d5e-6097-2563-36b54cf159d4
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-47-definition-of-double-integration) | [Next]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration) »
+« {{% resource_link c27b3aad-7c20-4b2a-4094-be585177be01 "Previous" %}} | {{% resource_link 835ad424-3cd2-5ec6-b244-f1c7dc764bc4 "Next" %}} »
 
 Overview
 --------
@@ -23,22 +30,22 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Examples of Double Integration]({{< baseurl >}}/resources/clip-examples-of-double-integration)
+{{% resource_link f4bbc21c-bed3-0f53-1fdc-a40d621ca9b8 "Clip: Examples of Double Integration" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file 3670dbcc-3afc-e589-11da-d0cb2d1e95ac >}})]({{< baseurl >}}/resources/mit18_02sc_l16brds_6)[![Chalkboard 2.]({{< resource_file a70a82ec-e7f3-5b0b-9ee4-3f41848f98dd >}})]({{< baseurl >}}/resources/mit18_02sc_l16brds_7)[![Chalkboard 3.]({{< resource_file 212c7a1f-5d5b-345f-142f-2f138ad96589 >}})]({{< baseurl >}}/resources/mit18_02sc_l16brds_8)[![Chalkboard 4.]({{< resource_file f6fe8217-9c83-8b78-6215-130d49952f0e >}})]({{< baseurl >}}/resources/mit18_02sc_l16brds_9)  
-[![Chalkboard 5.]({{< resource_file 27dc461c-7b67-99bc-9597-c6dc0ff27616 >}})]({{< baseurl >}}/resources/mit18_02sc_l16brds_10)[![Chalkboard 6.]({{< resource_file 05c06d8d-470f-001e-b165-1296bd05e416 >}})]({{< baseurl >}}/resources/mit18_02sc_l16brds_11)[![Chalkboard 7.]({{< resource_file 4e396c1f-83a7-f1fe-6096-89a9b852668f >}})]({{< baseurl >}}/resources/mit18_02sc_l16brds_12)
+{{< resource uuid="3670dbcc-3afc-e589-11da-d0cb2d1e95ac" href_uuid="da6c0526-4b55-4072-d9b2-b4ffcb04a212" >}}{{< resource uuid="a70a82ec-e7f3-5b0b-9ee4-3f41848f98dd" href_uuid="7e4a64b6-e195-efb6-cde0-2d27e6581dda" >}}{{< resource uuid="212c7a1f-5d5b-345f-142f-2f138ad96589" href_uuid="82290d73-7e93-c014-1a99-5a62bba09718" >}}{{< resource uuid="f6fe8217-9c83-8b78-6215-130d49952f0e" href_uuid="3806af3d-a9d1-185e-f9fb-fd2d544c3cac" >}}  
+{{< resource uuid="27dc461c-7b67-99bc-9597-c6dc0ff27616" href_uuid="f2f08e74-a7fe-5e4c-ba7f-8b8dbc242645" >}}{{< resource uuid="05c06d8d-470f-001e-b165-1296bd05e416" href_uuid="e317cec7-5f52-dd9b-b043-7d15dfb95430" >}}{{< resource uuid="4e396c1f-83a7-f1fe-6096-89a9b852668f" href_uuid="54f459fb-62eb-0e9f-8d90-7bb93dc83c13" >}}
 
 Related Readings
 ----------------
 
-[Limits in Rectangular Coordinates (PDF)]({{< baseurl >}}/resources/mit18_02sc_mnotes_i1)
+{{% resource_link 00ca45cc-b749-ea1c-0a42-b733eb8eb9bf "Limits in Rectangular Coordinates (PDF)" %}}
 
 Examples
 --------
 
-[Limits for Double Integrals (PDF)]({{< baseurl >}}/resources/mit18_02sc_we_19_comb)
+{{% resource_link 864f1462-d06a-5bde-74c2-fac6d93dabbd "Limits for Double Integrals (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -50,8 +57,8 @@ Recitation Video
 Problems and Solutions
 ----------------------
 
-[Problems: Regions of Integration (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_48_quest)
+{{% resource_link e4cacbe9-81ed-9c08-4b3f-6e47075c0880 "Problems: Regions of Integration (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_48_comb)
+{{% resource_link 5dc85519-62fe-c09a-e8a4-5c774a506d47 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-47-definition-of-double-integration) | [Next]({{< baseurl >}}/pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration) »
+« {{% resource_link c27b3aad-7c20-4b2a-4094-be585177be01 "Previous" %}} | {{% resource_link 835ad424-3cd2-5ec6-b244-f1c7dc764bc4 "Next" %}} »

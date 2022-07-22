@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2370'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 102: Unit 4 Review'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '1215'
 title: 'Clip 1: Work, Line Integrals, Curl'
 uid: 87b982b4-820f-21e9-3c56-82b66d5c9007
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: 24v9onS9Kcg
 ---
 
-From Lecture 35 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 35 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

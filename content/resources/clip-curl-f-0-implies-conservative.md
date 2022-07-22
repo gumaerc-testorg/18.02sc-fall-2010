@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1500'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 66: Curl(F) = 0 Implies Conservative'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '1010'
 title: 'Clip: Curl(F)=0 Implies Conservative'
 uid: 5a3e0cf6-87db-49b3-c4c1-6b219c627ea0
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: tYdoS0tkAHA
 ---
 
-From Lecture 22 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 22 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

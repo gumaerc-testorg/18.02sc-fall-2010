@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '2955'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 84: Divergence Theorem'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '2580'
 title: 'Clip: Divergence Theorem'
 uid: d3f2432e-000b-dba8-b5b4-46f6f18ebd33
 video_files:
@@ -14,4 +25,5 @@ video_metadata:
   youtube_id: WfEQabCGAqI
 ---
 
-From Lecture 28 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 28 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
+

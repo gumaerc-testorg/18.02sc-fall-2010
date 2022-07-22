@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This session includes a lecture video clip, board notes, course notes,
+  examples, and recitation videos.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Flux and the Divergence Theorem'
+parent_type: CourseSection
 parent_uid: 2afdabb0-a4ac-ff04-2357-fe33b02c43c3
 title: 'Session 81: Calculating Flux; Finding ndS'
 uid: 0dbd561e-4c4f-ace8-7b1a-fcf29eb32c91
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-80-flux-through-a-surface) | [Next]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-82-nds-for-a-surface-z-f-x-y) »
+« {{% resource_link 076b5dff-cda3-d135-851c-f7a311c53208 "Previous" %}} | {{% resource_link d2fa06a0-8024-e028-2fdf-891fe896985d "Next" %}} »
 
 Overview
 --------
@@ -22,17 +29,17 @@ Lecture Video
 
 ### Video Excerpts
 
-[Clip: Calculating Flux, Finding ndS]({{< baseurl >}}/resources/clip-calculating-flux-finding-nds)
+{{% resource_link 1530f4c6-fa21-a88c-abf9-c78edf103946 "Clip: Calculating Flux, Finding ndS" %}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
-[![Chalkboard 1.]({{< resource_file 416e0ccc-2ead-19e2-d6dc-a2f65b500533 >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_9-1)[![Chalkboard 2.]({{< resource_file ac890e8f-8e04-1cea-b561-4e144634dc5e >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_10)[![Chalkboard 3.]({{< resource_file 6be820b7-ec75-1e57-7051-9a5b9c663c08 >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_11)[![Chalkboard 4.]({{< resource_file fa8ee0a2-e181-5f87-5cd0-b99d52941f9d >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_12)  
-[![Chalkboard 5.]({{< resource_file 3a12b1ec-4820-aabf-af77-ec85c4d0094f >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_13)[![Chalkboard 6.]({{< resource_file cf929ce7-4f8d-e690-7984-ea042e6162ed >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_14)[![Chalkboard 7.]({{< resource_file bb1e3351-10f9-d7ef-f1cc-4404d908ce97 >}})]({{< baseurl >}}/resources/mit18_02sc_l27brds_15)
+{{< resource uuid="416e0ccc-2ead-19e2-d6dc-a2f65b500533" href_uuid="b81282c3-ee24-5db7-ea18-7d7e8727dba0" >}}{{< resource uuid="ac890e8f-8e04-1cea-b561-4e144634dc5e" href_uuid="f979588a-a0b6-2cc8-1ed6-14a17a7b63d4" >}}{{< resource uuid="6be820b7-ec75-1e57-7051-9a5b9c663c08" href_uuid="66acea63-edc3-fbc1-a5a0-97fbbe87d7d3" >}}{{< resource uuid="fa8ee0a2-e181-5f87-5cd0-b99d52941f9d" href_uuid="516791fb-3bca-d67f-1c01-a73db50d849d" >}}  
+{{< resource uuid="3a12b1ec-4820-aabf-af77-ec85c4d0094f" href_uuid="a21bbd16-fe6c-7d2b-d112-4c0201146668" >}}{{< resource uuid="cf929ce7-4f8d-e690-7984-ea042e6162ed" href_uuid="3a05f014-d474-2c82-0613-994878636301" >}}{{< resource uuid="bb1e3351-10f9-d7ef-f1cc-4404d908ce97" href_uuid="86e00726-6bdd-d502-414d-90d43057d1db" >}}
 
 Reading and Examples
 --------------------
 
-[Flux Through Cylinders and Spheres (PDF)]({{< baseurl >}}/resources/mit18_02sc_mnotes_v9-2)
+{{% resource_link be1349a4-99cd-cb2d-7be2-e99ddee7359c "Flux Through Cylinders and Spheres (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -48,8 +55,8 @@ Recitation Video
 Problems and Solutions
 ----------------------
 
-[Problems: Flux Through Surfaces (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_81_quest)
+{{% resource_link b93d0e83-490e-3ae7-f6c6-c668cf3abe0b "Problems: Flux Through Surfaces (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pb_81_comb)
+{{% resource_link 34d74134-191a-d6af-7781-a1be40f72727 "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-80-flux-through-a-surface) | [Next]({{< baseurl >}}/pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-82-nds-for-a-surface-z-f-x-y) »
+« {{% resource_link 076b5dff-cda3-d135-851c-f7a311c53208 "Previous" %}} | {{% resource_link d2fa06a0-8024-e028-2fdf-891fe896985d "Next" %}} »

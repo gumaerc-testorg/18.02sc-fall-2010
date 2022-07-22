@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This session contains a mathlet, problems and solutions.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Functions of Two Variables, Tangent Approximation and Optimization'
+parent_type: CourseSection
 parent_uid: 5ee00816-c5fb-6f61-1e73-27400ba69bef
 title: Problem Set 4
 uid: d25e4e51-80c1-1145-7a33-520120b986bf
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example) | [Next]({{< baseurl >}}/pages/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives) »
+« {{% resource_link c7fadc24-28f5-b544-3297-43d57919860a "Previous" %}} | {{% resource_link e7048e4b-fd0d-70c8-ef29-4e9d7a9c4a9d "Next" %}} »
 
 Overview
 --------
@@ -20,9 +26,9 @@ In this session you will:
 Problems Set
 ------------
 
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit18_02sc_pset4)
+{{% resource_link 794cfed2-50a8-56ff-8590-98682bd0b844 "Problem Set 4 (PDF)" %}}
 
-[Supplemental Problems referenced in this problem set (PDF)]({{< baseurl >}}/resources/mit18_02sc_supprob2)
+{{% resource_link de301eb2-1501-d2ee-f5a9-ebcae0b5a333 "Supplemental Problems referenced in this problem set (PDF)" %}}
 
 Related Resources
 -----------------
@@ -36,8 +42,8 @@ Use a mathlet to answer one of the problems int the problem set.
 Problem Set Solutions
 ---------------------
 
-[Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit18_02sc_pset4sol)
+{{% resource_link bd96042c-0631-d843-84f5-9280c7592665 "Problem Set 4 Solutions (PDF)" %}}
 
-[Solutions to Supplemental Problems referenced in this problem set (PDF)]({{< baseurl >}}/resources/mit18_02sc_supprobsol2)
+{{% resource_link 9f91baba-a26e-03fa-ba6e-ddc1b302575e "Solutions to Supplemental Problems referenced in this problem set (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example) | [Next]({{< baseurl >}}/pages/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives) »
+« {{% resource_link c7fadc24-28f5-b544-3297-43d57919860a "Previous" %}} | {{% resource_link e7048e4b-fd0d-70c8-ef29-4e9d7a9c4a9d "Next" %}} »

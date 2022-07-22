@@ -4,6 +4,7 @@ description: This resource contains problem statements related to approximation 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/117a2585c4344fe5633dbcc669b94e92_MIT18_02SC_pb_26_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 27: Approximation Formula'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to approximation formula.
-

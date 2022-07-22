@@ -5,6 +5,7 @@ description: This resource contains problem statements and solutions related to 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/b823f1bb039eb5adddc36d9ad8d72d54_MIT18_02SC_pb_17_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 15: Equations of Lines'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements and solutions related to equations of lines.
-

@@ -4,6 +4,7 @@ description: 'This resource contains information related to tangent approximatio
 file: /courses/18-02sc-multivariable-calculus-fall-2010/0ea53ee5f57584e074bf15e632615930_MIT18_02SC_we_12_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 27: Approximation Formula'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to tangent approximation. 
-

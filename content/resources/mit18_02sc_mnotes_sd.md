@@ -4,6 +4,7 @@ description: This resource contains information related to second derivative tes
 file: /courses/18-02sc-multivariable-calculus-fall-2010/a4685876e286873102a9937e1998a098_MIT18_02SC_MNotes_sd.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 30: Second Derivative Test'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to second derivative test.
-

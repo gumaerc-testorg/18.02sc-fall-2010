@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-02sc-multivariable-calculus-fall-2010/53e2b9bccaadff70ce2b4be036cdea24_cbSkFpO2jgQ.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

@@ -4,6 +4,7 @@ description: This resource contains information related to partial differential 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ff44c3d5eeca06ceb075cdfc2b466f4b_MIT18_02SC_MNotes_p.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 87: Diffusion Equation'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to partial differential equations.
-

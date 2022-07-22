@@ -4,6 +4,7 @@ description: This resource contains information regarding work and line integral
 file: /courses/18-02sc-multivariable-calculus-fall-2010/4fd0224e89b48c9cc51c3acfd3a77aad_MIT18_02SC_pb_57_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 57: Work and Line Integrals'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding work and line integrals.
-

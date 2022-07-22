@@ -5,6 +5,7 @@ description: This resource contains problem statements related to intersection o
 file: /courses/18-02sc-multivariable-calculus-fall-2010/f5124d952fe262f3bd8d0f102de7aaff_MIT18_02SC_pb_18_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 16: Intersection of a Line and a Plane'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to intersection of a line and a plane.
-

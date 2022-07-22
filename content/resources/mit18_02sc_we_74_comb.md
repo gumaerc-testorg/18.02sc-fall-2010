@@ -4,6 +4,7 @@ description: This resource contains information regarding triple integrals.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/d534aed46d7a83771952c51bf39d6a76_MIT18_02SC_we_74_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding triple integrals.
-

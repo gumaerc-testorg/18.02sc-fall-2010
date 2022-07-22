@@ -4,6 +4,7 @@ description: ''
 end_time: '685'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 From Lecture 24 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
-
-
 

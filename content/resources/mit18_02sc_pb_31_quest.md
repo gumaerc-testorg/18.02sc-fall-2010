@@ -5,6 +5,7 @@ description: This resource contains problem statements related to differentials 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/24db3519e1a5f51cafdb5e57ae809948_MIT18_02SC_pb_31_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 33: Examples'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to differentials and chain rule.
-

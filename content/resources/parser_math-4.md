@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-02sc-multivariable-calculus-fall-2010/db6d95bba4c405f7af83e5309634ae3e_parser_math.jar
 file_type: application/java-archive
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 40: Proof of Lagrange Multipliers'
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: This resource contains information regarding general formula for nd
 file: /courses/18-02sc-multivariable-calculus-fall-2010/b00361f92e5f01a9cf6362a1f38c44ed_MIT18_02SC_we_83_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 83: Other Ways to Find ndS'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding general formula for ndS.
-

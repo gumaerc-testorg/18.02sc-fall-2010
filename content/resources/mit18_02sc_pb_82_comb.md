@@ -4,6 +4,7 @@ description: This resource contains information regarding flux through general s
 file: /courses/18-02sc-multivariable-calculus-fall-2010/60dd6ff21b8eda75214d328a5ae5710f_MIT18_02SC_pb_82_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 82: ndS for a Surface z = f(x, y)'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding flux through general surfaces.
-

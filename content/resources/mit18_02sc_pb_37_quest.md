@@ -4,6 +4,7 @@ description: 'This resource contains problem sets related to moment of inertia. 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/aa19eb97ed091f9954395208d73c1a65_MIT18_02SC_pb_37_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 52: Applications: Moment of Inertia'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem sets related to moment of inertia. 
-

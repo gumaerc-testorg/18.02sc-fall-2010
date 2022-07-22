@@ -4,6 +4,7 @@ description: This resource contains information regarding extended green's theor
 file: /courses/18-02sc-multivariable-calculus-fall-2010/a241cf9e8bc16a36763e9326ace52f4d_MIT18_02SC_we_71_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 71: Extended Green''s Theorem: Boundaries with Multiple Pieces'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding extended green's theorem.
-

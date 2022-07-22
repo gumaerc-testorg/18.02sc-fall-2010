@@ -5,6 +5,7 @@ description: This resource contains the solutions to the problems related to the
 file: /courses/18-02sc-multivariable-calculus-fall-2010/1edeed419b7e944cc7ae4a79100744fa_MIT18_02SC_pb_8_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 7: Cross Products'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the solutions to the problems related to the cross product.
-

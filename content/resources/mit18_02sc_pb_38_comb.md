@@ -4,6 +4,7 @@ description: 'This resource contains problems and solutions related to work inte
 file: /courses/18-02sc-multivariable-calculus-fall-2010/9130c47c485030c068cf2323d6fe984c_MIT18_02SC_pb_38_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 59: Example: Line Integrals for Work'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problems and solutions related to work integrals. 
-

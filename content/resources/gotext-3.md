@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-02sc-multivariable-calculus-fall-2010/5b201c807a98f0382ec433c83ee145a9_goText.jar
 file_type: application/java-archive
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 4
 parent_type: CourseSection

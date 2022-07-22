@@ -5,6 +5,7 @@ description: This resource contains problem statements and solutions related to 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/e3dfe31f46c58d296d2aee73f4b3f7e6_MIT18_02SC_pb_13_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 12: Equations of Planes II'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements and solutions related to equations of planes II.
-

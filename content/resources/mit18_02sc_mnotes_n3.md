@@ -4,6 +4,7 @@ description: This resource contains information related to abstract partial diff
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ab0c0ef91fd30539282a3fd2477abdf0_MIT18_02SC_MNotes_n3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 43: Clearer Notation'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to abstract partial differentiation.
-

@@ -4,6 +4,7 @@ description: This resource contains information regarding extended stokes' theor
 file: /courses/18-02sc-multivariable-calculus-fall-2010/c11c063fd29702e8fe3d154bf1b19bc3_MIT18_02SC_pb_93_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 93: Example'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding extended stokes' theorem.
-

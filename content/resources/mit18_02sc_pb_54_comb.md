@@ -5,6 +5,7 @@ description: This resource contains information regarding polar coordinates and 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/24f64a5e3d2082cbaa9b9397f6424606_MIT18_02SC_pb_54_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 54: Example: Polar Coordinates'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding polar coordinates and the jacobian.
-

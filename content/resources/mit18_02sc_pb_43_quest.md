@@ -4,6 +4,7 @@ description: This resource contains information regarding the chain rule with co
 file: /courses/18-02sc-multivariable-calculus-fall-2010/0444bfd9fe2c14fe00c3b6e39401e160_MIT18_02SC_pb_43_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 43: Clearer Notation'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding the chain rule with constraints.
-

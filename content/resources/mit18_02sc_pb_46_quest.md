@@ -4,6 +4,7 @@ description: This resource contains information regarding lagrange multipliers.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/a2af1e8a10df37abb9aaa31871c6ea87_MIT18_02SC_pb_46_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 39: Statement of Lagrange Multipliers and Example'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding lagrange multipliers.
-

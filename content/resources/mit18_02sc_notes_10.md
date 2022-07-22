@@ -4,6 +4,7 @@ description: This resource contains information related to cusp on the cycloid.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/bca8693ceb5b6b22e5aeadb272a9d9a6_MIT18_02SC_notes_10.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 18: Point (Cusp) on Cycloid'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to cusp on the cycloid.
-

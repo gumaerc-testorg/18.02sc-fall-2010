@@ -4,6 +4,7 @@ description: This resource contains problem statements related to dot products.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/5e57c2a835c623ace0ac87f67e8a3158_MIT18_02SC_pb_2_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 2: Dot Products'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to dot products.
-

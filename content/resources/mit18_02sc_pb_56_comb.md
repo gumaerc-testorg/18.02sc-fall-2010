@@ -4,6 +4,7 @@ description: This resource contains information regarding vector fields.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/9510c8d013f07eefa90ba94a4d9a096d_MIT18_02SC_pb_56_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 56: Vector Fields'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding vector fields.
-

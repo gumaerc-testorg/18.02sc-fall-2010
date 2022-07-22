@@ -4,6 +4,7 @@ description: 'This resource contains information related to force as a vector. '
 file: /courses/18-02sc-multivariable-calculus-fall-2010/d4971e811683f61b5c9b0102131ab9e6_MIT18_02SC_we_3_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 1: Vectors'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to force as a vector. 
-

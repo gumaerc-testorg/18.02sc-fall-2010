@@ -4,6 +4,7 @@ description: This resource contains information regarding mass and average value
 file: /courses/18-02sc-multivariable-calculus-fall-2010/a3624e55552a4466762328f8af153133_MIT18_02SC_pb_51_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 51: Applications: Mass and Average Value'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding mass and average value.
-

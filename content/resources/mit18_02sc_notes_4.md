@@ -4,6 +4,7 @@ description: This resource contains information related to matrix multiplication
 file: /courses/18-02sc-multivariable-calculus-fall-2010/e6f05e8dd95b31f2dc80fe3b5a6a955f_MIT18_02SC_notes_4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 10: Meaning of Matrix Multiplication'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to matrix multiplication.
-

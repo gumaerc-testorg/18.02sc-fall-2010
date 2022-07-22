@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-02sc-multivariable-calculus-fall-2010/0f57adb2f50ba0a0748827df67482f4a_parser_math.jar
 file_type: application/java-archive
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 25: Level Curves and Contour Plots'
 parent_type: CourseSection

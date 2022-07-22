@@ -5,6 +5,7 @@ description: "This resource contains information related to vector-parametric eq
 file: /courses/18-02sc-multivariable-calculus-fall-2010/bc8ae5aa4f1dbabde49a6ee7f9be19ee_MIT18_02SC_pset3sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 3
 parent_type: CourseSection
@@ -16,5 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to vector-parametric equation.
-
-

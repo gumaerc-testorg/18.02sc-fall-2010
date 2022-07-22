@@ -5,6 +5,7 @@ description: "This resource contains information related to inner integral and s
 file: /courses/18-02sc-multivariable-calculus-fall-2010/b4c07dc90604cec18e0a7c1e1b31490e_MIT18_02SC_pset7sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 7
 parent_type: CourseSection
@@ -16,7 +17,5 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to inner integral and shell method. 
-
-
 
 

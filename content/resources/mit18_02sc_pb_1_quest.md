@@ -4,6 +4,7 @@ description: This resource contains problem statements related to vectors.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/2bbf4f240864f1cc0f5348e4315fd550_MIT18_02SC_pb_1_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 1: Vectors'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to vectors.
-

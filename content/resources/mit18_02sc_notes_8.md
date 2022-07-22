@@ -5,6 +5,7 @@ description: This resource contains information related to parametric equations 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/cf83cf53826ae477eaeeb1caf05b1cab_MIT18_02SC_notes_8.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 15: Equations of Lines'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to parametric equations of curves.
-

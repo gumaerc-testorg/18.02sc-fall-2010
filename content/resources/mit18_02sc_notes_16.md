@@ -4,6 +4,7 @@ description: This resource contains information related to critical points.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/2df7f490fc5f1bd28d6e8fd391e9a964_MIT18_02SC_notes_16.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 28: Optimization Problems'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to critical points.
-

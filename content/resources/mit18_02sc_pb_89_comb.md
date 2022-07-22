@@ -5,6 +5,7 @@ description: This resource contains information regarding gradient fields and po
 file: /courses/18-02sc-multivariable-calculus-fall-2010/60326597ed2ec64640dccfc7a8bd2480_MIT18_02SC_pb_89_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 89: Gradient Fields and Potential Functions'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding gradient fields and potential functions.
-

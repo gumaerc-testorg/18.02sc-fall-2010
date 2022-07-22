@@ -5,6 +5,7 @@ description: This resource contains problem statements related to Kepler's secon
 file: /courses/18-02sc-multivariable-calculus-fall-2010/fb00223c41260e607ce425e459e8b6d0_MIT18_02SC_pb_22_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 21: Kepler''s Second Law'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to Kepler's second law.
-

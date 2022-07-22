@@ -4,6 +4,7 @@ description: This resource contains information related to directional derivativ
 file: /courses/18-02sc-multivariable-calculus-fall-2010/94a05e4b48d9481a4b9dbdef0d5d86d7_MIT18_02SC_notes_20.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 38: Directional Derivatives'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to directional derivatives.
-

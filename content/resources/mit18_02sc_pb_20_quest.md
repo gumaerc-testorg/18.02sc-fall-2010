@@ -4,6 +4,7 @@ description: This resource contains problem statements related to velocity and a
 file: /courses/18-02sc-multivariable-calculus-fall-2010/72216820fcb729129ceab1cd4a79b291_MIT18_02SC_pb_20_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 19: Velocity and Acceleration'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to velocity and acceleration.
-

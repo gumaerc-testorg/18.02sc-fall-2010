@@ -4,6 +4,7 @@ description: This resource contains problem statements related to equations of p
 file: /courses/18-02sc-multivariable-calculus-fall-2010/f2884ea6b068fcf14d5a5fb94ff3ce74_MIT18_02SC_pb_9_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 8: Equations of Planes'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to equations of plane.
-

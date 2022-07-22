@@ -4,6 +4,7 @@ description: This resource contains problem statements related to optimization p
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ff30391fbc54043a2ca393a12b0a33a8_MIT18_02SC_pb_27_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 28: Optimization Problems'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to optimization problems.
-

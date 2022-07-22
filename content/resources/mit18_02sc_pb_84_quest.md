@@ -4,6 +4,7 @@ description: This resource contains information regarding divergence theorem.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/e4e9c2e99c5e5319b0e2a37f5e152218_MIT18_02SC_pb_84_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 84: Divergence Theorem'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding divergence theorem.
-

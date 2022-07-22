@@ -5,6 +5,7 @@ description: This resource contains information related to proof of the divergen
 file: /courses/18-02sc-multivariable-calculus-fall-2010/33885c2a159aacc124716eb082db7263_MIT18_02SC_MNotes_v10.2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 86: Proof of the Divergence Theorem'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to proof of the divergence theorem.
-

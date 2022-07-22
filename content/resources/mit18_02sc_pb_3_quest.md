@@ -5,6 +5,7 @@ description: This resource contains problem statements related to uses of the do
 file: /courses/18-02sc-multivariable-calculus-fall-2010/3901b64bbe9fffc0c118278468c6d564_MIT18_02SC_pb_3_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 3: Uses of the Dot Product: Lengths and Angles'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to uses of the dot product.
-

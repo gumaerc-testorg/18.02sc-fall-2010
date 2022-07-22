@@ -4,6 +4,7 @@ description: This resource contains information related to spherical coordinates
 file: /courses/18-02sc-multivariable-calculus-fall-2010/e6deb5160e19e5483e975cdae3004956_MIT18_02SC_exam4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to spherical coordinates.
-

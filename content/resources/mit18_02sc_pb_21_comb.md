@@ -5,6 +5,7 @@ description: This resource contains problem statements and solutions related to 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/a1474709791ee9a8ef675196521acc38_MIT18_02SC_pb_21_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 20: Velocity and Arc Length'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements and solutions related to velocity and arc length.
-

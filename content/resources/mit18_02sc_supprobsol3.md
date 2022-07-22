@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-02sc-multivariable-calculus-fall-2010/09f91c1171dfddd133f6757e505d4f73_MIT18_02SC_SupProbSol3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 7
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the problem statements related to double integrals.
-

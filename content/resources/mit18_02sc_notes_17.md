@@ -4,6 +4,7 @@ description: This resource contains information related to chain rule.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/95e0a67b5970599a87a98dd4b47200b3_MIT18_02SC_notes_17.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 34: The Chain Rule with More Variables'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to chain rule.
-

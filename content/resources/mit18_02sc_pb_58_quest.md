@@ -5,6 +5,7 @@ description: This resource contains information regarding geometric approach to 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/5146472c592aba62ea76dadd9f4de250_MIT18_02SC_pb_58_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 58: Geometric Approach'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding geometric approach to line integrals.
-

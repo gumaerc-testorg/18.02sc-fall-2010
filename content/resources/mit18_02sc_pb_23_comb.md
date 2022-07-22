@@ -5,6 +5,7 @@ description: 'This resource contains problem statements and solutions related to
 file: /courses/18-02sc-multivariable-calculus-fall-2010/9d3a3e718f5c4d077fa51cf307c92bef_MIT18_02SC_pb_23_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 24: Functions of Two Variables: Graphs'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements and solutions related to functions of two variables: graphs.
-

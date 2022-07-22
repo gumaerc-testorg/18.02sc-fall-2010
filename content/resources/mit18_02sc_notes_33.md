@@ -4,6 +4,7 @@ description: This resource contains the notes related to two dimensional curl.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/03ff53bca18dc4b2ea725a9be4215517_MIT18_02SC_notes_33.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 64: Curl'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the notes related to two dimensional curl.
-

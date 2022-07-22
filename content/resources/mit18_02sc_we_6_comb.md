@@ -4,6 +4,7 @@ description: 'This resource contains information related to areas and determinan
 file: /courses/18-02sc-multivariable-calculus-fall-2010/14957918d67d27e7833edd92452f1c92_MIT18_02SC_we_6_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 5: Area and Determinants in 2D'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to areas and determinants. 
-

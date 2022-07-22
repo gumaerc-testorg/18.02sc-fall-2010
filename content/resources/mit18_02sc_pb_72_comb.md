@@ -4,6 +4,7 @@ description: This resource contains information regarding simply connected regio
 file: /courses/18-02sc-multivariable-calculus-fall-2010/6e3d71c404ea1cdee1803c80e845ce5c_MIT18_02SC_pb_72_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 72: Simply Connected Regions and Conservative Fields'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding simply connected regions.
-

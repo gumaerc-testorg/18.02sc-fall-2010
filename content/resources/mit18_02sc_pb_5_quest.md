@@ -5,6 +5,7 @@ description: This resource contains problem statements related to area and deter
 file: /courses/18-02sc-multivariable-calculus-fall-2010/57711a861227a87360f4e12f0eabc372_MIT18_02SC_pb_5_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 5: Area and Determinants in 2D'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to area and determinants in 2D.
-

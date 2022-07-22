@@ -4,6 +4,7 @@ description: This resource contains information related to cylindrical coords.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/2863a0661d59629365e2c84b2a1d37ba_MIT18_02SC_pset10sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 10
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to cylindrical coords.
-

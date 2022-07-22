@@ -4,6 +4,7 @@ description: This resource contains the problems related to the cross product.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/a8a98ad00bcf87408c1971f9ba2b2a5e_MIT18_02SC_pb_8_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 7: Cross Products'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the problems related to the cross product.
-

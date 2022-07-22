@@ -5,6 +5,7 @@ description: "This resource contains information related to extended green\u2019
 file: /courses/18-02sc-multivariable-calculus-fall-2010/1bc33736db05b99f564ba15fe7174311_MIT18_02SC_MNotes_v5.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 72: Simply Connected Regions and Conservative Fields'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to extended green’s theorem.
-

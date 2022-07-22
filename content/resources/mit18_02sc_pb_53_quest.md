@@ -4,6 +4,7 @@ description: This resource contains information regarding change of variables.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/fcf683571b94e31e9bcfde0765a944be_MIT18_02SC_pb_53_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 53: Change of Variables'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding change of variables.
-

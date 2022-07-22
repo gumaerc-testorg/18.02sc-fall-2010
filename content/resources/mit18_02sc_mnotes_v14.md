@@ -5,6 +5,7 @@ description: This resource contains information related to criterion for a gradi
 file: /courses/18-02sc-multivariable-calculus-fall-2010/f790233ae3e54f463beec68b9f8827ff_MIT18_02SC_MNotes_v14.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 94: Simply Connected Regions; Topology'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to criterion for a gradient field.
-

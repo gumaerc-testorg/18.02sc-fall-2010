@@ -4,6 +4,7 @@ description: This resource contains problem statements related matrix inverses.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/e3d204905da69b83ff39bda630812ca2_MIT18_02SC_pb_12_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 11: Matrix Inverses'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related matrix inverses.
-

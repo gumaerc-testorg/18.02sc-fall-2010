@@ -4,6 +4,7 @@ description: This resource contains information regarding sketch of proof.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/fc757ef1e527abe8ac1154d78b084637_MIT18_02SC_notes_67.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 67: Proof of Green''s Theorem'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding sketch of proof.
-

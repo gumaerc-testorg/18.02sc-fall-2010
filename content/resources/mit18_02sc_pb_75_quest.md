@@ -4,6 +4,7 @@ description: This resource contains information regarding practice with triple i
 file: /courses/18-02sc-multivariable-calculus-fall-2010/dd43a5b1ff2a99961d94d9cd5d613bbe_MIT18_02SC_pb_75_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 75: Applications and Examples'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding practice with triple integrals.
-

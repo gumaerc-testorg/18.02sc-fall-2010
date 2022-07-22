@@ -4,6 +4,7 @@ description: This resource contains information regarding two dimensional curl.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/4c198066f23c4ec6b9e3b706da72edb1_MIT18_02SC_pb_64_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 64: Curl'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding two dimensional curl.
-

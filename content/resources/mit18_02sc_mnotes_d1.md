@@ -4,6 +4,7 @@ description: This resource contains information related to determinant.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/f8f90e68ad5ec1db6be2a179b3f9bc7b_MIT18_02SC_MNotes_d1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 6: Volumes and Determinants in Space'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to determinant.
-

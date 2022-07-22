@@ -4,6 +4,7 @@ description: This resource contains information regarding jacobian for spherical
 file: /courses/18-02sc-multivariable-calculus-fall-2010/841ff38b2011ac2f0200eceefe6048c6_MIT18_02SC_pb_77_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 77: Triple Integrals in Spherical Coordinates'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding jacobian for spherical coordinates.
-

@@ -4,6 +4,7 @@ description: This resource contains information regarding work along a space cur
 file: /courses/18-02sc-multivariable-calculus-fall-2010/bffe62a10b5d9eeaaf5df931d4acd476_MIT18_02SC_pb_88_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 88: Line Integrals in Space'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding work along a space curve.
-

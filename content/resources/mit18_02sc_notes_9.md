@@ -4,6 +4,7 @@ description: This resource contains information related to parametric curves.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/2e7855c398972f7d5da123cae42a8290_MIT18_02SC_notes_9.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 17: General Parametric Equations; the Cycloid'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to parametric curves.
-

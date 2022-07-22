@@ -4,6 +4,7 @@ description: This resource contains information related to potential function.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/70f8f44ba6127dec10b5763fbbddd7f2_MIT18_02SC_MNotes_v2.2to3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 63: Potential Functions'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to potential function.
-

@@ -4,6 +4,7 @@ description: This resource contains problem statements related to vector compone
 file: /courses/18-02sc-multivariable-calculus-fall-2010/6d37211262443a5748b24696f1801841_MIT18_02SC_pb_4_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 4: Vector Components'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to vector components.
-

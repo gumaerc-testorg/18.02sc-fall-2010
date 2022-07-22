@@ -4,6 +4,7 @@ description: This resource contains information related to partial differential 
 file: /courses/18-02sc-multivariable-calculus-fall-2010/52f2d984bbc8d9c8fa3ba43731182883_MIT18_02SC_MNotes_p.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 45: Review of Topics'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to partial differential equations.
-

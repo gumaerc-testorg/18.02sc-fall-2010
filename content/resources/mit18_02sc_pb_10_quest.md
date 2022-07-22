@@ -4,6 +4,7 @@ description: This resource contains problem statements related to matrix multipl
 file: /courses/18-02sc-multivariable-calculus-fall-2010/4092f473c2952ceda8dcf204ee096167_MIT18_02SC_pb_10_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: '.Session 9: Matrix Multiplication'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to matrix multiplication.
-

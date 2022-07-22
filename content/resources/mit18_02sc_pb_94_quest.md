@@ -4,6 +4,7 @@ description: This resource contains information regarding simply connected regio
 file: /courses/18-02sc-multivariable-calculus-fall-2010/044a786f6b25d0a16387906e2555b31c_MIT18_02SC_pb_94_quest.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 94: Simply Connected Regions; Topology'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding simply connected regions.
-

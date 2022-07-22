@@ -5,6 +5,7 @@ description: "This resource contains information related to parametric equations
 file: /courses/18-02sc-multivariable-calculus-fall-2010/04e1365ae9ea9e0263c9465669db310d_MIT18_02SC_pset3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 3
 parent_type: CourseSection
@@ -16,5 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to parametric equations.
-
-

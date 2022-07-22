@@ -4,6 +4,7 @@ description: This resource contains information related to curves in space.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/6fff06c9bb0a38f76f9cd2015798f8ed_MIT18_02SC_MNotes_v11.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 88: Line Integrals in Space'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to curves in space.
-

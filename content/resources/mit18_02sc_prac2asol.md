@@ -4,6 +4,7 @@ description: This resource contains information related to lagrange multiplier e
 file: /courses/18-02sc-multivariable-calculus-fall-2010/28e92bddfd9d2affcbda6a982c2d2a75_MIT18_02SC_prac2Asol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Practice Exam
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to lagrange multiplier equation.
-

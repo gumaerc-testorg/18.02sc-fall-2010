@@ -5,6 +5,7 @@ description: This resource contains information related to changing variables in
 file: /courses/18-02sc-multivariable-calculus-fall-2010/78a094df09c1690c6751d789acb0432a_MIT18_02SC_MNotes_cv2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 54: Example: Polar Coordinates'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to changing variables in multiple integrals.
-

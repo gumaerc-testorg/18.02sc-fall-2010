@@ -4,6 +4,7 @@ description: This resource contains information related to gradient fields in 3D
 file: /courses/18-02sc-multivariable-calculus-fall-2010/61987db4530a0894030cbfbf3373a018_MIT18_02SC_pset12.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 12
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to gradient fields in 3D.
-

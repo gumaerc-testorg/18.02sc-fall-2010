@@ -4,6 +4,7 @@ description: This resource contains information regarding change of variables ex
 file: /courses/18-02sc-multivariable-calculus-fall-2010/bacba6e11e68d1f1bf5739abe23f8aef_MIT18_02SC_pb_55_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 55: Example'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding change of variables example.
-

@@ -5,6 +5,7 @@ description: This resource contains information related to flux through a cylind
 file: /courses/18-02sc-multivariable-calculus-fall-2010/be1349a499cdcb2d7be2e99ddee7359c_MIT18_02SC_MNotes_v9.2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 81: Calculating Flux; Finding ndS'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to flux through a cylinder and sphere.
-

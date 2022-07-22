@@ -5,6 +5,7 @@ description: This resource contains information related to fundamental theorem f
 file: /courses/18-02sc-multivariable-calculus-fall-2010/878cd7a9630352d5d7deb651ee3504c7_MIT18_02SC_notes_29.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 60: Fundamental Theorem for Line Integrals'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to fundamental theorem for line integrals.
-

@@ -4,6 +4,7 @@ description: "This resource contains information related to kepler\u2019s second
 file: /courses/18-02sc-multivariable-calculus-fall-2010/040b72c08d4f0ef67faf085066e1cc71_MIT18_02SC_MNotes_k.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 21: Kepler''s Second Law'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to kepler’s second law.
-

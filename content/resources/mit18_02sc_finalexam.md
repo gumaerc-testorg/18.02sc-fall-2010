@@ -4,6 +4,7 @@ description: Final exam on multivariable calculus.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/8048c12b339cefb160f8540aa3507fc7_MIT18_02SC_finalexam.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 Final exam on multivariable calculus.
-

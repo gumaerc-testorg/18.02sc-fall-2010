@@ -4,6 +4,7 @@ description: This resource contains information related to relation to physics.
 file: /courses/18-02sc-multivariable-calculus-fall-2010/3f371db51e1ee3540e6f0ff50e46d07b_MIT18_02SC_MNotes_v15.2to3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 98: Maxwell''s Equations'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to relation to physics.
-

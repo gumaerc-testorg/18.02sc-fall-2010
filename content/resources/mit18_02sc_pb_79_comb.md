@@ -4,6 +4,7 @@ description: This resource contains information regarding vector fields in space
 file: /courses/18-02sc-multivariable-calculus-fall-2010/957c453bc01d676ea31cf0b98afcf1f6_MIT18_02SC_pb_79_comb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 79: Vector Fields in Space'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding vector fields in space.
-

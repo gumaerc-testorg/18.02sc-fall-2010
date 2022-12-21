@@ -30,7 +30,7 @@
     "website": "18-02sc-multivariable-calculus-fall-2010"
   },
   "course_title": "Multivariable Calculus",
-  "course_description": "This course covers differential, integral and vector calculus for functions of more than one variable. These mathematical tools and methods are used extensively in the physical sciences, engineering, economics and computer graphics.\n##### Course Formats\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/Syllabus)The materials have been organized to support independent study. The website includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n*   **Lecture Videos** recorded on the MIT campus\n*   **Recitation Videos** with problem-solving tips\n*   **Examples** of solutions to sample problems\n*   **Problems** for you to solve, with solutions\n*   **Exams** with solutions\n*   **Interactive Java Applets** (\"Mathlets\") to reinforce key concepts\n\n##### Content Development\n\n* * *\n\nDenis Auroux  \nArthur Mattuck  \nJeremy Orloff  \nJohn Lewis\n\nHeidi Burgiel  \nChristine Breiner  \nDavid Jordan  \nJoel Lewis",
+  "course_description": "This course covers differential, integral and vector calculus for functions of more than one variable. These mathematical tools and methods are used extensively in the physical sciences, engineering, economics and computer graphics.\n\nThe materials have been organized to support independent study. The website includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n- **Lecture Videos** recorded on the MIT campus\n- **Recitation Videos** with problem-solving tips\n- **Examples** of solutions to sample problems\n- **Problems** for you to solve, with solutions\n- **Exams** with solutions\n- **Interactive Java Applets** (\"Mathlets\") to reinforce key concepts\n\nContent Development\n\nDenis Auroux\u00a0  \nArthur Mattuck\u00a0  \nJeremy Orloff\u00a0  \nJohn Lewis\n\nHeidi Burgiel\u00a0  \nChristine Breiner\u00a0  \nDavid Jordan\u00a0  \nJoel Lewis",
   "department_numbers": [
     "18"
   ],
@@ -47,6 +47,7 @@
     "Lecture Videos",
     "Lecture Notes"
   ],
-  "site_uid": "55b4a2e4-7f58-4fd1-875c-c2027f360a5a",
+  "site_uid": "b063d98e-a777-4e9d-943f-b150d3c3a7eb",
+  "site_short_id": "18.02sc-fall-2010",
   "title": "Course Metadata"
 }

@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lagrange Multipliers
+title: 'Session 39: Lagrange Multipliers'
 uid: 83265bf3-633a-0435-f030-fc0437c785a3
 video_files:
   archive_url: https://ia800200.us.archive.org/3/items/MIT18_02SCF10/MIT18_02SCF10Rec_28_300k.mp4

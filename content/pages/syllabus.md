@@ -3,7 +3,6 @@ content_type: page
 description: This syllabus section provides an introduction to the course and information
   on course goals, structure, lecture videos, recitation videos, readings, activities,
   exams, textbooks, technical requirements, and joining a study group.
-draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -11,6 +10,7 @@ uid: d764fda4-99d7-f9dd-f72d-00c4e7ae00c3
 video_metadata:
   youtube_id: null
 ---
+
 « [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 670edba6-2cf4-bbd8-3537-93d6e066fb6c "Next" %}} »
 
 Introduction

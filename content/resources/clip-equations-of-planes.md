@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '863'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,16 +22,14 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '310'
-title: 'Clip: Equations of Planes'
+title: 'Session 8 Clip: Equations of Planes'
 uid: 7c011f35-f41f-8456-7618-6793929a3417
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec03_300k.mp4
-  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/bHdzkFrgRcA_captions.vtt
+  video_captions_file: /courses/18-02sc-multivariable-calculus-fall-2010/bHdzkFrgRcA_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/bHdzkFrgRcA/default.jpg
-  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/bHdzkFrgRcA_transcript.pdf
+  video_transcript_file: /courses/18-02sc-multivariable-calculus-fall-2010/bHdzkFrgRcA_transcript.pdf
 video_metadata:
   youtube_id: bHdzkFrgRcA
 ---
-
 From Lecture 3 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)
-

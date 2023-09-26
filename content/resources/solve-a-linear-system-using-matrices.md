@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Solve a Linear System Using Matrices
+title: 'Session 11: Solve a Linear System Using Matrices'
 uid: f3c44a69-1b13-fba3-27ec-fc6c554bf4d2
 video_files:
   archive_url: http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_09_300k.mp4

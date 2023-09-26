@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Integral of exp(-x<sup>2</sup>)
+title: 'Session 54: Integral of exp(-x<sup>2</sup>)'
 uid: f7685aa8-46f6-8545-1a32-d878ca01c6fd
 video_files:
   archive_url: http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_37_300k.mp4

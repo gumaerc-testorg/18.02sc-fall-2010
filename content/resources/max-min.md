@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Max/Min
+title: 'Session 31: Max/Min'
 uid: add42563-2f8d-94c6-80d9-ad76333b38b6
 video_files:
   archive_url: http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_24_300k.mp4

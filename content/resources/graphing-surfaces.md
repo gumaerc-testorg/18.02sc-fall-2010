@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Graphing Surfaces
+title: 'Session 24: Graphing Surfaces'
 uid: 0c7d1ff2-9864-8917-feeb-74e348d3eb98
 video_files:
   archive_url: http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_17_300k.mp4

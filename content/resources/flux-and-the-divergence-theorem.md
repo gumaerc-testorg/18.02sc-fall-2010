@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Flux and the Divergence Theorem
+title: 'Session 84: Flux and the Divergence Theorem'
 uid: faa0b05c-c4a5-b2e5-5ff5-6453d12c69c6
 video_files:
   archive_url: http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_60_300k.mp4

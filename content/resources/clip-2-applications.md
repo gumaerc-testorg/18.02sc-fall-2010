@@ -4,12 +4,14 @@ description: ''
 draft: false
 end_time: '1215'
 file: null
+file_size: ''
 file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -20,12 +22,13 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '945'
-title: 'Clip 2: Applications'
+title: 'Session 101 Clip 2: Applications'
 uid: 4bcb33c7-1927-f593-bbb0-1100896914f4
 video_files:
-  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/24v9onS9Kcg_captions.vtt
+  archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec35_300k.mp4
+  video_captions_file: /courses/18-02sc-multivariable-calculus-fall-2010/24v9onS9Kcg_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/24v9onS9Kcg/default.jpg
-  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/24v9onS9Kcg_transcript.pdf
+  video_transcript_file: /courses/18-02sc-multivariable-calculus-fall-2010/24v9onS9Kcg_transcript.pdf
 video_metadata:
   youtube_id: 24v9onS9Kcg
 ---

@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/18-02sc-multivariable-calculus-fall-2010/cf929ce74f8de6907984ea042e6162ed_MIT18_02SC_L27Brds_14a.png
+file_size: 2489
 file_type: image/png
 image_metadata:
   caption: ''

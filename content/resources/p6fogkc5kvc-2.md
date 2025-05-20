@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-02sc-multivariable-calculus-fall-2010/622c1e2f44de5f04a7a4b8c39b1ab4b3_P6fOgkC5kvc.vtt
+file_size: 15167
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

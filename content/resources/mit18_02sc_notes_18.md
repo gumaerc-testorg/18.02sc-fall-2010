@@ -4,14 +4,14 @@ description: 'This resource contains information related to gradient: definition
   properties.'
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/6d4f46e89733b7291f86a22882aa2311_MIT18_02SC_notes_18.pdf
-file_size: ''
+file_size: 167485
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 35: Gradient: Definition, Perpendicular to Level Curves'

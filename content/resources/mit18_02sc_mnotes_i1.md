@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to rectangular coordinates.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/00ca45ccb749ea1c0a42b733eb8eb9bf_MIT18_02SC_MNotes_i1.pdf
-file_size: ''
+file_size: 65983
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   flux and the divergence theorem.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/45302ef9b328a6c32869077580cd685d_MIT18_02SC_SupProbSol6.pdf
-file_size: ''
+file_size: 251694
 file_type: application/pdf
 image_metadata:
   caption: ''

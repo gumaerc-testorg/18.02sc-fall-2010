@@ -4,7 +4,7 @@ description: This resource contains information regarding fundamental theorem fo
   line integrals.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/0e5255d3c80f8330cdf0de8baac68c83_MIT18_02SC_pb_39_quest.pdf
-file_size: ''
+file_size: 115947
 file_type: application/pdf
 image_metadata:
   caption: ''

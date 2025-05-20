@@ -3,14 +3,14 @@ content_type: resource
 description: 'This resource contains problems and solutions of limits for double integrals. '
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/864f1462d06a5bde74c2fac6d93dabbd_MIT18_02SC_we_19_comb.pdf
-file_size: ''
+file_size: 119195
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 48: Examples of Double Integration'

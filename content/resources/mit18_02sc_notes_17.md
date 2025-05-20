@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to chain rule.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/95e0a67b5970599a87a98dd4b47200b3_MIT18_02SC_notes_17.pdf
-file_size: ''
+file_size: 134135
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 34: The Chain Rule with More Variables'

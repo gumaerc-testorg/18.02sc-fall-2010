@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains problem sets of double integration in polar coordinates. '
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/9b592e559908d74e4ddbe967325add52_MIT18_02SC_pb_36_quest.pdf
-file_size: ''
+file_size: 88908
 file_type: application/pdf
 image_metadata:
   caption: ''

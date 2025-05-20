@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to green\u2019s thm."
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/fa18a2da43d105c7b8c633df974652e6_MIT18_02SC_pset9.pdf
-file_size: ''
+file_size: 147456
 file_type: application/pdf
 image_metadata:
   caption: ''

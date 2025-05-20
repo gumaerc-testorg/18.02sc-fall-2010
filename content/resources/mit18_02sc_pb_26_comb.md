@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   formula.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/bbcebe55923297376707b0401b8f9b40_MIT18_02SC_pb_26_comb.pdf
-file_size: ''
+file_size: 107824
 file_type: application/pdf
 image_metadata:
   caption: ''

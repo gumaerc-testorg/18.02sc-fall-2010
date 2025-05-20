@@ -4,14 +4,14 @@ description: 'This resource contains problems and solutions related to changing 
   order of integration. '
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/66d49509fdfe1afe1bb0fbc41dda93c7_MIT18_02SC_we_20_comb.pdf
-file_size: ''
+file_size: 110311
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 49: Exchanging the Order of Integration'

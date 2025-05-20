@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to divergence theorem.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/9c15c202ca57e69f25a98a0c76b2fb8b_MIT18_02SC_MNotes_v10.1.pdf
-file_size: ''
+file_size: 117381
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 84: Divergence Theorem'

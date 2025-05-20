@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding triple integrals.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/d534aed46d7a83771952c51bf39d6a76_MIT18_02SC_we_74_comb.pdf
-file_size: ''
+file_size: 615905
 file_type: application/pdf
 image_metadata:
   caption: ''

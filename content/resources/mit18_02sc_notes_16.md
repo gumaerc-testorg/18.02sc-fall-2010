@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to critical points.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/2df7f490fc5f1bd28d6e8fd391e9a964_MIT18_02SC_notes_16.pdf
-file_size: ''
+file_size: 595007
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 28: Optimization Problems'

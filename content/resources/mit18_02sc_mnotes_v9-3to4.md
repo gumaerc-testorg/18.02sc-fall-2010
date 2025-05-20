@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to flux through general surfaces.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/b9ba75cb22dfa18f5976d78bb016ddc7_MIT18_02SC_MNotes_v9.3to4.pdf
-file_size: ''
+file_size: 129475
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 82: ndS for a Surface z = f(x, y)'

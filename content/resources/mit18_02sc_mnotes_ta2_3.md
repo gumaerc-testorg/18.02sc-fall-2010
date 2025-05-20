@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to tangent approximation.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/b6e262891bdea6798c2017711129ef9d_MIT18_02SC_MNotes_ta2_3.pdf
-file_size: ''
+file_size: 89789
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 27: Approximation Formula'

@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to inverse matrices.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/f1388eddd0f3047bcfd70cf5da379f78_MIT18_02SC_MNotes_m2.pdf
-file_size: ''
+file_size: 126679
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 11: Matrix Inverses'

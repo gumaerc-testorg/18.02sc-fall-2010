@@ -3,13 +3,14 @@ content_type: resource
 description: New image Upload
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ccbf0e3e003ed9e1dff3e4340beb71b7_MIT18_02SC_L9Brds_6.png
-file_size: ''
+file_size: 12785
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Image Gallery
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 28: Optimization Problems'

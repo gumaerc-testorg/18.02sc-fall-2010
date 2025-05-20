@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding chain rule practice.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/d9c0d13bbd583e2e3ea926966abb47f0_MIT18_02SC_pb_40_comb.pdf
-file_size: ''
+file_size: 125518
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: Solutions to a final exam on multivariable calculus.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/02b7e64d338b9c8561d01377ddfd8c7d_MIT18_02SC_finalexamsol.pdf
-file_size: ''
+file_size: 352217
 file_type: application/pdf
 image_metadata:
   caption: ''

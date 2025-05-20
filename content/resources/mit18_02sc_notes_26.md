@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to moment of inertia.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/a007cb2572c17b9bcfdcfae148902da4_MIT18_02SC_notes_26.pdf
-file_size: ''
+file_size: 608668
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 52: Applications: Moment of Inertia'

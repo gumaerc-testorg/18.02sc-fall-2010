@@ -4,14 +4,14 @@ description: 'This resource contains information related to intersection of a li
   and a plane. '
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/29d176356f6f118762bf32dbf0758b55_MIT18_02SC_we_9_comb.pdf
-file_size: ''
+file_size: 84789
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 16: Intersection of a Line and a Plane'

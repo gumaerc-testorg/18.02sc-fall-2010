@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to partial differentiation.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/de301eb21501d2eef5a9ebcae0b5a333_MIT18_02SC_SupProb2.pdf
-file_size: ''
+file_size: 252806
 file_type: application/pdf
 image_metadata:
   caption: ''

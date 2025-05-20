@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding curl in 3D.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/72d6db9371540cbe2e76ab1139716c40_MIT18_02SC_pb_90_comb.pdf
-file_size: ''
+file_size: 143784
 file_type: application/pdf
 image_metadata:
   caption: ''

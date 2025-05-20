@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding elliptic paraboloid.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/fe168079318988d439420b1204a09ce4_MIT18_02SC_pb_41_quest.pdf
-file_size: ''
+file_size: 97420
 file_type: application/pdf
 image_metadata:
   caption: ''

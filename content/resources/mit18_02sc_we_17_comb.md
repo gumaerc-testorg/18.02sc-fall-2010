@@ -4,14 +4,14 @@ description: 'This resource contains information related to tangent plane to a l
   surface. '
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/5ac021982a142a1524d3200d2659fe57_MIT18_02SC_we_17_comb.pdf
-file_size: ''
+file_size: 134455
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 37: Example'

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to green's theorem.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/f6f3d244fdb08732ea8e49ef3dce6e0c_MIT18_02SC_notes_30.pdf
-file_size: ''
+file_size: 620270
 file_type: application/pdf
 image_metadata:
   caption: ''

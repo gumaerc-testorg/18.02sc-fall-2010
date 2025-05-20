@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to equations of lines.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/afa106c9f2fe8b07cc5dbdbf9f81f7ef_MIT18_02SC_pb_17_quest.pdf
-file_size: ''
+file_size: 90246
 file_type: application/pdf
 image_metadata:
   caption: ''

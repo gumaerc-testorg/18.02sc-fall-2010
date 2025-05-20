@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to cusp on the cycloid.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/bca8693ceb5b6b22e5aeadb272a9d9a6_MIT18_02SC_notes_10.pdf
-file_size: ''
+file_size: 112141
 file_type: application/pdf
 image_metadata:
   caption: ''

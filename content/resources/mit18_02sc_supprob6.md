@@ -4,7 +4,7 @@ description: This resource contains problem statements related to flux and the d
   theorem.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/0ba6921e769213c1441d8322047e1cc5_MIT18_02SC_SupProb6.pdf
-file_size: ''
+file_size: 201167
 file_type: application/pdf
 image_metadata:
   caption: ''

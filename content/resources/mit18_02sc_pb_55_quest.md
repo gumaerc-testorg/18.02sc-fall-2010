@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding change of variables example.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/25beabd2f70ee3a7eb66aba7b545f6df_MIT18_02SC_pb_55_quest.pdf
-file_size: ''
+file_size: 81497
 file_type: application/pdf
 image_metadata:
   caption: ''

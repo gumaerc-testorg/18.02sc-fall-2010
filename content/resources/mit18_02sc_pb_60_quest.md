@@ -4,7 +4,7 @@ description: This resource contains information regarding line integrals of vect
   fields.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/e40833e2684e9fa3510a1514e10ff918_MIT18_02SC_pb_60_quest.pdf
-file_size: ''
+file_size: 100813
 file_type: application/pdf
 image_metadata:
   caption: ''

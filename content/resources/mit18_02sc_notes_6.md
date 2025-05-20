@@ -4,14 +4,14 @@ description: This resource contains information related to distances to planes a
   lines.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/0768ecb704c18ede11fae15923c160f8_MIT18_02SC_notes_6.pdf
-file_size: ''
+file_size: 145903
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 12: Equations of Planes II'

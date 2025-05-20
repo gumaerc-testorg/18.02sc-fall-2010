@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding work along a space curve.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/4b8942e6d445e97b36173420bbdc4039_MIT18_02SC_pb_88_comb.pdf
-file_size: ''
+file_size: 155275
 file_type: application/pdf
 image_metadata:
   caption: ''

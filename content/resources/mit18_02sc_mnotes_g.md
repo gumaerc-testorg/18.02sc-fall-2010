@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to gravitational attraction.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/cf87cdd1410bb969d0fd86a598dbe0bb_MIT18_02SC_MNotes_g.pdf
-file_size: ''
+file_size: 86441
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 78: Applications: Gravitational Attraction'

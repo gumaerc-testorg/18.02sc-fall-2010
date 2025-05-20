@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding identifying potential functions.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/2d231c82a1183ce0f529824e1858b7bc_MIT18_02SC_pb_63_quest.pdf
-file_size: ''
+file_size: 108310
 file_type: application/pdf
 image_metadata:
   caption: ''

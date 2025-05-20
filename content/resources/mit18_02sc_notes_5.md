@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to equations of planes.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/581296ab1100fe5615fccb7ff2511530_MIT18_02SC_notes_5.pdf
-file_size: ''
+file_size: 152538
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 12: Equations of Planes II'

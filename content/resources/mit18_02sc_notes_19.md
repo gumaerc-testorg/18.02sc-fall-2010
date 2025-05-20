@@ -4,7 +4,7 @@ description: 'This resource contains information related to gradient: proof that
   is perpendicular to level curves and surfaces.'
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/85c1d85363d9808505351b571d2750aa_MIT18_02SC_notes_19.pdf
-file_size: ''
+file_size: 137895
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to polarization identity.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/2ea35c7ab33c5c143ae8f60f949588f2_MIT18_02SC_pset1.pdf
-file_size: ''
+file_size: 136678
 file_type: application/pdf
 image_metadata:
   caption: ''

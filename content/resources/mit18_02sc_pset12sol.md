@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to stokes\u2019 theorem."
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/b2b48283719323b2d053890855d83616_MIT18_02SC_pset12sol.pdf
-file_size: ''
+file_size: 171280
 file_type: application/pdf
 image_metadata:
   caption: ''

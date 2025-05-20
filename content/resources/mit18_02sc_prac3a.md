@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to limits of integration.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/8cac15f06a6cd6e2ad6885241b70c5f7_MIT18_02SC_prac3A.pdf
-file_size: ''
+file_size: 119388
 file_type: application/pdf
 image_metadata:
   caption: ''

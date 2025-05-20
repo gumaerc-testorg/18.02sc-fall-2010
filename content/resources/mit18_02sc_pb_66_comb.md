@@ -4,7 +4,7 @@ description: This resource contains information regarding identifying gradient f
   and exact differentials.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/4967c4adab8b6f26e3f0952d460d4e80_MIT18_02SC_pb_66_comb.pdf
-file_size: ''
+file_size: 150638
 file_type: application/pdf
 image_metadata:
   caption: ''

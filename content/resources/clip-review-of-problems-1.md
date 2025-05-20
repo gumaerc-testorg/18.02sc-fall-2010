@@ -4,14 +4,14 @@ description: ''
 draft: false
 end_time: '2722'
 file: null
-file_size: ''
+file_size: '105075233'
 file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '2390'
-title: 'Session 46 eClip: Review of Problems'
+title: 'Session 46 Clip: Review of Problems'
 uid: c965b7fa-256b-6b9e-f5f3-04e9bdec3702
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec15_300k.mp4

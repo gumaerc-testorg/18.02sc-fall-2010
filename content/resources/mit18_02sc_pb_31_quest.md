@@ -4,7 +4,7 @@ description: This resource contains problem statements related to differentials 
   chain rule.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/24db3519e1a5f51cafdb5e57ae809948_MIT18_02SC_pb_31_quest.pdf
-file_size: ''
+file_size: 125611
 file_type: application/pdf
 image_metadata:
   caption: ''

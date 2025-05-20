@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding jacobian for spherical coordinates.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/8ccccd43d1edc57e0895a2167f6da49f_MIT18_02SC_pb_77_comb.pdf
-file_size: ''
+file_size: 112591
 file_type: application/pdf
 image_metadata:
   caption: ''

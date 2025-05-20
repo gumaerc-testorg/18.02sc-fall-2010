@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements and solutions related to vectors.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/bc8ee5dc17d5d9e222e8bdcdedeb10dd_MIT18_02SC_pb_1_comb.pdf
-file_size: ''
+file_size: 134239
 file_type: application/pdf
 image_metadata:
   caption: ''

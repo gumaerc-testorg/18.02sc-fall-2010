@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to potential function.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/bf5496992ab96752e11aa20b3482ef5a_MIT18_02SC_pset8sol.pdf
-file_size: ''
+file_size: 165846
 file_type: application/pdf
 image_metadata:
   caption: ''

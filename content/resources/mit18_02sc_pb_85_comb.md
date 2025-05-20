@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding del notation; flux.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/de221d87a3023e518362f4d3cd8150e8_MIT18_02SC_pb_85_comb.pdf
-file_size: ''
+file_size: 630362
 file_type: application/pdf
 image_metadata:
   caption: ''

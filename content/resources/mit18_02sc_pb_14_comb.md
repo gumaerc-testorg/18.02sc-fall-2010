@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   of planes II.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/f12146d5f7ba8ae061155d13d9076d13_MIT18_02SC_pb_14_comb.pdf
-file_size: ''
+file_size: 94456
 file_type: application/pdf
 image_metadata:
   caption: ''

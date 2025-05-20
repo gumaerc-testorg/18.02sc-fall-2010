@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to divergence theorem.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/40f8e2ee50d708a3f0459c8eca5fb512_MIT18_02SC_exam4sol.pdf
-file_size: ''
+file_size: 188525
 file_type: application/pdf
 image_metadata:
   caption: ''

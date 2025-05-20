@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to square systems.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/523f43e34125d1497df40270d865cc8a_MIT18_02SC_pb_16_quest.pdf
-file_size: ''
+file_size: 63745
 file_type: application/pdf
 image_metadata:
   caption: ''

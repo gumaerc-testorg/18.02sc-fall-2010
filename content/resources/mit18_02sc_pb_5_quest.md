@@ -4,7 +4,7 @@ description: This resource contains problem statements related to area and deter
   in 2D.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/57711a861227a87360f4e12f0eabc372_MIT18_02SC_pb_5_quest.pdf
-file_size: ''
+file_size: 78900
 file_type: application/pdf
 image_metadata:
   caption: ''

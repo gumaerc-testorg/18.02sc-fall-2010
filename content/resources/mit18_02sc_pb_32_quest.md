@@ -4,7 +4,7 @@ description: This resource contains problem statements related to the proof of p
   to level curves.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/4fcfe6b7f2d054c0656cf2078402c335_MIT18_02SC_pb_32_quest.pdf
-file_size: ''
+file_size: 74136
 file_type: application/pdf
 image_metadata:
   caption: ''

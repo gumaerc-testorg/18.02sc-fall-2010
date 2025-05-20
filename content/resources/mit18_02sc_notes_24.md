@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to integration in polar coordinates.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ccaae11972cfc4c1987bcceffa660728_MIT18_02SC_notes_24.pdf
-file_size: ''
+file_size: 199448
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 50: Double Integrals in Polar Coordinates'

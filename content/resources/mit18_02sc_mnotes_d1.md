@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to determinant.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/f8f90e68ad5ec1db6be2a179b3f9bc7b_MIT18_02SC_MNotes_d1.pdf
-file_size: ''
+file_size: 100276
 file_type: application/pdf
 image_metadata:
   caption: ''

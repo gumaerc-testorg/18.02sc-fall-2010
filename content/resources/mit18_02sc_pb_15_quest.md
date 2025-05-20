@@ -4,7 +4,7 @@ description: This resource contains problem statements related to linear systems
   planes.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ddfe0f37c5a9019d63e4548de992d120_MIT18_02SC_pb_15_quest.pdf
-file_size: ''
+file_size: 54765
 file_type: application/pdf
 image_metadata:
   caption: ''

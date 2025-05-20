@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to vector components.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/6d37211262443a5748b24696f1801841_MIT18_02SC_pb_4_quest.pdf
-file_size: ''
+file_size: 105563
 file_type: application/pdf
 image_metadata:
   caption: ''

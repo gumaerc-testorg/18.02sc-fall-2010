@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to vector fields in the plane.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/1ef7e2edb520f01cab5bf31d4053c8c4_MIT18_02SC_MNotes_v8.pdf
-file_size: ''
+file_size: 85275
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 79: Vector Fields in Space'

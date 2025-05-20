@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding vector fields in space.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/957c453bc01d676ea31cf0b98afcf1f6_MIT18_02SC_pb_79_comb.pdf
-file_size: ''
+file_size: 153433
 file_type: application/pdf
 image_metadata:
   caption: ''

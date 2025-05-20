@@ -4,14 +4,14 @@ description: This resource contains information related to changing variables in
   integrals.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/53cab862607d9ad1abdab1a10013be9e_MIT18_02SC_MNotes_cv1.pdf
-file_size: ''
+file_size: 91903
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 53: Change of Variables'

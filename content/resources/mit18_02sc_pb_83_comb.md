@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding flux through a paraboloid.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ffecf665b0dfa653099ccc8fbdd4d099_MIT18_02SC_pb_83_comb.pdf
-file_size: ''
+file_size: 158370
 file_type: application/pdf
 image_metadata:
   caption: ''

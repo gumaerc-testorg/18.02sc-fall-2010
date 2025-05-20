@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   triple integrals.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/a070d9639af8073fa9ee0d9b265fe171_MIT18_02SC_SupProbSol5.pdf
-file_size: ''
+file_size: 171199
 file_type: application/pdf
 image_metadata:
   caption: ''

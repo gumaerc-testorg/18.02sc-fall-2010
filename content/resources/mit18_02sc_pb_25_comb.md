@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   derivatives.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/66d48ec2069664661fd3da96a7333c76_MIT18_02SC_pb_25_comb.pdf
-file_size: ''
+file_size: 106633
 file_type: application/pdf
 image_metadata:
   caption: ''

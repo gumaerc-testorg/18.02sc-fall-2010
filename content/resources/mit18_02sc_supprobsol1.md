@@ -4,7 +4,7 @@ description: This resource contains the solutions for the problem statements rel
   to vectors and matrices.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/5a180046cc9037f4c26e13d3c3afc64f_MIT18_02SC_SupProbSol1.pdf
-file_size: ''
+file_size: 344453
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains information related to divergence and gradie
   of the density.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/eebfea1c1dab8376092e0edd86828e58_MIT18_02SC_pset9sol.pdf
-file_size: ''
+file_size: 158511
 file_type: application/pdf
 image_metadata:
   caption: ''

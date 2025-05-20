@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to vectore methods.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/904c6ca3318bd35307bb65ba3dd0f50e_MIT18_02SC_pracfinal.pdf
-file_size: ''
+file_size: 101588
 file_type: application/pdf
 image_metadata:
   caption: ''

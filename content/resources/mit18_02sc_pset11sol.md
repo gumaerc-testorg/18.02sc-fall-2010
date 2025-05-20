@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to law of cosines.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/dd2261f1b307ae4b6cf2de90cfe3d8f4_MIT18_02SC_pset11sol.pdf
-file_size: ''
+file_size: 215963
 file_type: application/pdf
 image_metadata:
   caption: ''

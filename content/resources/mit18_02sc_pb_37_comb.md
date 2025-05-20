@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains problems and solutions related to moment of inertia. '
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/aa165f9aae6feb69ee35572906a8e620_MIT18_02SC_pb_37_comb.pdf
-file_size: ''
+file_size: 118894
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to vector field. \r\n\r\n"
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/6223b043b82390b3419c572580dde1fc_MIT18_02SC_prac4A.pdf
-file_size: ''
+file_size: 117809
 file_type: application/pdf
 image_metadata:
   caption: ''

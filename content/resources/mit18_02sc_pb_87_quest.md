@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding harmonic functions and averages.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/d3b45f9b49abd97fa10d20fcf99cc886_MIT18_02SC_pb_87_quest.pdf
-file_size: ''
+file_size: 168871
 file_type: application/pdf
 image_metadata:
   caption: ''

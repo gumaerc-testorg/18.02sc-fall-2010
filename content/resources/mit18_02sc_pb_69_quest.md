@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding flux across curves.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/0ed4c48346edcb7411275f407db84754_MIT18_02SC_pb_69_quest.pdf
-file_size: ''
+file_size: 105735
 file_type: application/pdf
 image_metadata:
   caption: ''

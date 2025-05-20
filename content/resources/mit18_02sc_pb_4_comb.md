@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   components.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/2086208dc35486fe4037bede6ddad69c_MIT18_02SC_pb_4_comb.pdf
-file_size: ''
+file_size: 114551
 file_type: application/pdf
 image_metadata:
   caption: ''

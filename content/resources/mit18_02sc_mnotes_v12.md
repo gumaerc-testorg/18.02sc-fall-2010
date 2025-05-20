@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to gradient fields in space.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/b30cc37bba576d91d0c9c60dd7368b16_MIT18_02SC_MNotes_v12.pdf
-file_size: ''
+file_size: 127115
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 89: Gradient Fields and Potential Functions'

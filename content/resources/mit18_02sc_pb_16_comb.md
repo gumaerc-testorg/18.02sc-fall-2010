@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   of square systems.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/19b79f0006b255c6e424850f9ea0a810_MIT18_02SC_pb_16_comb.pdf
-file_size: ''
+file_size: 123265
 file_type: application/pdf
 image_metadata:
   caption: ''

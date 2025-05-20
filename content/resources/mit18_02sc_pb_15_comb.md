@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   systems and planes.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/988501af6a641704fdaadd8cb8c40960_MIT18_02SC_pb_15_comb.pdf
-file_size: ''
+file_size: 75702
 file_type: application/pdf
 image_metadata:
   caption: ''

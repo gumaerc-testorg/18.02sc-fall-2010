@@ -4,14 +4,14 @@ description: This resource contains information related to parametric equations 
   curves.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/cf83cf53826ae477eaeeb1caf05b1cab_MIT18_02SC_notes_8.pdf
-file_size: ''
+file_size: 127069
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 15: Equations of Lines'

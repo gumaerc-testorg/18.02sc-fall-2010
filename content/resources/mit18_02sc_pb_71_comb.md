@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding extended green's theorem.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/7f95d781c281a1aa5606a72ec079673e_MIT18_02SC_pb_71_comb.pdf
-file_size: ''
+file_size: 619872
 file_type: application/pdf
 image_metadata:
   caption: ''

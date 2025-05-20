@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-02sc-multivariable-calculus-fall-2010/281f06114cb9baffdba2e811dd7d86ac_go.jar
+file_size: 59807
 file_type: application/java-archive
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

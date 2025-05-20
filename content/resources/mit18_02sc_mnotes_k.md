@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to kepler\u2019s second law."
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/040b72c08d4f0ef67faf085066e1cc71_MIT18_02SC_MNotes_k.pdf
-file_size: ''
+file_size: 95213
 file_type: application/pdf
 image_metadata:
   caption: ''

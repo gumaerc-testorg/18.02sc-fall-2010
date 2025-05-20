@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding simply connected regions.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/044a786f6b25d0a16387906e2555b31c_MIT18_02SC_pb_94_quest.pdf
-file_size: ''
+file_size: 103709
 file_type: application/pdf
 image_metadata:
   caption: ''

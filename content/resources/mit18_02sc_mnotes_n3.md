@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to abstract partial differentiation.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ab0c0ef91fd30539282a3fd2477abdf0_MIT18_02SC_MNotes_n3.pdf
-file_size: ''
+file_size: 80784
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 43: Clearer Notation'

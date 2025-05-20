@@ -3,14 +3,14 @@ content_type: resource
 description: This resource contains information related to gradient fields.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/3a1b52c21f342f3dcbea16e8cb2f2824_MIT18_02SC_MNotes_v2.1.pdf
-file_size: ''
+file_size: 81376
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 62: Gradient Fields'

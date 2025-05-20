@@ -4,7 +4,7 @@ description: This resource contains problem statements related to velocity and a
   length.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/26c788675387b3565a473e3ba0915d26_MIT18_02SC_pb_21_quest.pdf
-file_size: ''
+file_size: 89037
 file_type: application/pdf
 image_metadata:
   caption: ''

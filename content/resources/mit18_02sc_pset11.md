@@ -4,7 +4,7 @@ description: This resource contains information related to 3D vector fields, sur
   integrals and flux.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/3ab56b603e45206b3b455dfe15791e44_MIT18_02SC_pset11.pdf
-file_size: ''
+file_size: 129599
 file_type: application/pdf
 image_metadata:
   caption: ''

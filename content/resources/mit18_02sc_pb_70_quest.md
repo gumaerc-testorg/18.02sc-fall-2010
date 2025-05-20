@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding normal form of green's theorem.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/aba13555e576d7bbe4ce573bc5f3b1f4_MIT18_02SC_pb_70_quest.pdf
-file_size: ''
+file_size: 94886
 file_type: application/pdf
 image_metadata:
   caption: ''

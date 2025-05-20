@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to cross product.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/38b6892f5294ed562cf3dedaf5b99ba4_MIT18_02SC_notes_3.pdf
-file_size: ''
+file_size: 141603
 file_type: application/pdf
 image_metadata:
   caption: ''

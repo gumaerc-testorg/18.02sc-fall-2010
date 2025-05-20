@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to least squares.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/fd127c938827eab01ab5d0aff1b20f72_MIT18_02SC_pb_28_quest.pdf
-file_size: ''
+file_size: 79951
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding green's theorem and area.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/d5409ec6b0bf7f207833a545d7442c9b_MIT18_02SC_pb_68_comb.pdf
-file_size: ''
+file_size: 125605
 file_type: application/pdf
 image_metadata:
   caption: ''

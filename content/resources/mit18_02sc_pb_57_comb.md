@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding work and line integrals.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/4fd0224e89b48c9cc51c3acfd3a77aad_MIT18_02SC_pb_57_comb.pdf
-file_size: ''
+file_size: 133157
 file_type: application/pdf
 image_metadata:
   caption: ''

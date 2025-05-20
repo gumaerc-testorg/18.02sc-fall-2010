@@ -4,7 +4,7 @@ description: This resource contains information regarding polar coordinates and 
   jacobian.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/406c26cdf850ffc6d243e8be69abdf02_MIT18_02SC_pb_54_quest.pdf
-file_size: ''
+file_size: 108646
 file_type: application/pdf
 image_metadata:
   caption: ''

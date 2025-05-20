@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   problems.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/1f31f2e8eba1ad83251380e11f108971_MIT18_02SC_pb_27_comb.pdf
-file_size: ''
+file_size: 86257
 file_type: application/pdf
 image_metadata:
   caption: ''

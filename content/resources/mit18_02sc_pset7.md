@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to shell method.\r\n"
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/ccf6356378d47a90511b5105cbd7b824_MIT18_02SC_pset7.pdf
-file_size: ''
+file_size: 149205
 file_type: application/pdf
 image_metadata:
   caption: ''

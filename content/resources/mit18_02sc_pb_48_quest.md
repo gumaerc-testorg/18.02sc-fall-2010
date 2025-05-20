@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding regions of integration.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/e4cacbe981ed9c084b3f6e47075c0880_MIT18_02SC_pb_48_quest.pdf
-file_size: ''
+file_size: 101229
 file_type: application/pdf
 image_metadata:
   caption: ''

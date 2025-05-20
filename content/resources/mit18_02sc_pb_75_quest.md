@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding practice with triple integrals.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/dd43a5b1ff2a99961d94d9cd5d613bbe_MIT18_02SC_pb_75_quest.pdf
-file_size: ''
+file_size: 94378
 file_type: application/pdf
 image_metadata:
   caption: ''

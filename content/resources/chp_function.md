@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-02sc-multivariable-calculus-fall-2010/c769eb3cee6cd9a354fb0de27c3e4b47_chp_function.jpg
+file_size: 11437
 file_type: image/jpeg
 image_metadata:
   caption: ''

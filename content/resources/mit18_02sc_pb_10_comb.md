@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   multiplication.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/e2a4fce62976e74e34767839aa7b3626_MIT18_02SC_pb_10_comb.pdf
-file_size: ''
+file_size: 89965
 file_type: application/pdf
 image_metadata:
   caption: ''

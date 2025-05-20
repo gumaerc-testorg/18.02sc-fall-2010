@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to geometric argument.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/378ff61797746177a933b67e50f1f074_MIT18_02SC_pset2.pdf
-file_size: ''
+file_size: 102522
 file_type: application/pdf
 image_metadata:
   caption: ''

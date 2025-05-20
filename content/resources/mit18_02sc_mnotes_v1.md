@@ -4,14 +4,14 @@ description: This resource contains information related to vector fields in the 
   and gradient fields.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/1a6e16c878eb5aa8b580fe021dfa7f3d_MIT18_02SC_MNotes_v1.pdf
-file_size: ''
+file_size: 147119
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 56: Vector Fields'

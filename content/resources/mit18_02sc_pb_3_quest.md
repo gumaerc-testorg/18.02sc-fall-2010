@@ -4,7 +4,7 @@ description: This resource contains problem statements related to uses of the do
   product.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/3901b64bbe9fffc0c118278468c6d564_MIT18_02SC_pb_3_quest.pdf
-file_size: ''
+file_size: 107599
 file_type: application/pdf
 image_metadata:
   caption: ''

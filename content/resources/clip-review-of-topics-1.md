@@ -4,14 +4,14 @@ description: ''
 draft: false
 end_time: '2390'
 file: null
-file_size: ''
+file_size: '105075233'
 file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''

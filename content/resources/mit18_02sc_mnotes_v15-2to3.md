@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to relation to physics.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/3f371db51e1ee3540e6f0ff50e46d07b_MIT18_02SC_MNotes_v15.2to3.pdf
-file_size: ''
+file_size: 128362
 file_type: application/pdf
 image_metadata:
   caption: ''

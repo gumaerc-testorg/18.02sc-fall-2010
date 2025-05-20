@@ -4,7 +4,7 @@ description: This resource contains problem statements and solutions related to 
   and determinants in space.
 draft: false
 file: /courses/18-02sc-multivariable-calculus-fall-2010/efc7d9a535e851514b2c2f59e13ebbad_MIT18_02SC_pb_6_comb.pdf
-file_size: ''
+file_size: 92971
 file_type: application/pdf
 image_metadata:
   caption: ''

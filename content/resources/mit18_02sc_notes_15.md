@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to level curves and contour
   plots.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/d32be016df4d1bcf9c9e32cb109db15b_MIT18_02SC_notes_15.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/d32be016df4d1bcf9c9e32cb109db15b_MIT18_02SC_notes_15.pdf
 file_size: 256016
 file_type: application/pdf
 image_metadata:

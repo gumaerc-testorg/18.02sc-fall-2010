@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements and solutions related to matrix
   inverses.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/06054059af5bc60cbae362924590e03e_MIT18_02SC_pb_12_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/06054059af5bc60cbae362924590e03e_MIT18_02SC_pb_12_comb.pdf
 file_size: 113024
 file_type: application/pdf
 image_metadata:

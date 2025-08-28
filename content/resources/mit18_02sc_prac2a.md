@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to topographical map.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/8d46e0b6446f4a0e3a8b8dfb868a90b5_MIT18_02SC_prac2A.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/8d46e0b6446f4a0e3a8b8dfb868a90b5_MIT18_02SC_prac2A.pdf
 file_size: 145457
 file_type: application/pdf
 image_metadata:

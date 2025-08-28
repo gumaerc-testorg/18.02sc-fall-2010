@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to partial differential equations.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ff44c3d5eeca06ceb075cdfc2b466f4b_MIT18_02SC_MNotes_p.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ff44c3d5eeca06ceb075cdfc2b466f4b_MIT18_02SC_MNotes_p.pdf
 file_size: 93194
 file_type: application/pdf
 image_metadata:

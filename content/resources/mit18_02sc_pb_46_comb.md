@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lagrange multipliers.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/693d40c750e1db7d97c2849986f04029_MIT18_02SC_pb_46_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/693d40c750e1db7d97c2849986f04029_MIT18_02SC_pb_46_comb.pdf
 file_size: 143990
 file_type: application/pdf
 image_metadata:

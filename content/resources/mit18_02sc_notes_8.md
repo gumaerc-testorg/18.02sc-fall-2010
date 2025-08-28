@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to parametric equations of
   curves.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/cf83cf53826ae477eaeeb1caf05b1cab_MIT18_02SC_notes_8.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/cf83cf53826ae477eaeeb1caf05b1cab_MIT18_02SC_notes_8.pdf
 file_size: 127069
 file_type: application/pdf
 image_metadata:

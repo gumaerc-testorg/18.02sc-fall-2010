@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to volkswagen bug.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b5f9a492d8df6830a816bba6c13aecef_MIT18_02SC_exam1.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b5f9a492d8df6830a816bba6c13aecef_MIT18_02SC_exam1.pdf
 file_size: 127232
 file_type: application/pdf
 image_metadata:

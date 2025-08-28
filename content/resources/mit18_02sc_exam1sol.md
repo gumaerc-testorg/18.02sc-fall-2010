@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to rear bumper.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/c77745b9eb93ee503a5e7f914907804b_MIT18_02SC_exam1sol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/c77745b9eb93ee503a5e7f914907804b_MIT18_02SC_exam1sol.pdf
 file_size: 172931
 file_type: application/pdf
 image_metadata:

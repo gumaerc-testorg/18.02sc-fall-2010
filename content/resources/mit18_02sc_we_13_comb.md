@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to least squares interpolation. '
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/af07112aca18cb84b977de34011c0077_MIT18_02SC_we_13_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/af07112aca18cb84b977de34011c0077_MIT18_02SC_we_13_comb.pdf
 file_size: 104423
 file_type: application/pdf
 image_metadata:

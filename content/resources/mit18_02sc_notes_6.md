@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to distances to planes and
   lines.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/0768ecb704c18ede11fae15923c160f8_MIT18_02SC_notes_6.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/0768ecb704c18ede11fae15923c160f8_MIT18_02SC_notes_6.pdf
 file_size: 145903
 file_type: application/pdf
 image_metadata:

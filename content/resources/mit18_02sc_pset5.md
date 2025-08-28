@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to linear approximation.\r\
   \n"
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/870f3d3f4063d3ac8513be605c29da14_MIT18_02SC_pset5.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/870f3d3f4063d3ac8513be605c29da14_MIT18_02SC_pset5.pdf
 file_size: 134624
 file_type: application/pdf
 image_metadata:

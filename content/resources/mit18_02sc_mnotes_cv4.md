@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to changing coordinates in
   triple integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ab771b912c2e6220337c3e4ee7243a33_MIT18_02SC_MNotes_cv4.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ab771b912c2e6220337c3e4ee7243a33_MIT18_02SC_MNotes_cv4.pdf
 file_size: 50079
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to gradient fields in space.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b30cc37bba576d91d0c9c60dd7368b16_MIT18_02SC_MNotes_v12.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b30cc37bba576d91d0c9c60dd7368b16_MIT18_02SC_MNotes_v12.pdf
 file_size: 127115
 file_type: application/pdf
 image_metadata:

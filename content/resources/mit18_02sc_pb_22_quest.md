@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to Kepler's second
   law.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/fb00223c41260e607ce425e459e8b6d0_MIT18_02SC_pb_22_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/fb00223c41260e607ce425e459e8b6d0_MIT18_02SC_pb_22_quest.pdf
 file_size: 72534
 file_type: application/pdf
 image_metadata:

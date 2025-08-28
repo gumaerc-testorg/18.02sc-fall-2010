@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements and solutions related to velocity
   and acceleration.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/a8bae81352ba8beb11a67e8a13520893_MIT18_02SC_pb_20_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/a8bae81352ba8beb11a67e8a13520893_MIT18_02SC_pb_20_comb.pdf
 file_size: 106782
 file_type: application/pdf
 image_metadata:

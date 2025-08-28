@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding change of variables.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/7bca49e65056112275c93fa45d417f46_MIT18_02SC_pb_53_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/7bca49e65056112275c93fa45d417f46_MIT18_02SC_pb_53_comb.pdf
 file_size: 144875
 file_type: application/pdf
 image_metadata:

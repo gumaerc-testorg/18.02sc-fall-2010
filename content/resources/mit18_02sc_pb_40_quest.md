@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding chain rule practice.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/534e4132c0234c2ac9517f5feb0b84dd_MIT18_02SC_pb_40_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/534e4132c0234c2ac9517f5feb0b84dd_MIT18_02SC_pb_40_quest.pdf
 file_size: 94889
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to total differentials
   and chain rule.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/94a0b57dd7830bfd856c7fa7f38794bd_MIT18_02SC_pb_30_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/94a0b57dd7830bfd856c7fa7f38794bd_MIT18_02SC_pb_30_quest.pdf
 file_size: 82253
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to proof of stokes\u2019\
   \ theorem."
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/41527923bc920dd4aace150f72a87f96_MIT18_02SC_MNotes_v13.3.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/41527923bc920dd4aace150f72a87f96_MIT18_02SC_MNotes_v13.3.pdf
 file_size: 89951
 file_type: application/pdf
 image_metadata:

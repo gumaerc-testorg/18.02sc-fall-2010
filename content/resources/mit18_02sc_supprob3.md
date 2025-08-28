@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to double integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/20dccbe7a22d354fb8d7fb0a630f2f05_MIT18_02SC_SupProb3.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/20dccbe7a22d354fb8d7fb0a630f2f05_MIT18_02SC_SupProb3.pdf
 file_size: 132364
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to parametric equations.\r\
   \n"
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/04e1365ae9ea9e0263c9465669db310d_MIT18_02SC_pset3.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/04e1365ae9ea9e0263c9465669db310d_MIT18_02SC_pset3.pdf
 file_size: 132414
 file_type: application/pdf
 image_metadata:

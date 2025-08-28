@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to geometry of linear systems
   of equations.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b75b75a77749292f4bb34d709e91379d_MIT18_02SC_notes_7.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b75b75a77749292f4bb34d709e91379d_MIT18_02SC_notes_7.pdf
 file_size: 111592
 file_type: application/pdf
 image_metadata:

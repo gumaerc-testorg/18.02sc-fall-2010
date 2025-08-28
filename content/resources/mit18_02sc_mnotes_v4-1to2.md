@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to green\u2019s theorem for\
   \ flux."
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ea8e087bdf4408dda425f48d85f02ada_MIT18_02SC_MNotes_v4.1to2.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ea8e087bdf4408dda425f48d85f02ada_MIT18_02SC_MNotes_v4.1to2.pdf
 file_size: 95338
 file_type: application/pdf
 image_metadata:

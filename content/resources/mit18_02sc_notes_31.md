@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to green's theorem and conversation
   fields.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b952917b2edd0382f7dd14fe3e0c32fb_MIT18_02SC_notes_31.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b952917b2edd0382f7dd14fe3e0c32fb_MIT18_02SC_notes_31.pdf
 file_size: 120095
 file_type: application/pdf
 image_metadata:

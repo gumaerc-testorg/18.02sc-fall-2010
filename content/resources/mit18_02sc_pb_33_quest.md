@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to advanced example
   of Lagrange's multipliers and constrained differentials.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/879d99a98c2fd20e16d4fcb9f7310616_MIT18_02SC_pb_33_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/879d99a98c2fd20e16d4fcb9f7310616_MIT18_02SC_pb_33_quest.pdf
 file_size: 55870
 file_type: application/pdf
 image_metadata:

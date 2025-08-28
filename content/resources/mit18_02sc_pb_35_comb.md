@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the solutions to the problem related to double
   integration.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b3f2a0a1498b3b8554ea7ecbc517201f_MIT18_02SC_pb_35_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b3f2a0a1498b3b8554ea7ecbc517201f_MIT18_02SC_pb_35_comb.pdf
 file_size: 122522
 file_type: application/pdf
 image_metadata:

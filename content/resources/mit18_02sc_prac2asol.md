@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to lagrange multiplier equation.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/28e92bddfd9d2affcbda6a982c2d2a75_MIT18_02SC_prac2Asol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/28e92bddfd9d2affcbda6a982c2d2a75_MIT18_02SC_prac2Asol.pdf
 file_size: 133028
 file_type: application/pdf
 image_metadata:

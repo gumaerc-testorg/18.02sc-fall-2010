@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to gradient: definition and
   properties.'
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/6d4f46e89733b7291f86a22882aa2311_MIT18_02SC_notes_18.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/6d4f46e89733b7291f86a22882aa2311_MIT18_02SC_notes_18.pdf
 file_size: 167485
 file_type: application/pdf
 image_metadata:

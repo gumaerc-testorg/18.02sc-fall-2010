@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to green\u2019s theorem in\
   \ normal form."
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/d18774dd8a3f24001bf3d502fef7f854_MIT18_02SC_MNotes_v4.3.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/d18774dd8a3f24001bf3d502fef7f854_MIT18_02SC_MNotes_v4.3.pdf
 file_size: 70348
 file_type: application/pdf
 image_metadata:

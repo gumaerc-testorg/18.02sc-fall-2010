@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains problems and solutions related to work integrals. '
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/9130c47c485030c068cf2323d6fe984c_MIT18_02SC_pb_38_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/9130c47c485030c068cf2323d6fe984c_MIT18_02SC_pb_38_comb.pdf
 file_size: 132406
 file_type: application/pdf
 image_metadata:

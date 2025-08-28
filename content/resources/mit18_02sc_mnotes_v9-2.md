@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to flux through a cylinder
   and sphere.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/be1349a499cdcb2d7be2e99ddee7359c_MIT18_02SC_MNotes_v9.2.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/be1349a499cdcb2d7be2e99ddee7359c_MIT18_02SC_MNotes_v9.2.pdf
 file_size: 80314
 file_type: application/pdf
 image_metadata:

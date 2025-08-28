@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to optimization problems.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ff30391fbc54043a2ca393a12b0a33a8_MIT18_02SC_pb_27_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ff30391fbc54043a2ca393a12b0a33a8_MIT18_02SC_pb_27_quest.pdf
 file_size: 77351
 file_type: application/pdf
 image_metadata:

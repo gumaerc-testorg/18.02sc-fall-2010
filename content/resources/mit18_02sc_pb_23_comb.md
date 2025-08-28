@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains problem statements and solutions related to functions
   of two variables: graphs.'
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/9d3a3e718f5c4d077fa51cf307c92bef_MIT18_02SC_pb_23_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/9d3a3e718f5c4d077fa51cf307c92bef_MIT18_02SC_pb_23_comb.pdf
 file_size: 113633
 file_type: application/pdf
 image_metadata:

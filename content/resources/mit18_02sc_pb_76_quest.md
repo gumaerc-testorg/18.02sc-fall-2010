@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding limits in spherical coordinates.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/3268489cdeb4f65f821515dec2748344_MIT18_02SC_pb_76_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/3268489cdeb4f65f821515dec2748344_MIT18_02SC_pb_76_quest.pdf
 file_size: 105256
 file_type: application/pdf
 image_metadata:

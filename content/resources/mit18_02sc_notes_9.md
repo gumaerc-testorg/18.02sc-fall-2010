@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to parametric curves.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/2e7855c398972f7d5da123cae42a8290_MIT18_02SC_notes_9.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/2e7855c398972f7d5da123cae42a8290_MIT18_02SC_notes_9.pdf
 file_size: 610611
 file_type: application/pdf
 image_metadata:

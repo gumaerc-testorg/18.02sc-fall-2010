@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the chain rule with constraints.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/0444bfd9fe2c14fe00c3b6e39401e160_MIT18_02SC_pb_43_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/0444bfd9fe2c14fe00c3b6e39401e160_MIT18_02SC_pb_43_quest.pdf
 file_size: 113275
 file_type: application/pdf
 image_metadata:

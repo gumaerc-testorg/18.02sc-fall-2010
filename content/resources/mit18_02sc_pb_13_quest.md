@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to equations of plane
   II.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/37dddf9e578357d34bf2b39d2dac08d3_MIT18_02SC_pb_13_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/37dddf9e578357d34bf2b39d2dac08d3_MIT18_02SC_pb_13_quest.pdf
 file_size: 70124
 file_type: application/pdf
 image_metadata:

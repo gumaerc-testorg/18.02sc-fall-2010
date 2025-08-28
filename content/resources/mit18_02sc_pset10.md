@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to spherical coordinates.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/9bfbf5bc05f40ab889390d19d58932af_MIT18_02SC_pset10.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/9bfbf5bc05f40ab889390d19d58932af_MIT18_02SC_pset10.pdf
 file_size: 626646
 file_type: application/pdf
 image_metadata:

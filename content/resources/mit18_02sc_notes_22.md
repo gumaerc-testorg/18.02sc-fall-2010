@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to proof of Lagrange's multipliers.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ebbeb8e61827a8058d2c45b674d003b3_MIT18_02SC_notes_22.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ebbeb8e61827a8058d2c45b674d003b3_MIT18_02SC_notes_22.pdf
 file_size: 662116
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to lagrange equations.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/a0d43da5e56f31dd1e41e874fe5415d2_MIT18_02SC_pracfinalsol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/a0d43da5e56f31dd1e41e874fe5415d2_MIT18_02SC_pracfinalsol.pdf
 file_size: 151114
 file_type: application/pdf
 image_metadata:

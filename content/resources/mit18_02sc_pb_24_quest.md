@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to level curves and
   contour plots.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/1b2901c7999988358a6c913b0c6669f9_MIT18_02SC_pb_24_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/1b2901c7999988358a6c913b0c6669f9_MIT18_02SC_pb_24_quest.pdf
 file_size: 58291
 file_type: application/pdf
 image_metadata:

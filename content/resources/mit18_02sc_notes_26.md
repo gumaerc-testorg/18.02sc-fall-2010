@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to moment of inertia.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/a007cb2572c17b9bcfdcfae148902da4_MIT18_02SC_notes_26.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/a007cb2572c17b9bcfdcfae148902da4_MIT18_02SC_notes_26.pdf
 file_size: 608668
 file_type: application/pdf
 image_metadata:

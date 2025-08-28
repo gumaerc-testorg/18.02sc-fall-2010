@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to flux through general surfaces.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b9ba75cb22dfa18f5976d78bb016ddc7_MIT18_02SC_MNotes_v9.3to4.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b9ba75cb22dfa18f5976d78bb016ddc7_MIT18_02SC_MNotes_v9.3to4.pdf
 file_size: 129475
 file_type: application/pdf
 image_metadata:

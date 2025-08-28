@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding testing for a conservative
   field.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/9af9200acf4862e5548d81ef8333888e_MIT18_02SC_we_90_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/9af9200acf4862e5548d81ef8333888e_MIT18_02SC_we_90_comb.pdf
 file_size: 160702
 file_type: application/pdf
 image_metadata:

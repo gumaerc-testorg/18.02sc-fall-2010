@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to second derivatives.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/11309a01a4084b35a3f2e5f375f76887_MIT18_02SC_pb_29_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/11309a01a4084b35a3f2e5f375f76887_MIT18_02SC_pb_29_quest.pdf
 file_size: 69098
 file_type: application/pdf
 image_metadata:

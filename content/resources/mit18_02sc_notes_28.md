@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to line integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/54d807cf0965f7399fdd93f732e0c109_MIT18_02SC_notes_28.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/54d807cf0965f7399fdd93f732e0c109_MIT18_02SC_notes_28.pdf
 file_size: 140121
 file_type: application/pdf
 image_metadata:

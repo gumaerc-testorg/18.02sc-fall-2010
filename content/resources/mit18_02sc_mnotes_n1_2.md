@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to partial differentiation
   and non-independent variables.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/e8bfec88100214ac350534e295633ca5_MIT18_02SC_MNotes_n1_2.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/e8bfec88100214ac350534e295633ca5_MIT18_02SC_MNotes_n1_2.pdf
 file_size: 145639
 file_type: application/pdf
 image_metadata:

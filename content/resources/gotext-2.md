@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-02sc-multivariable-calculus-fall-2010/711a135fd0d4a6b11bdb06a7004bd407_goText.jar
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/711a135fd0d4a6b11bdb06a7004bd407_goText.jar
 file_size: 9845
 file_type: application/java-archive
 learning_resource_types: []

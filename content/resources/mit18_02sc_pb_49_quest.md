@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding exchanging the order of
   integration.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/180217ef8dc6a7658621dc90a7d922db_MIT18_02SC_pb_49_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/180217ef8dc6a7658621dc90a7d922db_MIT18_02SC_pb_49_quest.pdf
 file_size: 107899
 file_type: application/pdf
 image_metadata:

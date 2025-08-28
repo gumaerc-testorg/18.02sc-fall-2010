@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to smoothness hypothesis.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ff89ab81dc34627259fcf4dc45909f85_MIT18_02SC_MNotes_ta4.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ff89ab81dc34627259fcf4dc45909f85_MIT18_02SC_MNotes_ta4.pdf
 file_size: 98528
 file_type: application/pdf
 image_metadata:

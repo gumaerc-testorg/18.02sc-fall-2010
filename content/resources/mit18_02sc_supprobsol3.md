@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   double integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/09f91c1171dfddd133f6757e505d4f73_MIT18_02SC_SupProbSol3.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/09f91c1171dfddd133f6757e505d4f73_MIT18_02SC_SupProbSol3.pdf
 file_size: 208562
 file_type: application/pdf
 image_metadata:

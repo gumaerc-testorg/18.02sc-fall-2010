@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b06ea9eeb4520c370e849b76741ae68e_lagrangeMultipliersTwoVariables.jar
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b06ea9eeb4520c370e849b76741ae68e_lagrangeMultipliersTwoVariables.jar
 file_size: 14580
 file_type: application/java-archive
 image_metadata:

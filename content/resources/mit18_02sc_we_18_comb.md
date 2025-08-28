@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to non-independent variables. '
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/182461fdd6c5687262a711810904db32_MIT18_02SC_we_18_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/182461fdd6c5687262a711810904db32_MIT18_02SC_we_18_comb.pdf
 file_size: 121137
 file_type: application/pdf
 image_metadata:

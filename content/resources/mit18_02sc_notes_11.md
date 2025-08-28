@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to velocity and acceleration.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/f53b53c2dc7757c7445623020b135d4f_MIT18_02SC_notes_11.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/f53b53c2dc7757c7445623020b135d4f_MIT18_02SC_notes_11.pdf
 file_size: 151588
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to surface integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/2c1720a794622fa3dbec65e82e1f2503_MIT18_02SC_MNotes_v9.1.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/2c1720a794622fa3dbec65e82e1f2503_MIT18_02SC_MNotes_v9.1.pdf
 file_size: 76696
 file_type: application/pdf
 image_metadata:

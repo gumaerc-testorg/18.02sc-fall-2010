@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to curves in space.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/6fff06c9bb0a38f76f9cd2015798f8ed_MIT18_02SC_MNotes_v11.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/6fff06c9bb0a38f76f9cd2015798f8ed_MIT18_02SC_MNotes_v11.pdf
 file_size: 130826
 file_type: application/pdf
 image_metadata:

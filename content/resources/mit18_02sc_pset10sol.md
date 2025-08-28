@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to cylindrical coords.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/2863a0661d59629365e2c84b2a1d37ba_MIT18_02SC_pset10sol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/2863a0661d59629365e2c84b2a1d37ba_MIT18_02SC_pset10sol.pdf
 file_size: 302081
 file_type: application/pdf
 image_metadata:

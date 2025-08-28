@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to sinusoidal shape.\r\n"
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/bd96042c0631d84384f59280c7592665_MIT18_02SC_pset4sol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/bd96042c0631d84384f59280c7592665_MIT18_02SC_pset4sol.pdf
 file_size: 208025
 file_type: application/pdf
 image_metadata:

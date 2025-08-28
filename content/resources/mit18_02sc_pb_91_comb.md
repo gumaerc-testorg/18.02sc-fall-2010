@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding stokes' theorem.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ba97af37b3092b1a5089876291ea3e44_MIT18_02SC_pb_91_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ba97af37b3092b1a5089876291ea3e44_MIT18_02SC_pb_91_comb.pdf
 file_size: 168580
 file_type: application/pdf
 image_metadata:

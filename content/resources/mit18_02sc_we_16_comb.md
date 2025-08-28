@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to chain rule with more variables. '
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/182a2e56a954224138f69e294748812b_MIT18_02SC_we_16_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/182a2e56a954224138f69e294748812b_MIT18_02SC_we_16_comb.pdf
 file_size: 93198
 file_type: application/pdf
 image_metadata:

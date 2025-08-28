@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding  equation of a tangent plane.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/16b8c2599dca5e772a5884977e6f2d02_MIT18_02SC_pb_44_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/16b8c2599dca5e772a5884977e6f2d02_MIT18_02SC_pb_44_quest.pdf
 file_size: 82107
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practice with triple integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/a072b81bc9c1832dba0bd357e99c56e7_MIT18_02SC_pb_75_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/a072b81bc9c1832dba0bd357e99c56e7_MIT18_02SC_pb_75_comb.pdf
 file_size: 150932
 file_type: application/pdf
 image_metadata:

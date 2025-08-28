@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mass and average value.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/a3624e55552a4466762328f8af153133_MIT18_02SC_pb_51_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/a3624e55552a4466762328f8af153133_MIT18_02SC_pb_51_comb.pdf
 file_size: 140039
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to critical points.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/2df7f490fc5f1bd28d6e8fd391e9a964_MIT18_02SC_notes_16.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/2df7f490fc5f1bd28d6e8fd391e9a964_MIT18_02SC_notes_16.pdf
 file_size: 595007
 file_type: application/pdf
 image_metadata:

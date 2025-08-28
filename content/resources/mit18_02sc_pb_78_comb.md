@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding applications of spherical
   coordinates.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/a9db1509eac4d651c71d7e3bedc54607_MIT18_02SC_pb_78_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/a9db1509eac4d651c71d7e3bedc54607_MIT18_02SC_pb_78_comb.pdf
 file_size: 154473
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to areas and determinants. '
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/14957918d67d27e7833edd92452f1c92_MIT18_02SC_we_6_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/14957918d67d27e7833edd92452f1c92_MIT18_02SC_we_6_comb.pdf
 file_size: 122756
 file_type: application/pdf
 image_metadata:

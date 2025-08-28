@@ -2,7 +2,7 @@
 content_type: resource
 description: Tis resource contains problem statements related to triple integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/768cfad15f60e810a846cfba8a71f488_MIT18_02SC_SupProb5.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/768cfad15f60e810a846cfba8a71f488_MIT18_02SC_SupProb5.pdf
 file_size: 92309
 file_type: application/pdf
 image_metadata:

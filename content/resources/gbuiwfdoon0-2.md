@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-02sc-multivariable-calculus-fall-2010/13c0b94eba4450b1bf3eaf59de4a1011_gBuIwfdoOn0.vtt
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/13c0b94eba4450b1bf3eaf59de4a1011_gBuIwfdoOn0.vtt
 file_size: 19233
 file_type: application/x-subrip
 learning_resource_types: []

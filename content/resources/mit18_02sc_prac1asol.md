@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to octant.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/32defabf2f2d0b9c2064cd3f65f26a53_MIT18_02SC_prac1Asol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/32defabf2f2d0b9c2064cd3f65f26a53_MIT18_02SC_prac1Asol.pdf
 file_size: 174024
 file_type: application/pdf
 image_metadata:

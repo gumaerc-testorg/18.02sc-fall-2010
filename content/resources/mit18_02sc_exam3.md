@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to integration.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/d888514d0c2dcfec354fd56b8f51dd89_MIT18_02SC_exam3.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/d888514d0c2dcfec354fd56b8f51dd89_MIT18_02SC_exam3.pdf
 file_size: 118555
 file_type: application/pdf
 image_metadata:

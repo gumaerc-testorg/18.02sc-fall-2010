@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding general formula for ndS.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b00361f92e5f01a9cf6362a1f38c44ed_MIT18_02SC_we_83_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b00361f92e5f01a9cf6362a1f38c44ed_MIT18_02SC_we_83_comb.pdf
 file_size: 149528
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding finding area using line
   integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/655c095c066cee478027d815328d38a9_MIT18_02SC_we_68_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/655c095c066cee478027d815328d38a9_MIT18_02SC_we_68_comb.pdf
 file_size: 143777
 file_type: application/pdf
 image_metadata:

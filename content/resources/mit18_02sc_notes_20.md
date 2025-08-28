@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to directional derivatives.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/94a05e4b48d9481a4b9dbdef0d5d86d7_MIT18_02SC_notes_20.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/94a05e4b48d9481a4b9dbdef0d5d86d7_MIT18_02SC_notes_20.pdf
 file_size: 235728
 file_type: application/pdf
 image_metadata:

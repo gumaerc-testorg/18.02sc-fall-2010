@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding calculating flux.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/2c0ac47b2621249ff258d12c43f4e9a4_MIT18_02SC_pb_80_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/2c0ac47b2621249ff258d12c43f4e9a4_MIT18_02SC_pb_80_comb.pdf
 file_size: 138238
 file_type: application/pdf
 image_metadata:

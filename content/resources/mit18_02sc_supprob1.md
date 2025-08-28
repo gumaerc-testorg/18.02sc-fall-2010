@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to vectors and matrices.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/389f3f3c18e4b8b8975947306993983c_MIT18_02SC_SupProb1.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/389f3f3c18e4b8b8975947306993983c_MIT18_02SC_SupProb1.pdf
 file_size: 291168
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to proof of the divergence
   theorem.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/33885c2a159aacc124716eb082db7263_MIT18_02SC_MNotes_v10.2.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/33885c2a159aacc124716eb082db7263_MIT18_02SC_MNotes_v10.2.pdf
 file_size: 76828
 file_type: application/pdf
 image_metadata:

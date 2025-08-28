@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding integrals in spherical coordinates.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/e5abac263b02c6e666c05a49cc3ee8b2_MIT18_02SC_we_77_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/e5abac263b02c6e666c05a49cc3ee8b2_MIT18_02SC_we_77_comb.pdf
 file_size: 167195
 file_type: application/pdf
 image_metadata:

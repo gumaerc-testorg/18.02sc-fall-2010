@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to product rule for vector
   derivatives. '
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/c529e257bc14aa65e365699bf9e3d787_MIT18_02SC_we_10_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/c529e257bc14aa65e365699bf9e3d787_MIT18_02SC_we_10_comb.pdf
 file_size: 100578
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to inner integral and shell\
   \ method. \r\n\r\n\r\n"
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b4c07dc90604cec18e0a7c1e1b31490e_MIT18_02SC_pset7sol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b4c07dc90604cec18e0a7c1e1b31490e_MIT18_02SC_pset7sol.pdf
 file_size: 464138
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding identifying potential functions.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/8e019eba79cde65787e5b6ead9f87419_MIT18_02SC_pb_63_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/8e019eba79cde65787e5b6ead9f87419_MIT18_02SC_pb_63_comb.pdf
 file_size: 615536
 file_type: application/pdf
 image_metadata:

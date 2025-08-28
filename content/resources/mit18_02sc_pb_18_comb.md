@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements and solutions related to intersections
   of a line and a plane.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/c045007c12c0914232c10423f37ddd95_MIT18_02SC_pb_18_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/c045007c12c0914232c10423f37ddd95_MIT18_02SC_pb_18_comb.pdf
 file_size: 100236
 file_type: application/pdf
 image_metadata:

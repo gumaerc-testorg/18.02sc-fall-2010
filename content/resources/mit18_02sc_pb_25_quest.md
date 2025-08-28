@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to partial derivatives.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/e6b035a2ad04ca78b89e0e3c22d306e2_MIT18_02SC_pb_25_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/e6b035a2ad04ca78b89e0e3c22d306e2_MIT18_02SC_pb_25_quest.pdf
 file_size: 88152
 file_type: application/pdf
 image_metadata:

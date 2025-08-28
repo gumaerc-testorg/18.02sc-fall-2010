@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding gradient fields and potential
   functions.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/38770d105df1b43233eae45992b31d18_MIT18_02SC_pb_89_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/38770d105df1b43233eae45992b31d18_MIT18_02SC_pb_89_quest.pdf
 file_size: 98088
 file_type: application/pdf
 image_metadata:

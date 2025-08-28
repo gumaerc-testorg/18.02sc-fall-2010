@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding two dimensional curl.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b175b6dbf0ec4d452a6f821b56dc1b8d_MIT18_02SC_pb_64_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b175b6dbf0ec4d452a6f821b56dc1b8d_MIT18_02SC_pb_64_comb.pdf
 file_size: 116510
 file_type: application/pdf
 image_metadata:

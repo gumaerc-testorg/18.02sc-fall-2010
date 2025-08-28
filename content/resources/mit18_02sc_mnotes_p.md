@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to partial differential equations.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/52f2d984bbc8d9c8fa3ba43731182883_MIT18_02SC_MNotes_p.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/52f2d984bbc8d9c8fa3ba43731182883_MIT18_02SC_MNotes_p.pdf
 file_size: 93194
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 45: Review of Topics'

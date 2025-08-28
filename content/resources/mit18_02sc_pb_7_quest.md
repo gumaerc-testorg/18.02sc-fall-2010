@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to volumes and determinants
   in space.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/77a7decd92b56b73f13e9a235b9ff1a5_MIT18_02SC_pb_7_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/77a7decd92b56b73f13e9a235b9ff1a5_MIT18_02SC_pb_7_quest.pdf
 file_size: 80382
 file_type: application/pdf
 image_metadata:

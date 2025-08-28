@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements and solutions related to general
   parametric equations and the cycloid.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/75129f4f72e0e349f26a10ff17c9fcb2_MIT18_02SC_pb_19_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/75129f4f72e0e349f26a10ff17c9fcb2_MIT18_02SC_pb_19_comb.pdf
 file_size: 100639
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to parametrization.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/2815cfe2c21de819fe5c0fa11165308c_MIT18_02SC_pset8.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/2815cfe2c21de819fe5c0fa11165308c_MIT18_02SC_pset8.pdf
 file_size: 131897
 file_type: application/pdf
 image_metadata:

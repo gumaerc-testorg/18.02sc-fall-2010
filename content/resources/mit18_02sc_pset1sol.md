@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to tetrahedron.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/e54088826b5647514efc06071bf46ca5_MIT18_02SC_pset1sol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/e54088826b5647514efc06071bf46ca5_MIT18_02SC_pset1sol.pdf
 file_size: 143271
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding vector fields.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/9510c8d013f07eefa90ba94a4d9a096d_MIT18_02SC_pb_56_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/9510c8d013f07eefa90ba94a4d9a096d_MIT18_02SC_pb_56_comb.pdf
 file_size: 594537
 file_type: application/pdf
 image_metadata:

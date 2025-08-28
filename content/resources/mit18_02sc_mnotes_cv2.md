@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to changing variables in multiple
   integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/78a094df09c1690c6751d789acb0432a_MIT18_02SC_MNotes_cv2.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/78a094df09c1690c6751d789acb0432a_MIT18_02SC_MNotes_cv2.pdf
 file_size: 63631
 file_type: application/pdf
 image_metadata:

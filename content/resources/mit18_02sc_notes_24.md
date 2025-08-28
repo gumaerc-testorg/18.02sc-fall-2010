@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to integration in polar coordinates.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ccaae11972cfc4c1987bcceffa660728_MIT18_02SC_notes_24.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ccaae11972cfc4c1987bcceffa660728_MIT18_02SC_notes_24.pdf
 file_size: 199448
 file_type: application/pdf
 image_metadata:

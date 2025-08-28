@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to velocity, speed and arc
   length.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/ef470e8dbb5076a408d8af686bce3711_MIT18_02SC_notes_12.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/ef470e8dbb5076a408d8af686bce3711_MIT18_02SC_notes_12.pdf
 file_size: 151144
 file_type: application/pdf
 image_metadata:

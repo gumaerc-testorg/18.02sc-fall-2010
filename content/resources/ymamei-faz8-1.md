@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-02sc-multivariable-calculus-fall-2010/210f130e690c3177d2bb39fb5bd70187_YmAMEi-Faz8.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/210f130e690c3177d2bb39fb5bd70187_YmAMEi-Faz8.pdf
 file_size: 23310
 file_type: application/pdf
 learning_resource_types: []

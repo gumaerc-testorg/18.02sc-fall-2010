@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding surface independence.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/e61f04f1956293a7c16cbc61df907e41_MIT18_02SC_pb_95_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/e61f04f1956293a7c16cbc61df907e41_MIT18_02SC_pb_95_quest.pdf
 file_size: 129791
 file_type: application/pdf
 image_metadata:

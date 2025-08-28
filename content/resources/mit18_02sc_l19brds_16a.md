@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/18-02sc-multivariable-calculus-fall-2010/d48371d0a33bc591589d7f780ed0ab5d_MIT18_02SC_L19Brds_16a.png
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/d48371d0a33bc591589d7f780ed0ab5d_MIT18_02SC_L19Brds_16a.png
 file_size: 2356
 file_type: image/png
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to meaning of matrix
   multiplication.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/f13cd9df6df538215a0af6826db6bb7d_MIT18_02SC_pb_11_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/f13cd9df6df538215a0af6826db6bb7d_MIT18_02SC_pb_11_quest.pdf
 file_size: 118271
 file_type: application/pdf
 image_metadata:

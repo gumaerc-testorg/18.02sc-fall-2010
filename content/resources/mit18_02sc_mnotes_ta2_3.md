@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to tangent approximation.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/b6e262891bdea6798c2017711129ef9d_MIT18_02SC_MNotes_ta2_3.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/b6e262891bdea6798c2017711129ef9d_MIT18_02SC_MNotes_ta2_3.pdf
 file_size: 89789
 file_type: application/pdf
 image_metadata:

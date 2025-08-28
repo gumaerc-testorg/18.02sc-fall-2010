@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to matrix multiplication.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/e6f05e8dd95b31f2dc80fe3b5a6a955f_MIT18_02SC_notes_4.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/e6f05e8dd95b31f2dc80fe3b5a6a955f_MIT18_02SC_notes_4.pdf
 file_size: 102778
 file_type: application/pdf
 image_metadata:

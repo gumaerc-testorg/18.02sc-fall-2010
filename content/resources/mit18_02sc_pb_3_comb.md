@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements and solutions related to uses
   of the dot product.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/3460c89177a28db4f7d676aa35c508b4_MIT18_02SC_pb_3_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/3460c89177a28db4f7d676aa35c508b4_MIT18_02SC_pb_3_comb.pdf
 file_size: 142804
 file_type: application/pdf
 image_metadata:

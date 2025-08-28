@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding polar coordinates and the
   jacobian.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/24f64a5e3d2082cbaa9b9397f6424606_MIT18_02SC_pb_54_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/24f64a5e3d2082cbaa9b9397f6424606_MIT18_02SC_pb_54_comb.pdf
 file_size: 145788
 file_type: application/pdf
 image_metadata:

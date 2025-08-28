@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to vector fields in the plane
   and gradient fields.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/1a6e16c878eb5aa8b580fe021dfa7f3d_MIT18_02SC_MNotes_v1.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/1a6e16c878eb5aa8b580fe021dfa7f3d_MIT18_02SC_MNotes_v1.pdf
 file_size: 147119
 file_type: application/pdf
 image_metadata:

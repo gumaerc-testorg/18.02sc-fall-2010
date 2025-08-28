@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the solutions to the problems related to the cross
   product.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/1edeed419b7e944cc7ae4a79100744fa_MIT18_02SC_pb_8_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/1edeed419b7e944cc7ae4a79100744fa_MIT18_02SC_pb_8_comb.pdf
 file_size: 92576
 file_type: application/pdf
 image_metadata:

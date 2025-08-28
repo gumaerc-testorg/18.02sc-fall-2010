@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to two-dimensional flux.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/d4d8e457e8dd0c8c92f24234b52e87ae_MIT18_02SC_MNotes_v3.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/d4d8e457e8dd0c8c92f24234b52e87ae_MIT18_02SC_MNotes_v3.pdf
 file_size: 104744
 file_type: application/pdf
 image_metadata:

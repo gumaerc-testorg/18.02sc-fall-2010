@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding green's theorem.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/59fb2f923d69af75de31049ce5e98dad_MIT18_02SC_pb_65_quest.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/59fb2f923d69af75de31049ce5e98dad_MIT18_02SC_pb_65_quest.pdf
 file_size: 116600
 file_type: application/pdf
 image_metadata:

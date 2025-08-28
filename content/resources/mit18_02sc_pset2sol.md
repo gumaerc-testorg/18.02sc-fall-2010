@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to method of cofactors.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/be756e6ef4a4351c90bde6f6d85a608f_MIT18_02SC_pset2sol.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/be756e6ef4a4351c90bde6f6d85a608f_MIT18_02SC_pset2sol.pdf
 file_size: 185381
 file_type: application/pdf
 image_metadata:

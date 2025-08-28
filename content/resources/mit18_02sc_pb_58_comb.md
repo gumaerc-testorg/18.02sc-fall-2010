@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding geometric approach to line
   integrals.
 draft: false
-file: /courses/18-02sc-multivariable-calculus-fall-2010/de63abcc40a80811d37573bc43f27398_MIT18_02SC_pb_58_comb.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/de63abcc40a80811d37573bc43f27398_MIT18_02SC_pb_58_comb.pdf
 file_size: 128239
 file_type: application/pdf
 image_metadata:

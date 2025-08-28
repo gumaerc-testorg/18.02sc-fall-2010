@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-02sc-multivariable-calculus-fall-2010/dK3NEf13nPc_transcript.pdf
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/dK3NEf13nPc_transcript.pdf
 file_size: 37418
 file_type: application/pdf
 learning_resource_types: []

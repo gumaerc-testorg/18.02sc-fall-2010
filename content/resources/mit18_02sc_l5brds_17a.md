@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-02sc-multivariable-calculus-fall-2010/6fba62a7b4c5a4759f4a35514bbf220a_MIT18_02SC_L5Brds_17a.png
+file: /ol-ocw-studio-app/courses/18-02sc-multivariable-calculus-fall-2010/6fba62a7b4c5a4759f4a35514bbf220a_MIT18_02SC_L5Brds_17a.png
 file_size: 2092
 file_type: image/png
 image_metadata:

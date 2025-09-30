@@ -119,6 +119,6 @@ This OCW Scholar course is self-contained and no textbook is required. If you ha
 Technical Requirements
 ----------------------
 
-This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
+This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with {{% resource_link "a4ac3feb-e44d-4ea5-aada-ebef5f146450" "Firefox" %}}, {{% resource_link "97c67ddd-e4f4-42c8-b97d-28913c259097" "Safari" %}} or {{% resource_link "8c850866-41cf-4825-ba81-b9f0ca7702ef" "Chrome" %}}.
 
 « [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 670edba6-2cf4-bbd8-3537-93d6e066fb6c "Next" %}} »
